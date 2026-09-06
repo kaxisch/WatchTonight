@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T04:47:40.660144+08:00",
+  "generated_at": "2026-09-07T07:07:27.721572+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 66,
@@ -997,8 +997,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 249,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -1474,8 +1474,8 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "7.0",
-        "rt": "73%",
-        "mc": "68",
+        "rt": "72%",
+        "mc": "67",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
@@ -1484,13 +1484,13 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 60,
-            "lastChanged": "2026-09-05T12:54:50.419283+08:00"
+            "votes": 61,
+            "lastChanged": "2026-09-07T07:07:27.721572+08:00"
           },
           "mc": {
             "source": "mdblist",
-            "votes": 23,
-            "lastChanged": "2026-09-05T05:01:33.835992+08:00"
+            "votes": 24,
+            "lastChanged": "2026-09-07T07:07:27.721572+08:00"
           }
         },
         "trailerKey": "HZkGZqypnBM",
@@ -1733,8 +1733,8 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aBtS3yCWReAen3OefxBXedbArFI.jpg",
-        "voteAverage": "6.7",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+        "voteAverage": "6.8",
         "genre": [
           "驚悚"
         ],
@@ -1852,8 +1852,8 @@
             "job": "Writer"
           }
         ],
-        "budget": 0,
-        "revenue": 0,
+        "budget": 3000000,
+        "revenue": 3443026,
         "status": "Released",
         "origLang": "en",
         "origTitle": "Fall 2: Deadpoint",
@@ -1871,8 +1871,8 @@
           ],
           "synopsis": "妹妹杭特去世後，賈克斯悲痛欲絕，為了療傷，她邀請大膽的好友露絲一起挑戰泰國關山惡名昭彰的棧板步道。然而，突如其來的山崩讓她們困在距離地表3000英尺的高空，腳下只剩幾片殘存的木板。為了活下去，賈克斯必須面對內心最深的恐懼……",
           "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/aBtS3yCWReAen3OefxBXedbArFI.jpg",
-          "voteAverage": "6.7",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+          "voteAverage": "6.8",
           "trailerKey": "9spjI5Y0jPg",
           "imdbId": "tt31192372",
           "countries": [
@@ -1975,8 +1975,8 @@
               "job": "Writer"
             }
           ],
-          "budget": 0,
-          "revenue": 0,
+          "budget": 3000000,
+          "revenue": 3443026,
           "status": "Released",
           "origLang": "en",
           "origTitle": "Fall 2: Deadpoint",
@@ -6565,7 +6565,7 @@
           }
         ],
         "budget": 110000000,
-        "revenue": 19300000,
+        "revenue": 33037035,
         "status": "Released",
         "origLang": "en",
         "origTitle": "The Dog Stars",
@@ -6683,7 +6683,7 @@
             }
           ],
           "budget": 110000000,
-          "revenue": 19300000,
+          "revenue": 33037035,
           "status": "Released",
           "origLang": "en",
           "origTitle": "The Dog Stars",
@@ -10497,7 +10497,7 @@
           }
         ],
         "budget": 40000000,
-        "revenue": 106000000,
+        "revenue": 138326933,
         "status": "Released",
         "origLang": "en",
         "origTitle": "PAW Patrol: The Dino Movie",
@@ -10624,7 +10624,7 @@
             }
           ],
           "budget": 40000000,
-          "revenue": 106000000,
+          "revenue": 138326933,
           "status": "Released",
           "origLang": "en",
           "origTitle": "PAW Patrol: The Dino Movie",
@@ -11383,7 +11383,7 @@
           }
         ],
         "budget": 80000000,
-        "revenue": 106380151,
+        "revenue": 115180511,
         "status": "Released",
         "origLang": "en",
         "origTitle": "The End of Oak Street",
@@ -11502,7 +11502,7 @@
             }
           ],
           "budget": 80000000,
-          "revenue": 106380151,
+          "revenue": 115180511,
           "status": "Released",
           "origLang": "en",
           "origTitle": "The End of Oak Street",
@@ -12700,7 +12700,7 @@
           }
         ],
         "budget": 750000,
-        "revenue": 505696715,
+        "revenue": 509876715,
         "status": "Released",
         "origLang": "en",
         "origTitle": "Obsession",
@@ -12820,7 +12820,7 @@
             }
           ],
           "budget": 750000,
-          "revenue": 505696715,
+          "revenue": 509876715,
           "status": "Released",
           "origLang": "en",
           "origTitle": "Obsession",
@@ -15873,11 +15873,11 @@
         "crew": [
           {
             "name": "蘇達",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "蘇達",
-            "job": "Director"
+            "job": "Writer"
           }
         ],
         "budget": 0,
@@ -15946,11 +15946,11 @@
           "crew": [
             {
               "name": "蘇達",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "蘇達",
-              "job": "Director"
+              "job": "Writer"
             }
           ],
           "budget": 0,
@@ -26160,7 +26160,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/afd5TWfpEwP6ELpeipTrB3RAex9.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1eTUa8YDfq7WbrTrTsUuMfLZPk3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
         "voteAverage": "",
         "genre": [
           "劇情",
@@ -26284,7 +26284,7 @@
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/afd5TWfpEwP6ELpeipTrB3RAex9.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/1eTUa8YDfq7WbrTrTsUuMfLZPk3.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
           "voteAverage": "",
           "trailerKey": "06EfqdkjSfQ",
           "imdbId": "tt37510326",

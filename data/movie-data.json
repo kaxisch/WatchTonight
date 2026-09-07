@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:12:11.716694+08:00",
+  "generated_at": "2026-09-07T21:00:13.288878+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 66,
@@ -288,7 +288,7 @@
         "origLang": "hu",
         "origTitle": "Werckmeister harmóniák",
         "platforms": [],
-        "popularity": 4.3247,
+        "popularity": 3.7691,
         "imdbId": "tt0249241",
         "countries": [
           "France",
@@ -565,7 +565,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 4.1863,
+        "popularity": 3.9122,
         "imdbId": "tt1483797",
         "countries": [
           "Japan"
@@ -1348,7 +1348,7 @@
           }
         ],
         "budget": 0,
-        "revenue": 0,
+        "revenue": 6025000,
         "status": "Released",
         "origLang": "ja",
         "origTitle": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
@@ -1437,7 +1437,7 @@
             }
           ],
           "budget": 0,
-          "revenue": 0,
+          "revenue": 6025000,
           "status": "Released",
           "origLang": "ja",
           "origTitle": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
@@ -1863,7 +1863,7 @@
         "origLang": "en",
         "origTitle": "Fall 2: Deadpoint",
         "platforms": [],
-        "popularity": 89.787,
+        "popularity": 96.6315,
         "imdbId": "tt31192372",
         "countries": [
           "United Kingdom",
@@ -2646,7 +2646,7 @@
         "origLang": "zh",
         "origTitle": "我的爸爸是死刑犯",
         "platforms": [],
-        "popularity": 1.0649,
+        "popularity": 1.0272,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -2778,7 +2778,7 @@
         "origLang": "ja",
         "origTitle": "白鳥とコウモリ",
         "platforms": [],
-        "popularity": 2.4391,
+        "popularity": 2.0897,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -3789,7 +3789,7 @@
             "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
           }
         ],
-        "popularity": 4.1577,
+        "popularity": 3.7082,
         "imdbId": "tt1736633",
         "countries": [
           "Norway"
@@ -4211,15 +4211,15 @@
         ],
         "crew": [
           {
+            "name": "單丹丹",
+            "job": "Writer"
+          },
+          {
             "name": "李闊",
             "job": "Director"
           },
           {
-            "name": "單丹丹",
-            "job": "Director"
-          },
-          {
-            "name": "單丹丹",
+            "name": "李闊",
             "job": "Writer"
           }
         ],
@@ -4323,15 +4323,15 @@
           ],
           "crew": [
             {
+              "name": "單丹丹",
+              "job": "Writer"
+            },
+            {
               "name": "李闊",
               "job": "Director"
             },
             {
-              "name": "單丹丹",
-              "job": "Director"
-            },
-            {
-              "name": "單丹丹",
+              "name": "李闊",
               "job": "Writer"
             }
           ],
@@ -4481,7 +4481,7 @@
         "origLang": "fr",
         "origTitle": "Amour Apocalypse",
         "platforms": [],
-        "popularity": 5.9803,
+        "popularity": 6.2626,
         "imdbId": "tt33335204",
         "countries": [
           "Canada"
@@ -4895,7 +4895,7 @@
         "origLang": "ja",
         "origTitle": "最終楽章 響け！ユーフォニアム 前編",
         "platforms": [],
-        "popularity": 2.1083,
+        "popularity": 2.3412,
         "imdbId": "tt39123182",
         "countries": [
           "Japan"
@@ -5823,7 +5823,7 @@
         "origLang": "ko",
         "origTitle": "그녀가 돌아온 날",
         "platforms": [],
-        "popularity": 2.2707,
+        "popularity": 2.15,
         "imdbId": "tt39368030",
         "countries": [
           "South Korea"
@@ -6285,11 +6285,11 @@
         "crew": [
           {
             "name": "押山清高",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "押山清高",
-            "job": "Screenplay"
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -6303,7 +6303,7 @@
             "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           }
         ],
-        "popularity": 14.6418,
+        "popularity": 14.6485,
         "imdbId": "tt31711040",
         "countries": [
           "Japan"
@@ -6408,11 +6408,11 @@
           "crew": [
             {
               "name": "押山清高",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "押山清高",
-              "job": "Screenplay"
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -6467,7 +6467,7 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 199,
+            "votes": 201,
             "lastChanged": "2026-09-05T11:55:22.612509+08:00"
           },
           "mc": {
@@ -6575,7 +6575,7 @@
         "origLang": "en",
         "origTitle": "The Dog Stars",
         "platforms": [],
-        "popularity": 81.8194,
+        "popularity": 75.1544,
         "imdbId": "tt21285562",
         "countries": [
           "United States of America"
@@ -8802,7 +8802,7 @@
         "origLang": "ja",
         "origTitle": "映画ラストマン -FIRST LOVE-",
         "platforms": [],
-        "popularity": 2.1465,
+        "popularity": 2.5953,
         "imdbId": "tt38691555",
         "countries": [
           "Japan"
@@ -9032,7 +9032,7 @@
         "origLang": "ja",
         "origTitle": "映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
         "platforms": [],
-        "popularity": 1.5825,
+        "popularity": 2.881,
         "imdbId": "tt36607192",
         "countries": [
           "Japan"
@@ -10507,7 +10507,7 @@
         "origLang": "en",
         "origTitle": "PAW Patrol: The Dino Movie",
         "platforms": [],
-        "popularity": 29.5061,
+        "popularity": 27.3329,
         "imdbId": "tt29356163",
         "countries": [
           "Canada",
@@ -11380,11 +11380,11 @@
         "crew": [
           {
             "name": "David Robert Mitchell",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "David Robert Mitchell",
-            "job": "Writer"
+            "job": "Director"
           }
         ],
         "budget": 80000000,
@@ -11499,11 +11499,11 @@
           "crew": [
             {
               "name": "David Robert Mitchell",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "David Robert Mitchell",
-              "job": "Writer"
+              "job": "Director"
             }
           ],
           "budget": 80000000,
@@ -11786,7 +11786,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/eaqgejzhxIJHAwC7kBbwZ2dBJgH.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/znXyQgqITDm8fJxcvmlRpKlw49T.jpg",
-        "voteAverage": "",
+        "voteAverage": "7.0",
         "genre": [
           "動作",
           "劇情"
@@ -11910,7 +11910,7 @@
           "synopsis": "為打造帶領日本奪下世界盃冠軍的最強前鋒，日本足球界啟動極端計畫「藍色監獄」，將300名高中前鋒關進封閉設施展開殘酷淘汰賽，最終只能有一人登上世界第一前鋒寶座，失敗者則永遠失去進入日本國家隊的資格，最終生存下來的，究竟是誰？",
           "poster": "https://image.tmdb.org/t/p/w500/eaqgejzhxIJHAwC7kBbwZ2dBJgH.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/znXyQgqITDm8fJxcvmlRpKlw49T.jpg",
-          "voteAverage": "",
+          "voteAverage": "7.0",
           "trailerKey": "VPUquxx20jw",
           "imdbId": "tt39400168",
           "countries": [
@@ -13955,7 +13955,7 @@
         "origLang": "ja",
         "origTitle": "君の名は。",
         "platforms": [],
-        "popularity": 26.5162,
+        "popularity": 25.7901,
         "imdbId": "tt5311514",
         "countries": [
           "Japan"
@@ -14435,7 +14435,7 @@
         "origLang": "ja",
         "origTitle": "映画ドラえもん 新・のび太の海底鬼岩城",
         "platforms": [],
-        "popularity": 18.7242,
+        "popularity": 18.9066,
         "imdbId": "tt38201958",
         "countries": [
           "Japan"
@@ -15878,11 +15878,11 @@
         "crew": [
           {
             "name": "蘇達",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "蘇達",
-            "job": "Writer"
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -15891,7 +15891,7 @@
         "origLang": "zh",
         "origTitle": "怎麼可能我家的祖先是你家的鬼",
         "platforms": [],
-        "popularity": 1.0833,
+        "popularity": 1.0659,
         "imdbId": "tt43560584",
         "countries": [
           "Taiwan"
@@ -15951,11 +15951,11 @@
           "crew": [
             {
               "name": "蘇達",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "蘇達",
-              "job": "Writer"
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -16387,16 +16387,16 @@
         ],
         "crew": [
           {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
-          },
-          {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
-          },
-          {
             "name": "Krzysztof Piesiewicz",
             "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -16519,16 +16519,16 @@
           ],
           "crew": [
             {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
-            },
-            {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
-            },
-            {
               "name": "Krzysztof Piesiewicz",
               "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -16701,7 +16701,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 8.1653,
+        "popularity": 7.3127,
         "imdbId": "tt0111495",
         "countries": [
           "France",
@@ -16969,11 +16969,11 @@
         "crew": [
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "Krzysztof Piesiewicz",
@@ -17100,11 +17100,11 @@
           "crew": [
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "Krzysztof Piesiewicz",
@@ -18035,11 +18035,11 @@
         "crew": [
           {
             "name": "約翰·卡尼",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "約翰·卡尼",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "Peter McDonald",
@@ -18160,11 +18160,11 @@
           "crew": [
             {
               "name": "約翰·卡尼",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "約翰·卡尼",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "Peter McDonald",
@@ -18200,7 +18200,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/sbvXPLREf72muvzaR2vtIfmVQWH.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-        "voteAverage": "6.2",
+        "voteAverage": "6.7",
         "genre": [
           "愛情",
           "奇幻",
@@ -18280,7 +18280,7 @@
         "origLang": "en",
         "origTitle": "Practical Magic 2",
         "platforms": [],
-        "popularity": 22.9992,
+        "popularity": 24.0349,
         "imdbId": "tt32588798",
         "countries": [
           "United States of America"
@@ -18295,7 +18295,7 @@
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/sbvXPLREf72muvzaR2vtIfmVQWH.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-          "voteAverage": "6.2",
+          "voteAverage": "6.7",
           "trailerKey": "fmMoGBw0Dkk",
           "imdbId": "tt32588798",
           "countries": [
@@ -18518,7 +18518,7 @@
         "origLang": "en",
         "origTitle": "Palestine 36",
         "platforms": [],
-        "popularity": 4.2384,
+        "popularity": 4.273,
         "imdbId": "tt29271622",
         "countries": [
           "Palestinian Territory",
@@ -18819,7 +18819,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-        "voteAverage": "",
+        "voteAverage": "7.5",
         "genre": [
           "劇情"
         ],
@@ -18916,7 +18916,7 @@
           "synopsis": "一心以成為漫畫家為目標的兩位少女藤野、京本之間青春動人的故事。",
           "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-          "voteAverage": "",
+          "voteAverage": "7.5",
           "trailerKey": "ad3giJ30GOw",
           "imdbId": "tt39094605",
           "countries": [
@@ -19225,7 +19225,7 @@
         "origLang": "zh",
         "origTitle": "獨奏者之舞",
         "platforms": [],
-        "popularity": 0.558,
+        "popularity": 0.5119,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -19534,7 +19534,7 @@
           "恐怖",
           "科幻"
         ],
-        "duration": 90,
+        "duration": "",
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -19596,7 +19596,7 @@
           "France"
         ],
         "detail": {
-          "duration": 90,
+          "duration": "",
           "genres": [
             "恐怖",
             "科幻"
@@ -20546,7 +20546,7 @@
         "origLang": "cs",
         "origTitle": "Franz",
         "platforms": [],
-        "popularity": 2.8209,
+        "popularity": 2.8098,
         "imdbId": "tt17070412",
         "countries": [
           "Czech Republic",
@@ -21847,7 +21847,7 @@
         "origLang": "ja",
         "origTitle": "ラブ≠コメディ",
         "platforms": [],
-        "popularity": 0.8575,
+        "popularity": 0.733,
         "imdbId": "tt43653895",
         "countries": [
           "Japan"
@@ -22158,11 +22158,11 @@
         ],
         "crew": [
           {
-            "name": "Liu Wei-Bin",
+            "name": "Yung-hsiang Chang",
             "job": "Screenplay"
           },
           {
-            "name": "Yung-hsiang Chang",
+            "name": "Liu Wei-Bin",
             "job": "Screenplay"
           },
           {
@@ -22279,11 +22279,11 @@
           ],
           "crew": [
             {
-              "name": "Liu Wei-Bin",
+              "name": "Yung-hsiang Chang",
               "job": "Screenplay"
             },
             {
-              "name": "Yung-hsiang Chang",
+              "name": "Liu Wei-Bin",
               "job": "Screenplay"
             },
             {
@@ -22378,11 +22378,11 @@
         "crew": [
           {
             "name": "張艾嘉",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "張艾嘉",
-            "job": "Director"
+            "job": "Screenplay"
           }
         ],
         "budget": 0,
@@ -22451,11 +22451,11 @@
           "crew": [
             {
               "name": "張艾嘉",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "張艾嘉",
-              "job": "Director"
+              "job": "Screenplay"
             }
           ],
           "budget": 0,
@@ -23165,12 +23165,12 @@
         ],
         "crew": [
           {
-            "name": "David Ayer",
-            "job": "Director"
-          },
-          {
             "name": "Cameron Alexander",
             "job": "Writer"
+          },
+          {
+            "name": "David Ayer",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -23179,7 +23179,7 @@
         "origLang": "en",
         "origTitle": "Heart of the Beast",
         "platforms": [],
-        "popularity": 19.9406,
+        "popularity": 19.1399,
         "imdbId": "tt7526136",
         "countries": [
           "United States of America"
@@ -23218,12 +23218,12 @@
           ],
           "crew": [
             {
-              "name": "David Ayer",
-              "job": "Director"
-            },
-            {
               "name": "Cameron Alexander",
               "job": "Writer"
+            },
+            {
+              "name": "David Ayer",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -23339,7 +23339,7 @@
         "origLang": "fr",
         "origTitle": "À bicyclette !",
         "platforms": [],
-        "popularity": 2.6999,
+        "popularity": 2.7542,
         "imdbId": "tt33298226",
         "countries": [
           "France"
@@ -23531,7 +23531,7 @@
           },
           {
             "name": "Jonathan Lipnicki",
-            "char": "Actor",
+            "char": "Predator (Crazyfrog73)",
             "photo": "https://image.tmdb.org/t/p/w500/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
           },
           {
@@ -23546,7 +23546,7 @@
           },
           {
             "name": "Tony Revolori",
-            "char": "",
+            "char": "Rolando Restocruz (MarriedAndLookingForFun31313)",
             "photo": "https://image.tmdb.org/t/p/w500/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
           },
           {
@@ -23650,7 +23650,7 @@
             },
             {
               "name": "Jonathan Lipnicki",
-              "char": "Actor",
+              "char": "Predator (Crazyfrog73)",
               "photo": "https://image.tmdb.org/t/p/w500/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
             },
             {
@@ -23665,7 +23665,7 @@
             },
             {
               "name": "Tony Revolori",
-              "char": "",
+              "char": "Rolando Restocruz (MarriedAndLookingForFun31313)",
               "photo": "https://image.tmdb.org/t/p/w500/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
             },
             {
@@ -23723,7 +23723,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "voteAverage": "9.4",
+        "voteAverage": "9.0",
         "genre": [
           "動作",
           "喜劇",
@@ -23829,7 +23829,7 @@
           "synopsis": "退伍特種部隊軍人漢克奉命護送醫療快遞員班，要將一副健康的肝臟送到病危的女孩手中，結果意圖搶奪肝臟的傭兵集團盯上了他們……",
           "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-          "voteAverage": "9.4",
+          "voteAverage": "9.0",
           "trailerKey": "S3Vz0fBz55A",
           "imdbId": "tt31349844",
           "countries": [
@@ -24149,7 +24149,7 @@
         "origLang": "ja",
         "origTitle": "黒牢城",
         "platforms": [],
-        "popularity": 3.9936,
+        "popularity": 3.6329,
         "imdbId": "tt39602215",
         "countries": [
           "Japan"
@@ -24361,7 +24361,7 @@
         "origLang": "ja",
         "origTitle": "5秒で完全犯罪を生成する方法",
         "platforms": [],
-        "popularity": 1.3443,
+        "popularity": 1.2905,
         "imdbId": "tt42864901",
         "countries": [
           "Japan"
@@ -24476,7 +24476,7 @@
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
-            "votes": 1483215,
+            "votes": 1485219,
             "lastChanged": "2026-09-05T21:36:31.443610+08:00"
           },
           "rt": {
@@ -24583,7 +24583,7 @@
             "job": "Screenplay"
           },
           {
-            "name": "Anthony Russo",
+            "name": "Joe Russo",
             "job": "Director"
           }
         ],
@@ -24598,7 +24598,7 @@
             "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
           }
         ],
-        "popularity": 58.8658,
+        "popularity": 62.5071,
         "imdbId": "tt4154796",
         "countries": [
           "United States of America"
@@ -24711,7 +24711,7 @@
               "job": "Screenplay"
             },
             {
-              "name": "Anthony Russo",
+              "name": "Joe Russo",
               "job": "Director"
             }
           ],
@@ -25054,7 +25054,7 @@
         "origLang": "en",
         "origTitle": "LINKIN PARK: UNSHATTER",
         "platforms": [],
-        "popularity": 2.5245,
+        "popularity": 2.387,
         "imdbId": "tt43442522",
         "countries": [
           "United States of America",
@@ -25317,7 +25317,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/oCwmjNr1e9jnkyZwi5LJqS6ulnx.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
         "voteAverage": "",
         "genre": [
           "喜劇"
@@ -25428,7 +25428,7 @@
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/oCwmjNr1e9jnkyZwi5LJqS6ulnx.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
           "voteAverage": "",
           "trailerKey": "sCs4ZEhwyjA",
           "imdbId": "tt31450459",
@@ -25811,7 +25811,7 @@
         "origLang": "da",
         "origTitle": "Mr. Nobody mod Putin",
         "platforms": [],
-        "popularity": 7.5231,
+        "popularity": 6.9013,
         "imdbId": "tt34965515",
         "countries": [
           "Denmark",
@@ -26286,7 +26286,7 @@
         "origLang": "en",
         "origTitle": "The Social Reckoning",
         "platforms": [],
-        "popularity": 8.6451,
+        "popularity": 7.6153,
         "imdbId": "tt37510326",
         "countries": [
           "United States of America"
@@ -26468,7 +26468,7 @@
         "origLang": "ja",
         "origTitle": "映画 すみっコぐらし 空の王国とふたりのコ",
         "platforms": [],
-        "popularity": 0.9238,
+        "popularity": 1.5576,
         "imdbId": "tt38859765",
         "countries": [
           "Japan"
@@ -27597,7 +27597,7 @@
         "origLang": "ja",
         "origTitle": "mentor",
         "platforms": [],
-        "popularity": 1.6299,
+        "popularity": 1.4169,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -27718,7 +27718,7 @@
         "origLang": "ja",
         "origTitle": "それいけ！アンパンマン　パンタンと約束の星",
         "platforms": [],
-        "popularity": 0.6919,
+        "popularity": 1.1455,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -28460,7 +28460,7 @@
         "origLang": "zh",
         "origTitle": "歡迎來到朵莉之家",
         "platforms": [],
-        "popularity": 1.4807,
+        "popularity": 1.3034,
         "imdbId": "tt37038996",
         "countries": [
           "Taiwan"
@@ -28581,7 +28581,7 @@
         "origLang": "zh",
         "origTitle": "世紀初戀 楊麗花",
         "platforms": [],
-        "popularity": 1.0825,
+        "popularity": 1.2438,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -29159,7 +29159,7 @@
         "origLang": "zh",
         "origTitle": "有用的人",
         "platforms": [],
-        "popularity": 1.2117,
+        "popularity": 1.3504,
         "imdbId": "tt44934439",
         "countries": [
           "Taiwan"
@@ -30170,7 +30170,7 @@
         "origLang": "en",
         "origTitle": "Violent Night 2",
         "platforms": [],
-        "popularity": 3.5726,
+        "popularity": 3.2663,
         "imdbId": "tt32432428",
         "countries": [
           "United States of America"
@@ -30410,7 +30410,7 @@
         "origLang": "en",
         "origTitle": "Dune: Part Three",
         "platforms": [],
-        "popularity": 14.7577,
+        "popularity": 14.7015,
         "imdbId": "tt31378509",
         "countries": [
           "United States of America"

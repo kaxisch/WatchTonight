@@ -1,12 +1,211 @@
 {
-  "generated_at": "2026-09-07T21:00:13.288878+08:00",
+  "generated_at": "2026-09-08T03:24:41.067343+08:00",
   "source": "api.themoviedb.org",
   "summary": {
-    "now_count": 66,
-    "soon_count": 78
+    "now_count": 67,
+    "soon_count": 77
   },
   "movies": {
     "now": [
+      {
+        "id": 1620001,
+        "titleZh": "吾子吾弟",
+        "titleEn": "National Theatre Live: All My Sons",
+        "releaseDate": "2026-09-08",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-09-08",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/ayLJCIY4GNr5L8KSOpr9WaR5O8p.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eerAtezv0jNlU1lcYe3vdRUgekx.jpg",
+        "voteAverage": "10.0",
+        "genre": [
+          "劇情"
+        ],
+        "duration": 135,
+        "synopsis": "一個家庭因商業罪行而走向毀滅的悲劇：二戰期間，工廠老闆喬凱勒靠著瑕疵軍工製品賺取巨額暴利，事件敗露後卻將罪名全推給合夥人，讓自己在戰後全身而退、安享榮華。直到得知大兒子在戰場一去不返的背後真相，喬才深刻意識到，自己終究得面對過錯所帶來的反噬與苦果。",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "布賴恩·克蘭斯頓",
+            "char": "Joe Keller",
+            "photo": "https://image.tmdb.org/t/p/w500/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+          },
+          {
+            "name": "Marianne Jean-Baptiste",
+            "char": "Kate Keller",
+            "photo": "https://image.tmdb.org/t/p/w500/bJ6p32cswcp0xvqiZC7S5tiwa2K.jpg"
+          },
+          {
+            "name": "Paapa Essiedu",
+            "char": "Chris Keller",
+            "photo": "https://image.tmdb.org/t/p/w500/qOPbY9zD3DHXzLnu0U9aNKT6Y7t.jpg"
+          },
+          {
+            "name": "Tom Glynn-Carney",
+            "char": "George Deever",
+            "photo": "https://image.tmdb.org/t/p/w500/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+          },
+          {
+            "name": "海莉·斯誇爾斯",
+            "char": "Ann Deever",
+            "photo": "https://image.tmdb.org/t/p/w500/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
+          },
+          {
+            "name": "Aliyah Odoffin",
+            "char": "Lydia Lubey",
+            "photo": "https://image.tmdb.org/t/p/w500/3ArSqbY4KBTYlz8fYSKSmYxSNAB.jpg"
+          },
+          {
+            "name": "Cath Whitefield",
+            "char": "Sue Bayliss",
+            "photo": "https://image.tmdb.org/t/p/w500/sqTTU2h87COfmhgMX9zTBKgyTBt.jpg"
+          },
+          {
+            "name": "Richard Hansell",
+            "char": "Dr Jim Bayliss",
+            "photo": "https://image.tmdb.org/t/p/w500/eFwC1GgH0vJc7sA2VjnPXosNKah.jpg"
+          },
+          {
+            "name": "Zach Wyatt",
+            "char": "Frank Lubey",
+            "photo": "https://image.tmdb.org/t/p/w500/2Bd5FqUd7fKb3Q9aKNB8bMDUvd0.jpg"
+          },
+          {
+            "name": "Stevie Raine",
+            "char": "Ensemble",
+            "photo": "https://image.tmdb.org/t/p/w500/7TqFwyf5YU4A7ZNCxqGkwwh244m.jpg"
+          },
+          {
+            "name": "Charles Dark",
+            "char": "Bert",
+            "photo": "https://image.tmdb.org/t/p/w500/AaxFGQQJrK4bKloR6XY7sl3ffnU.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "Arthur Miller",
+            "job": "Writer"
+          },
+          {
+            "name": "Ivo van Hove",
+            "job": "Director"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Released",
+        "origLang": "en",
+        "origTitle": "National Theatre Live: All My Sons",
+        "platforms": [],
+        "popularity": 2.3614,
+        "imdbId": "tt39544163",
+        "countries": [
+          "United Kingdom"
+        ],
+        "detail": {
+          "duration": 135,
+          "genres": [
+            "劇情"
+          ],
+          "synopsis": "一個家庭因商業罪行而走向毀滅的悲劇：二戰期間，工廠老闆喬凱勒靠著瑕疵軍工製品賺取巨額暴利，事件敗露後卻將罪名全推給合夥人，讓自己在戰後全身而退、安享榮華。直到得知大兒子在戰場一去不返的背後真相，喬才深刻意識到，自己終究得面對過錯所帶來的反噬與苦果。",
+          "poster": "https://image.tmdb.org/t/p/w500/ayLJCIY4GNr5L8KSOpr9WaR5O8p.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/eerAtezv0jNlU1lcYe3vdRUgekx.jpg",
+          "voteAverage": "10.0",
+          "trailerKey": null,
+          "imdbId": "tt39544163",
+          "countries": [
+            "United Kingdom"
+          ],
+          "cast": [
+            {
+              "name": "布賴恩·克蘭斯頓",
+              "char": "Joe Keller",
+              "photo": "https://image.tmdb.org/t/p/w500/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+            },
+            {
+              "name": "Marianne Jean-Baptiste",
+              "char": "Kate Keller",
+              "photo": "https://image.tmdb.org/t/p/w500/bJ6p32cswcp0xvqiZC7S5tiwa2K.jpg"
+            },
+            {
+              "name": "Paapa Essiedu",
+              "char": "Chris Keller",
+              "photo": "https://image.tmdb.org/t/p/w500/qOPbY9zD3DHXzLnu0U9aNKT6Y7t.jpg"
+            },
+            {
+              "name": "Tom Glynn-Carney",
+              "char": "George Deever",
+              "photo": "https://image.tmdb.org/t/p/w500/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+            },
+            {
+              "name": "海莉·斯誇爾斯",
+              "char": "Ann Deever",
+              "photo": "https://image.tmdb.org/t/p/w500/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
+            },
+            {
+              "name": "Aliyah Odoffin",
+              "char": "Lydia Lubey",
+              "photo": "https://image.tmdb.org/t/p/w500/3ArSqbY4KBTYlz8fYSKSmYxSNAB.jpg"
+            },
+            {
+              "name": "Cath Whitefield",
+              "char": "Sue Bayliss",
+              "photo": "https://image.tmdb.org/t/p/w500/sqTTU2h87COfmhgMX9zTBKgyTBt.jpg"
+            },
+            {
+              "name": "Richard Hansell",
+              "char": "Dr Jim Bayliss",
+              "photo": "https://image.tmdb.org/t/p/w500/eFwC1GgH0vJc7sA2VjnPXosNKah.jpg"
+            },
+            {
+              "name": "Zach Wyatt",
+              "char": "Frank Lubey",
+              "photo": "https://image.tmdb.org/t/p/w500/2Bd5FqUd7fKb3Q9aKNB8bMDUvd0.jpg"
+            },
+            {
+              "name": "Stevie Raine",
+              "char": "Ensemble",
+              "photo": "https://image.tmdb.org/t/p/w500/7TqFwyf5YU4A7ZNCxqGkwwh244m.jpg"
+            },
+            {
+              "name": "Charles Dark",
+              "char": "Bert",
+              "photo": "https://image.tmdb.org/t/p/w500/AaxFGQQJrK4bKloR6XY7sl3ffnU.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "Arthur Miller",
+              "job": "Writer"
+            },
+            {
+              "name": "Ivo van Hove",
+              "job": "Director"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Released",
+          "origLang": "en",
+          "origTitle": "National Theatre Live: All My Sons",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1620001?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
       {
         "id": 1758522,
         "titleZh": "「黑蜥蜴」「Diamond IMPULSE（鑽石衝動）」",
@@ -1096,11 +1295,11 @@
             "job": "Director"
           },
           {
-            "name": "Eskil Vogt",
+            "name": "Joachim Trier",
             "job": "Writer"
           },
           {
-            "name": "Joachim Trier",
+            "name": "Eskil Vogt",
             "job": "Writer"
           }
         ],
@@ -1230,11 +1429,11 @@
               "job": "Director"
             },
             {
-              "name": "Eskil Vogt",
+              "name": "Joachim Trier",
               "job": "Writer"
             },
             {
-              "name": "Joachim Trier",
+              "name": "Eskil Vogt",
               "job": "Writer"
             }
           ],
@@ -3947,7 +4146,7 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 280,
+            "votes": 282,
             "lastChanged": "2026-08-28T20:10:43.018005+08:00"
           },
           "mc": {
@@ -4212,14 +4411,14 @@
         "crew": [
           {
             "name": "單丹丹",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "李闊",
             "job": "Director"
           },
           {
-            "name": "李闊",
+            "name": "單丹丹",
             "job": "Writer"
           }
         ],
@@ -4324,14 +4523,14 @@
           "crew": [
             {
               "name": "單丹丹",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "李闊",
               "job": "Director"
             },
             {
-              "name": "李闊",
+              "name": "單丹丹",
               "job": "Writer"
             }
           ],
@@ -6285,11 +6484,11 @@
         "crew": [
           {
             "name": "押山清高",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "押山清高",
-            "job": "Director"
+            "job": "Screenplay"
           }
         ],
         "budget": 0,
@@ -6408,11 +6607,11 @@
           "crew": [
             {
               "name": "押山清高",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "押山清高",
-              "job": "Director"
+              "job": "Screenplay"
             }
           ],
           "budget": 0,
@@ -6486,7 +6685,7 @@
           {
             "name": "瑪格麗特·庫利",
             "char": "Cima",
-            "photo": "https://image.tmdb.org/t/p/w500/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
           },
           {
             "name": "喬許·布洛林",
@@ -6604,7 +6803,7 @@
             {
               "name": "瑪格麗特·庫利",
               "char": "Cima",
-              "photo": "https://image.tmdb.org/t/p/w500/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
             },
             {
               "name": "喬許·布洛林",
@@ -10374,7 +10573,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/8Yi6mgiefgd6TDLb9uNlvuNVtlk.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-        "voteAverage": "7.1",
+        "voteAverage": "7.0",
         "genre": [
           "動畫",
           "冒險",
@@ -10525,7 +10724,7 @@
           "synopsis": "飛船被捲入一場神祕風暴，汪汪隊的狗狗們於是迫降在一座充滿恐龍的未知熱帶小島，並遇見了受困在小島多年、精通所有恐龍知識的狗狗雷克斯。汪汪隊的死對頭韓丁納市長覬覦小島的天然資源，便展開魯莽的開採行動，卻意外引發了休眠火山的大爆發。汪汪隊因此必須展開前所未有、風險升級的恐龍級救援任務，在這座小島上的一切滅絕之前阻止韓丁納。",
           "poster": "https://image.tmdb.org/t/p/w500/8Yi6mgiefgd6TDLb9uNlvuNVtlk.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-          "voteAverage": "7.1",
+          "voteAverage": "7.0",
           "trailerKey": "-juvWuW6hLg",
           "imdbId": "tt29356163",
           "countries": [
@@ -11380,11 +11579,11 @@
         "crew": [
           {
             "name": "David Robert Mitchell",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "David Robert Mitchell",
-            "job": "Director"
+            "job": "Writer"
           }
         ],
         "budget": 80000000,
@@ -11499,11 +11698,11 @@
           "crew": [
             {
               "name": "David Robert Mitchell",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "David Robert Mitchell",
-              "job": "Director"
+              "job": "Writer"
             }
           ],
           "budget": 80000000,
@@ -12697,11 +12896,11 @@
         "crew": [
           {
             "name": "柯瑞·巴克",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "柯瑞·巴克",
-            "job": "Writer"
+            "job": "Director"
           }
         ],
         "budget": 750000,
@@ -12817,11 +13016,11 @@
           "crew": [
             {
               "name": "柯瑞·巴克",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "柯瑞·巴克",
-              "job": "Writer"
+              "job": "Director"
             }
           ],
           "budget": 750000,
@@ -15611,205 +15810,6 @@
     ],
     "soon": [
       {
-        "id": 1620001,
-        "titleZh": "吾子吾弟",
-        "titleEn": "National Theatre Live: All My Sons",
-        "releaseDate": "2026-09-08",
-        "releaseYear": "2026",
-        "isRerelease": false,
-        "twTheatricalReleases": [
-          {
-            "date": "2026-09-08",
-            "language": ""
-          }
-        ],
-        "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/ayLJCIY4GNr5L8KSOpr9WaR5O8p.jpg",
-        "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/eerAtezv0jNlU1lcYe3vdRUgekx.jpg",
-        "voteAverage": "10.0",
-        "genre": [
-          "劇情"
-        ],
-        "duration": 135,
-        "synopsis": "一個家庭因商業罪行而走向毀滅的悲劇：二戰期間，工廠老闆喬凱勒靠著瑕疵軍工製品賺取巨額暴利，事件敗露後卻將罪名全推給合夥人，讓自己在戰後全身而退、安享榮華。直到得知大兒子在戰場一去不返的背後真相，喬才深刻意識到，自己終究得面對過錯所帶來的反噬與苦果。",
-        "imdb": "",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {},
-        "trailerKey": null,
-        "cast": [
-          {
-            "name": "布賴恩·克蘭斯頓",
-            "char": "Joe Keller",
-            "photo": "https://image.tmdb.org/t/p/w500/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
-          },
-          {
-            "name": "Marianne Jean-Baptiste",
-            "char": "Kate Keller",
-            "photo": "https://image.tmdb.org/t/p/w500/bJ6p32cswcp0xvqiZC7S5tiwa2K.jpg"
-          },
-          {
-            "name": "Paapa Essiedu",
-            "char": "Chris Keller",
-            "photo": "https://image.tmdb.org/t/p/w500/qOPbY9zD3DHXzLnu0U9aNKT6Y7t.jpg"
-          },
-          {
-            "name": "Tom Glynn-Carney",
-            "char": "George Deever",
-            "photo": "https://image.tmdb.org/t/p/w500/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
-          },
-          {
-            "name": "海莉·斯誇爾斯",
-            "char": "Ann Deever",
-            "photo": "https://image.tmdb.org/t/p/w500/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
-          },
-          {
-            "name": "Aliyah Odoffin",
-            "char": "Lydia Lubey",
-            "photo": "https://image.tmdb.org/t/p/w500/3ArSqbY4KBTYlz8fYSKSmYxSNAB.jpg"
-          },
-          {
-            "name": "Cath Whitefield",
-            "char": "Sue Bayliss",
-            "photo": "https://image.tmdb.org/t/p/w500/sqTTU2h87COfmhgMX9zTBKgyTBt.jpg"
-          },
-          {
-            "name": "Richard Hansell",
-            "char": "Dr Jim Bayliss",
-            "photo": "https://image.tmdb.org/t/p/w500/eFwC1GgH0vJc7sA2VjnPXosNKah.jpg"
-          },
-          {
-            "name": "Zach Wyatt",
-            "char": "Frank Lubey",
-            "photo": "https://image.tmdb.org/t/p/w500/2Bd5FqUd7fKb3Q9aKNB8bMDUvd0.jpg"
-          },
-          {
-            "name": "Stevie Raine",
-            "char": "Ensemble",
-            "photo": "https://image.tmdb.org/t/p/w500/7TqFwyf5YU4A7ZNCxqGkwwh244m.jpg"
-          },
-          {
-            "name": "Charles Dark",
-            "char": "Bert",
-            "photo": "https://image.tmdb.org/t/p/w500/AaxFGQQJrK4bKloR6XY7sl3ffnU.jpg"
-          }
-        ],
-        "crew": [
-          {
-            "name": "Arthur Miller",
-            "job": "Writer"
-          },
-          {
-            "name": "Ivo van Hove",
-            "job": "Director"
-          }
-        ],
-        "budget": 0,
-        "revenue": 0,
-        "status": "Released",
-        "origLang": "en",
-        "origTitle": "National Theatre Live: All My Sons",
-        "platforms": [],
-        "popularity": 2.3614,
-        "imdbId": "tt39544163",
-        "countries": [
-          "United Kingdom"
-        ],
-        "detail": {
-          "duration": 135,
-          "genres": [
-            "劇情"
-          ],
-          "synopsis": "一個家庭因商業罪行而走向毀滅的悲劇：二戰期間，工廠老闆喬凱勒靠著瑕疵軍工製品賺取巨額暴利，事件敗露後卻將罪名全推給合夥人，讓自己在戰後全身而退、安享榮華。直到得知大兒子在戰場一去不返的背後真相，喬才深刻意識到，自己終究得面對過錯所帶來的反噬與苦果。",
-          "poster": "https://image.tmdb.org/t/p/w500/ayLJCIY4GNr5L8KSOpr9WaR5O8p.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/eerAtezv0jNlU1lcYe3vdRUgekx.jpg",
-          "voteAverage": "10.0",
-          "trailerKey": null,
-          "imdbId": "tt39544163",
-          "countries": [
-            "United Kingdom"
-          ],
-          "cast": [
-            {
-              "name": "布賴恩·克蘭斯頓",
-              "char": "Joe Keller",
-              "photo": "https://image.tmdb.org/t/p/w500/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
-            },
-            {
-              "name": "Marianne Jean-Baptiste",
-              "char": "Kate Keller",
-              "photo": "https://image.tmdb.org/t/p/w500/bJ6p32cswcp0xvqiZC7S5tiwa2K.jpg"
-            },
-            {
-              "name": "Paapa Essiedu",
-              "char": "Chris Keller",
-              "photo": "https://image.tmdb.org/t/p/w500/qOPbY9zD3DHXzLnu0U9aNKT6Y7t.jpg"
-            },
-            {
-              "name": "Tom Glynn-Carney",
-              "char": "George Deever",
-              "photo": "https://image.tmdb.org/t/p/w500/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
-            },
-            {
-              "name": "海莉·斯誇爾斯",
-              "char": "Ann Deever",
-              "photo": "https://image.tmdb.org/t/p/w500/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
-            },
-            {
-              "name": "Aliyah Odoffin",
-              "char": "Lydia Lubey",
-              "photo": "https://image.tmdb.org/t/p/w500/3ArSqbY4KBTYlz8fYSKSmYxSNAB.jpg"
-            },
-            {
-              "name": "Cath Whitefield",
-              "char": "Sue Bayliss",
-              "photo": "https://image.tmdb.org/t/p/w500/sqTTU2h87COfmhgMX9zTBKgyTBt.jpg"
-            },
-            {
-              "name": "Richard Hansell",
-              "char": "Dr Jim Bayliss",
-              "photo": "https://image.tmdb.org/t/p/w500/eFwC1GgH0vJc7sA2VjnPXosNKah.jpg"
-            },
-            {
-              "name": "Zach Wyatt",
-              "char": "Frank Lubey",
-              "photo": "https://image.tmdb.org/t/p/w500/2Bd5FqUd7fKb3Q9aKNB8bMDUvd0.jpg"
-            },
-            {
-              "name": "Stevie Raine",
-              "char": "Ensemble",
-              "photo": "https://image.tmdb.org/t/p/w500/7TqFwyf5YU4A7ZNCxqGkwwh244m.jpg"
-            },
-            {
-              "name": "Charles Dark",
-              "char": "Bert",
-              "photo": "https://image.tmdb.org/t/p/w500/AaxFGQQJrK4bKloR6XY7sl3ffnU.jpg"
-            }
-          ],
-          "crew": [
-            {
-              "name": "Arthur Miller",
-              "job": "Writer"
-            },
-            {
-              "name": "Ivo van Hove",
-              "job": "Director"
-            }
-          ],
-          "budget": 0,
-          "revenue": 0,
-          "status": "Released",
-          "origLang": "en",
-          "origTitle": "National Theatre Live: All My Sons",
-          "platforms": []
-        },
-        "tmdbUrl": "https://www.themoviedb.org/movie/1620001?language=zh-TW",
-        "atmoviesId": "",
-        "atmoviesUrl": "",
-        "sourceBucket": "tmdb"
-      },
-      {
         "id": 1193673,
         "titleZh": "怎麼可能我家的祖先是你家的鬼",
         "titleEn": "怎麼可能我家的祖先是你家的鬼",
@@ -16099,11 +16099,11 @@
         "crew": [
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "Krzysztof Piesiewicz",
@@ -16229,11 +16229,11 @@
           "crew": [
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "Krzysztof Piesiewicz",
@@ -18819,7 +18819,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-        "voteAverage": "7.5",
+        "voteAverage": "7.8",
         "genre": [
           "劇情"
         ],
@@ -18916,7 +18916,7 @@
           "synopsis": "一心以成為漫畫家為目標的兩位少女藤野、京本之間青春動人的故事。",
           "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-          "voteAverage": "7.5",
+          "voteAverage": "7.8",
           "trailerKey": "ad3giJ30GOw",
           "imdbId": "tt39094605",
           "countries": [
@@ -19534,7 +19534,7 @@
           "恐怖",
           "科幻"
         ],
-        "duration": "",
+        "duration": 94,
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -19596,7 +19596,7 @@
           "France"
         ],
         "detail": {
-          "duration": "",
+          "duration": 94,
           "genres": [
             "恐怖",
             "科幻"
@@ -22158,11 +22158,11 @@
         ],
         "crew": [
           {
-            "name": "Yung-hsiang Chang",
+            "name": "Liu Wei-Bin",
             "job": "Screenplay"
           },
           {
-            "name": "Liu Wei-Bin",
+            "name": "Yung-hsiang Chang",
             "job": "Screenplay"
           },
           {
@@ -22279,11 +22279,11 @@
           ],
           "crew": [
             {
-              "name": "Yung-hsiang Chang",
+              "name": "Liu Wei-Bin",
               "job": "Screenplay"
             },
             {
-              "name": "Liu Wei-Bin",
+              "name": "Yung-hsiang Chang",
               "job": "Screenplay"
             },
             {
@@ -25172,7 +25172,7 @@
         "cast": [
           {
             "name": "具教煥",
-            "char": "Seok-hwan",
+            "char": "Seok Hwan",
             "photo": "https://image.tmdb.org/t/p/w500/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg"
           },
           {
@@ -25212,8 +25212,12 @@
             "job": "Director"
           },
           {
+            "name": "Kang Sun-ju",
+            "job": "Writer"
+          },
+          {
             "name": "박성신",
-            "job": "Screenplay"
+            "job": "Writer"
           }
         ],
         "budget": 0,
@@ -25245,7 +25249,7 @@
           "cast": [
             {
               "name": "具教煥",
-              "char": "Seok-hwan",
+              "char": "Seok Hwan",
               "photo": "https://image.tmdb.org/t/p/w500/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg"
             },
             {
@@ -25285,8 +25289,12 @@
               "job": "Director"
             },
             {
+              "name": "Kang Sun-ju",
+              "job": "Writer"
+            },
+            {
               "name": "박성신",
-              "job": "Screenplay"
+              "job": "Writer"
             }
           ],
           "budget": 0,
@@ -25322,7 +25330,7 @@
         "genre": [
           "喜劇"
         ],
-        "duration": "",
+        "duration": 128,
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -25422,7 +25430,7 @@
           "United States of America"
         ],
         "detail": {
-          "duration": "",
+          "duration": 128,
           "genres": [
             "喜劇"
           ],
@@ -26544,7 +26552,7 @@
         "genre": [
           "恐怖"
         ],
-        "duration": "",
+        "duration": 91,
         "synopsis": "小女孩貝拉在家中和一個邪惡存在建立了一段關係，而它竟然長得跟她母親一模一樣。",
         "imdb": "",
         "rt": "",
@@ -26650,7 +26658,7 @@
           "United States of America"
         ],
         "detail": {
-          "duration": "",
+          "duration": 91,
           "genres": [
             "恐怖"
           ],
@@ -26877,7 +26885,7 @@
           "動作",
           "奇幻"
         ],
-        "duration": 125,
+        "duration": 108,
         "synopsis": "1993年，昔日並肩作戰卻早已分道揚鑣的街頭格鬥家隆與肯麥司特，因為受到一名神祕女子春麗的招募，再度參加下一屆世界戰士格鬥大會，這是一場拳頭、命運與怒火碰撞的殘酷對決。但是在這場生死大決鬥的背後，潛藏著一個致命陰謀，迫使他們不得不正面交鋒，並且面對各自過去的心魔。如果他們無法克服這一切，那就會GAME OVER遊戲結束！",
         "imdb": "",
         "rt": "",
@@ -26993,7 +27001,7 @@
           "United States of America"
         ],
         "detail": {
-          "duration": 125,
+          "duration": 108,
           "genres": [
             "動作",
             "奇幻"
@@ -27290,7 +27298,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/6psNzdIymhnN8KQggL4tiZRNIXg.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/1whoQ0wcc0GE7a5cSNG6CEhGMYu.jpg",
-        "voteAverage": "7.3",
+        "voteAverage": "8.0",
         "genre": [
           "喜劇",
           "劇情",
@@ -27424,7 +27432,7 @@
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/6psNzdIymhnN8KQggL4tiZRNIXg.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/1whoQ0wcc0GE7a5cSNG6CEhGMYu.jpg",
-          "voteAverage": "7.3",
+          "voteAverage": "8.0",
           "trailerKey": null,
           "imdbId": "tt27802226",
           "countries": [
@@ -28262,12 +28270,12 @@
         ],
         "crew": [
           {
-            "name": "Dahvi Waller",
-            "job": "Screenplay"
-          },
-          {
             "name": "塔伊加·維迪提",
             "job": "Director"
+          },
+          {
+            "name": "Dahvi Waller",
+            "job": "Screenplay"
           },
           {
             "name": "塔伊加·維迪提",
@@ -28359,12 +28367,12 @@
           ],
           "crew": [
             {
-              "name": "Dahvi Waller",
-              "job": "Screenplay"
-            },
-            {
               "name": "塔伊加·維迪提",
               "job": "Director"
+            },
+            {
+              "name": "Dahvi Waller",
+              "job": "Screenplay"
             },
             {
               "name": "塔伊加·維迪提",

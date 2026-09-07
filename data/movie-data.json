@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T03:24:41.067343+08:00",
+  "generated_at": "2026-09-08T07:45:59.240981+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 67,
@@ -473,12 +473,12 @@
         ],
         "crew": [
           {
-            "name": "Tarr Béla",
-            "job": "Director"
-          },
-          {
             "name": "Krasznahorkai László",
             "job": "Writer"
+          },
+          {
+            "name": "Tarr Béla",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -596,12 +596,12 @@
           ],
           "crew": [
             {
-              "name": "Tarr Béla",
-              "job": "Director"
-            },
-            {
               "name": "Krasznahorkai László",
               "job": "Writer"
+            },
+            {
+              "name": "Tarr Béla",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -1196,8 +1196,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 249,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -1470,7 +1470,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/x2xLnSgaMN2ODozYBzCdV5mKmyO.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/tkEdEvqnSpfy1m2hjfre1c9JKKs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
         "voteAverage": "",
         "genre": [
           "動畫",
@@ -1567,7 +1567,7 @@
           ],
           "synopsis": "為了不再失去小圓的焰變成了「惡魔」，進而改寫了世界。然而焰看似將一切掌握在手中，卻因為一個突如其來的存在，即將把這份扭曲的日常終結……",
           "poster": "https://image.tmdb.org/t/p/w500/x2xLnSgaMN2ODozYBzCdV5mKmyO.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/tkEdEvqnSpfy1m2hjfre1c9JKKs.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/xzm3RfWh932rS28WErNC3u8qzVm.jpg",
           "voteAverage": "",
           "trailerKey": "itg5-UEf0t0",
           "imdbId": "tt14523706",
@@ -1673,7 +1673,7 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
-        "rt": "72%",
+        "rt": "73%",
         "mc": "67",
         "ratingMeta": {
           "imdb": {
@@ -1682,9 +1682,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-07T07:07:27.721572+08:00"
+            "source": "mdblist",
+            "votes": 63,
+            "lastChanged": "2026-09-08T07:45:59.240981+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -1940,7 +1940,7 @@
         "duration": 98,
         "synopsis": "妹妹杭特去世後，賈克斯悲痛欲絕，為了療傷，她邀請大膽的好友露絲一起挑戰泰國關山惡名昭彰的棧板步道。然而，突如其來的山崩讓她們困在距離地表3000英尺的高空，腳下只剩幾片殘存的木板。為了活下去，賈克斯必須面對內心最深的恐懼……",
         "imdb": "5.7",
-        "rt": "57%",
+        "rt": "55%",
         "mc": "53",
         "ratingMeta": {
           "imdb": {
@@ -1950,8 +1950,8 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 30,
-            "lastChanged": "2026-09-06T13:03:53.845108+08:00"
+            "votes": 33,
+            "lastChanged": "2026-09-08T07:45:59.240981+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -4170,7 +4170,7 @@
           {
             "name": "潘妮洛普·克魯茲",
             "char": "Piña",
-            "photo": "https://image.tmdb.org/t/p/w500/li3SanR78FCtRLG55eALXoTcaFi.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
           },
           {
             "name": "艾德華·諾頓",
@@ -4253,7 +4253,7 @@
             {
               "name": "潘妮洛普·克魯茲",
               "char": "Piña",
-              "photo": "https://image.tmdb.org/t/p/w500/li3SanR78FCtRLG55eALXoTcaFi.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
             },
             {
               "name": "艾德華·諾頓",
@@ -8237,7 +8237,7 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 221,
+            "votes": 223,
             "lastChanged": "2026-09-01T16:54:18.546062+08:00"
           },
           "mc": {
@@ -12896,11 +12896,11 @@
         "crew": [
           {
             "name": "柯瑞·巴克",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "柯瑞·巴克",
-            "job": "Director"
+            "job": "Writer"
           }
         ],
         "budget": 750000,
@@ -13016,11 +13016,11 @@
           "crew": [
             {
               "name": "柯瑞·巴克",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "柯瑞·巴克",
-              "job": "Director"
+              "job": "Writer"
             }
           ],
           "budget": 750000,
@@ -23723,7 +23723,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "voteAverage": "9.0",
+        "voteAverage": "8.4",
         "genre": [
           "動作",
           "喜劇",
@@ -23829,7 +23829,7 @@
           "synopsis": "退伍特種部隊軍人漢克奉命護送醫療快遞員班，要將一副健康的肝臟送到病危的女孩手中，結果意圖搶奪肝臟的傭兵集團盯上了他們……",
           "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-          "voteAverage": "9.0",
+          "voteAverage": "8.4",
           "trailerKey": "S3Vz0fBz55A",
           "imdbId": "tt31349844",
           "countries": [
@@ -24583,7 +24583,7 @@
             "job": "Screenplay"
           },
           {
-            "name": "Joe Russo",
+            "name": "Anthony Russo",
             "job": "Director"
           }
         ],
@@ -24711,7 +24711,7 @@
               "job": "Screenplay"
             },
             {
-              "name": "Joe Russo",
+              "name": "Anthony Russo",
               "job": "Director"
             }
           ],
@@ -25222,7 +25222,7 @@
         ],
         "budget": 0,
         "revenue": 0,
-        "status": "In Production",
+        "status": "Post Production",
         "origLang": "ko",
         "origTitle": "부활남: 더 레드",
         "platforms": [],
@@ -25299,7 +25299,7 @@
           ],
           "budget": 0,
           "revenue": 0,
-          "status": "In Production",
+          "status": "Post Production",
           "origLang": "ko",
           "origTitle": "부활남: 더 레드",
           "platforms": []

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:51:44.945503+08:00",
+  "generated_at": "2026-09-09T05:23:46.733742+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 67,
@@ -1673,7 +1673,7 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
-        "rt": "76%",
+        "rt": "72%",
         "mc": "69",
         "ratingMeta": {
           "imdb": {
@@ -1682,9 +1682,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "mdblist",
-            "votes": 70,
-            "lastChanged": "2026-09-09T00:51:44.945503+08:00"
+            "source": "omdb",
+            "votes": 0,
+            "lastChanged": "2026-09-09T05:23:46.733742+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -1932,7 +1932,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
         "voteAverage": "6.8",
         "genre": [
           "驚悚"
@@ -2044,16 +2044,16 @@
         ],
         "crew": [
           {
-            "name": "Jonathan Frank",
-            "job": "Writer"
+            "name": "Michael Spierig",
+            "job": "Director"
           },
           {
             "name": "Peter Spierig",
             "job": "Director"
           },
           {
-            "name": "Michael Spierig",
-            "job": "Director"
+            "name": "Scott Mann",
+            "job": "Writer"
           }
         ],
         "budget": 3000000,
@@ -2075,7 +2075,7 @@
           ],
           "synopsis": "妹妹杭特去世後，賈克斯悲痛欲絕，為了療傷，她邀請大膽的好友露絲一起挑戰泰國關山惡名昭彰的棧板步道。然而，突如其來的山崩讓她們困在距離地表3000英尺的高空，腳下只剩幾片殘存的木板。為了活下去，賈克斯必須面對內心最深的恐懼……",
           "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
           "voteAverage": "6.8",
           "trailerKey": "9spjI5Y0jPg",
           "imdbId": "tt31192372",
@@ -2167,16 +2167,16 @@
           ],
           "crew": [
             {
-              "name": "Jonathan Frank",
-              "job": "Writer"
+              "name": "Michael Spierig",
+              "job": "Director"
             },
             {
               "name": "Peter Spierig",
               "job": "Director"
             },
             {
-              "name": "Michael Spierig",
-              "job": "Director"
+              "name": "Scott Mann",
+              "job": "Writer"
             }
           ],
           "budget": 3000000,
@@ -3965,16 +3965,16 @@
         ],
         "crew": [
           {
+            "name": "Joachim Trier",
+            "job": "Director"
+          },
+          {
             "name": "Eskil Vogt",
             "job": "Screenplay"
           },
           {
             "name": "Joachim Trier",
             "job": "Screenplay"
-          },
-          {
-            "name": "Joachim Trier",
-            "job": "Director"
           }
         ],
         "budget": 0,
@@ -4081,16 +4081,16 @@
           ],
           "crew": [
             {
+              "name": "Joachim Trier",
+              "job": "Director"
+            },
+            {
               "name": "Eskil Vogt",
               "job": "Screenplay"
             },
             {
               "name": "Joachim Trier",
               "job": "Screenplay"
-            },
-            {
-              "name": "Joachim Trier",
-              "job": "Director"
             }
           ],
           "budget": 0,
@@ -7791,12 +7791,12 @@
         ],
         "crew": [
           {
-            "name": "石立太一",
-            "job": "Director"
-          },
-          {
             "name": "花田十輝",
             "job": "Screenplay"
+          },
+          {
+            "name": "石立太一",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -7912,12 +7912,12 @@
           ],
           "crew": [
             {
-              "name": "石立太一",
-              "job": "Director"
-            },
-            {
               "name": "花田十輝",
               "job": "Screenplay"
+            },
+            {
+              "name": "石立太一",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -10034,13 +10034,13 @@
         "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-        "voteAverage": "7.0",
+        "voteAverage": "7.1",
         "genre": [
           "喜劇",
           "愛情"
         ],
         "duration": 103,
-        "synopsis": "",
+        "synopsis": "剛被女友狠甩的歐文和滿懷浪漫情懷和希望的艾莉或許是這座城市裡唯二只想要尋找真愛的單身人士，而不只是想找一個一夜情的性伴侶。他們相遇時都感到彼此之間擦出火花，但是一連串的意外和其他的冒險卻讓他們的夜晚變得很複雜，結果被迫分開。當他們在城市中奔向彼此又在無意間遠離彼此的時候，也許他們會發現，他們最渴望的東西其實近在咫尺。",
         "imdb": "6.3",
         "rt": "43%",
         "mc": "42",
@@ -10171,10 +10171,10 @@
             "喜劇",
             "愛情"
           ],
-          "synopsis": "",
+          "synopsis": "剛被女友狠甩的歐文和滿懷浪漫情懷和希望的艾莉或許是這座城市裡唯二只想要尋找真愛的單身人士，而不只是想找一個一夜情的性伴侶。他們相遇時都感到彼此之間擦出火花，但是一連串的意外和其他的冒險卻讓他們的夜晚變得很複雜，結果被迫分開。當他們在城市中奔向彼此又在無意間遠離彼此的時候，也許他們會發現，他們最渴望的東西其實近在咫尺。",
           "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-          "voteAverage": "7.0",
+          "voteAverage": "7.1",
           "trailerKey": "lIl2WzFiF0A",
           "imdbId": "tt37853455",
           "countries": [
@@ -12901,15 +12901,15 @@
         "crew": [
           {
             "name": "柯瑞·巴克",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "柯瑞·巴克",
-            "job": "Writer"
+            "job": "Director"
           }
         ],
         "budget": 750000,
-        "revenue": 509876715,
+        "revenue": 509956715,
         "status": "Released",
         "origLang": "en",
         "origTitle": "Obsession",
@@ -13021,15 +13021,15 @@
           "crew": [
             {
               "name": "柯瑞·巴克",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "柯瑞·巴克",
-              "job": "Writer"
+              "job": "Director"
             }
           ],
           "budget": 750000,
-          "revenue": 509876715,
+          "revenue": 509956715,
           "status": "Released",
           "origLang": "en",
           "origTitle": "Obsession",
@@ -16974,11 +16974,11 @@
         "crew": [
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "Krzysztof Piesiewicz",
@@ -17105,11 +17105,11 @@
           "crew": [
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "Krzysztof Piesiewicz",
@@ -18824,16 +18824,27 @@
         "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-        "voteAverage": "7.8",
+        "voteAverage": "8.2",
         "genre": [
           "劇情"
         ],
         "duration": 100,
         "synopsis": "一心以成為漫畫家為目標的兩位少女藤野、京本之間青春動人的故事。",
-        "imdb": "",
+        "imdb": "8.0",
         "rt": "",
-        "mc": "",
-        "ratingMeta": {},
+        "mc": "72",
+        "ratingMeta": {
+          "imdb": {
+            "source": "omdb",
+            "votes": 36,
+            "lastChanged": "2026-09-09T05:23:46.733742+08:00"
+          },
+          "mc": {
+            "source": "omdb",
+            "votes": 0,
+            "lastChanged": "2026-09-09T05:23:46.733742+08:00"
+          }
+        },
         "trailerKey": "ad3giJ30GOw",
         "cast": [
           {
@@ -18921,7 +18932,7 @@
           "synopsis": "一心以成為漫畫家為目標的兩位少女藤野、京本之間青春動人的故事。",
           "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-          "voteAverage": "7.8",
+          "voteAverage": "8.2",
           "trailerKey": "ad3giJ30GOw",
           "imdbId": "tt39094466",
           "countries": [
@@ -23728,7 +23739,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "voteAverage": "8.2",
+        "voteAverage": "8.4",
         "genre": [
           "動作",
           "喜劇",
@@ -23834,7 +23845,7 @@
           "synopsis": "退伍特種部隊軍人漢克奉命護送醫療快遞員班，要將一副健康的肝臟送到病危的女孩手中，結果意圖搶奪肝臟的傭兵集團盯上了他們……",
           "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-          "voteAverage": "8.2",
+          "voteAverage": "8.4",
           "trailerKey": "S3Vz0fBz55A",
           "imdbId": "tt31349844",
           "countries": [
@@ -24481,7 +24492,7 @@
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
-            "votes": 1485219,
+            "votes": 1485583,
             "lastChanged": "2026-09-05T21:36:31.443610+08:00"
           },
           "rt": {
@@ -25346,7 +25357,7 @@
           {
             "name": "湯姆·克魯斯",
             "char": "Digger Rockwell",
-            "photo": "https://image.tmdb.org/t/p/w500/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
           },
           {
             "name": "里茲·阿邁德",
@@ -25452,7 +25463,7 @@
             {
               "name": "湯姆·克魯斯",
               "char": "Digger Rockwell",
-              "photo": "https://image.tmdb.org/t/p/w500/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
             },
             {
               "name": "里茲·阿邁德",
@@ -26568,7 +26579,7 @@
           {
             "name": "潔西卡·雀絲坦",
             "char": "Ursula / Other Mommy",
-            "photo": "https://image.tmdb.org/t/p/w500/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
           },
           {
             "name": "Arabella Olivia Clark",
@@ -26680,7 +26691,7 @@
             {
               "name": "潔西卡·雀絲坦",
               "char": "Ursula / Other Mommy",
-              "photo": "https://image.tmdb.org/t/p/w500/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
             },
             {
               "name": "Arabella Olivia Clark",
@@ -28723,6 +28734,11 @@
             "name": "Wes Wing",
             "char": "",
             "photo": null
+          },
+          {
+            "name": "長澤雅美",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
           }
         ],
         "crew": [
@@ -28817,6 +28833,11 @@
               "name": "Wes Wing",
               "char": "",
               "photo": null
+            },
+            {
+              "name": "長澤雅美",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
             }
           ],
           "crew": [

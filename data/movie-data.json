@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:23:46.733742+08:00",
+  "generated_at": "2026-09-09T07:39:13.943171+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 67,
@@ -1673,7 +1673,7 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
-        "rt": "72%",
+        "rt": "77%",
         "mc": "69",
         "ratingMeta": {
           "imdb": {
@@ -1682,9 +1682,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-09T05:23:46.733742+08:00"
+            "source": "mdblist",
+            "votes": 77,
+            "lastChanged": "2026-09-09T07:39:13.943171+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -1945,7 +1945,7 @@
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
-            "votes": 1154,
+            "votes": 1565,
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
@@ -6651,7 +6651,8 @@
         "voteAverage": "6.7",
         "genre": [
           "科幻",
-          "劇情"
+          "劇情",
+          "冒險"
         ],
         "duration": 119,
         "synopsis": "",
@@ -6783,7 +6784,8 @@
           "duration": 119,
           "genres": [
             "科幻",
-            "劇情"
+            "劇情",
+            "冒險"
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg",
@@ -11584,11 +11586,11 @@
         "crew": [
           {
             "name": "David Robert Mitchell",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "David Robert Mitchell",
-            "job": "Director"
+            "job": "Writer"
           }
         ],
         "budget": 80000000,
@@ -11703,11 +11705,11 @@
           "crew": [
             {
               "name": "David Robert Mitchell",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "David Robert Mitchell",
-              "job": "Director"
+              "job": "Writer"
             }
           ],
           "budget": 80000000,
@@ -23748,9 +23750,20 @@
         "duration": 97,
         "synopsis": "退伍特種部隊軍人漢克奉命護送醫療快遞員班，要將一副健康的肝臟送到病危的女孩手中，結果意圖搶奪肝臟的傭兵集團盯上了他們……",
         "imdb": "",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {},
+        "rt": "63%",
+        "mc": "57",
+        "ratingMeta": {
+          "rt": {
+            "source": "mdblist",
+            "votes": 16,
+            "lastChanged": "2026-09-09T07:39:13.943171+08:00"
+          },
+          "mc": {
+            "source": "mdblist",
+            "votes": 6,
+            "lastChanged": "2026-09-09T07:39:13.943171+08:00"
+          }
+        },
         "trailerKey": "S3Vz0fBz55A",
         "cast": [
           {

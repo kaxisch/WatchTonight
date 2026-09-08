@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:10:50.277191+08:00",
+  "generated_at": "2026-09-08T19:44:27.052615+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 67,
@@ -277,7 +277,7 @@
         "origLang": "ja",
         "origTitle": "黒蜥蜴 / Diamond IMPULSE",
         "platforms": [],
-        "popularity": 1.4584,
+        "popularity": 1.8967,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -487,7 +487,7 @@
         "origLang": "hu",
         "origTitle": "Werckmeister harmóniák",
         "platforms": [],
-        "popularity": 3.7691,
+        "popularity": 3.2668,
         "imdbId": "tt0249241",
         "countries": [
           "France",
@@ -764,7 +764,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 3.9122,
+        "popularity": 4.2584,
         "imdbId": "tt1483797",
         "countries": [
           "Japan"
@@ -1196,8 +1196,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 249,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -1314,7 +1314,7 @@
             "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
           }
         ],
-        "popularity": 11.097,
+        "popularity": 9.98,
         "imdbId": "tt10370710",
         "countries": [
           "Norway",
@@ -1552,7 +1552,7 @@
         "origLang": "ja",
         "origTitle": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
         "platforms": [],
-        "popularity": 38.6155,
+        "popularity": 34.4661,
         "imdbId": "tt14523706",
         "countries": [
           "Japan"
@@ -1664,7 +1664,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/7ad5bqevd4TUZphJLi3qyTIj5U6.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
-        "voteAverage": "8.3",
+        "voteAverage": "8.2",
         "genre": [
           "科幻",
           "懸疑",
@@ -1673,7 +1673,7 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
-        "rt": "73%",
+        "rt": "72%",
         "mc": "68",
         "ratingMeta": {
           "imdb": {
@@ -1682,9 +1682,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "mdblist",
-            "votes": 64,
-            "lastChanged": "2026-09-08T07:45:59.240981+08:00"
+            "source": "omdb",
+            "votes": 0,
+            "lastChanged": "2026-09-08T19:44:27.052615+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -1806,7 +1806,7 @@
           "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
           "poster": "https://image.tmdb.org/t/p/w500/7ad5bqevd4TUZphJLi3qyTIj5U6.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
-          "voteAverage": "8.3",
+          "voteAverage": "8.2",
           "trailerKey": "HZkGZqypnBM",
           "imdbId": "tt27369017",
           "countries": [
@@ -2044,16 +2044,16 @@
         ],
         "crew": [
           {
-            "name": "Michael Spierig",
-            "job": "Director"
+            "name": "Jonathan Frank",
+            "job": "Writer"
           },
           {
             "name": "Peter Spierig",
             "job": "Director"
           },
           {
-            "name": "Scott Mann",
-            "job": "Writer"
+            "name": "Michael Spierig",
+            "job": "Director"
           }
         ],
         "budget": 3000000,
@@ -2167,16 +2167,16 @@
           ],
           "crew": [
             {
-              "name": "Michael Spierig",
-              "job": "Director"
+              "name": "Jonathan Frank",
+              "job": "Writer"
             },
             {
               "name": "Peter Spierig",
               "job": "Director"
             },
             {
-              "name": "Scott Mann",
-              "job": "Writer"
+              "name": "Michael Spierig",
+              "job": "Director"
             }
           ],
           "budget": 3000000,
@@ -2302,7 +2302,7 @@
         "origLang": "ko",
         "origTitle": "마지막 숙제",
         "platforms": [],
-        "popularity": 0.9063,
+        "popularity": 0.9874,
         "imdbId": "tt34539004",
         "countries": [
           "South Korea"
@@ -2977,7 +2977,7 @@
         "origLang": "ja",
         "origTitle": "白鳥とコウモリ",
         "platforms": [],
-        "popularity": 2.0897,
+        "popularity": 1.9677,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -3175,7 +3175,7 @@
           {
             "name": "毒蝮三太夫",
             "char": "Self",
-            "photo": "https://image.tmdb.org/t/p/w500/460Wofq48QIV2RUB4HTOCDFfNMu.jpg"
+            "photo": null
           }
         ],
         "crew": [
@@ -3292,7 +3292,7 @@
             {
               "name": "毒蝮三太夫",
               "char": "Self",
-              "photo": "https://image.tmdb.org/t/p/w500/460Wofq48QIV2RUB4HTOCDFfNMu.jpg"
+              "photo": null
             }
           ],
           "crew": [
@@ -3965,16 +3965,16 @@
         ],
         "crew": [
           {
-            "name": "Joachim Trier",
-            "job": "Director"
-          },
-          {
             "name": "Eskil Vogt",
             "job": "Screenplay"
           },
           {
             "name": "Joachim Trier",
             "job": "Screenplay"
+          },
+          {
+            "name": "Joachim Trier",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -4081,16 +4081,16 @@
           ],
           "crew": [
             {
-              "name": "Joachim Trier",
-              "job": "Director"
-            },
-            {
               "name": "Eskil Vogt",
               "job": "Screenplay"
             },
             {
               "name": "Joachim Trier",
               "job": "Screenplay"
+            },
+            {
+              "name": "Joachim Trier",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -4428,7 +4428,7 @@
         "origLang": "zh",
         "origTitle": "银河写手",
         "platforms": [],
-        "popularity": 1.2007,
+        "popularity": 1.198,
         "imdbId": "tt28350761",
         "countries": [
           "China"
@@ -4887,7 +4887,7 @@
         "origLang": "ja",
         "origTitle": "映画 おでかけ子ザメ とかいのおともだち",
         "platforms": [],
-        "popularity": 1.2136,
+        "popularity": 1.233,
         "imdbId": "tt36592995",
         "countries": [
           "Japan"
@@ -5094,7 +5094,7 @@
         "origLang": "ja",
         "origTitle": "最終楽章 響け！ユーフォニアム 前編",
         "platforms": [],
-        "popularity": 2.3412,
+        "popularity": 2.6495,
         "imdbId": "tt39123182",
         "countries": [
           "Japan"
@@ -5351,7 +5351,7 @@
         "origLang": "zh",
         "origTitle": "大风杀",
         "platforms": [],
-        "popularity": 1.8927,
+        "popularity": 1.9322,
         "imdbId": "tt36375652",
         "countries": [
           "China"
@@ -6022,7 +6022,7 @@
         "origLang": "ko",
         "origTitle": "그녀가 돌아온 날",
         "platforms": [],
-        "popularity": 2.15,
+        "popularity": 2.3021,
         "imdbId": "tt39368030",
         "countries": [
           "South Korea"
@@ -6502,7 +6502,7 @@
             "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           }
         ],
-        "popularity": 14.6485,
+        "popularity": 14.5658,
         "imdbId": "tt31711040",
         "countries": [
           "Japan"
@@ -7791,12 +7791,12 @@
         ],
         "crew": [
           {
-            "name": "花田十輝",
-            "job": "Screenplay"
-          },
-          {
             "name": "石立太一",
             "job": "Director"
+          },
+          {
+            "name": "花田十輝",
+            "job": "Screenplay"
           }
         ],
         "budget": 0,
@@ -7805,7 +7805,7 @@
         "origLang": "ja",
         "origTitle": "劇場版 境界の彼方 -I'll Be Here- 未来篇",
         "platforms": [],
-        "popularity": 2.0399,
+        "popularity": 2.1268,
         "imdbId": "tt4539114",
         "countries": [
           "Japan"
@@ -7912,12 +7912,12 @@
           ],
           "crew": [
             {
-              "name": "花田十輝",
-              "job": "Screenplay"
-            },
-            {
               "name": "石立太一",
               "job": "Director"
+            },
+            {
+              "name": "花田十輝",
+              "job": "Screenplay"
             }
           ],
           "budget": 0,
@@ -9497,10 +9497,15 @@
         ],
         "duration": 95,
         "synopsis": "目睹億萬富翁企業家老闆在面前遭到殺害後，柯爾李德被誣陷為兇手，他被迫展開逃亡，同時要在過程中設法揭發一樁國際陰謀。",
-        "imdb": "",
+        "imdb": "5.7",
         "rt": "50%",
         "mc": "52",
         "ratingMeta": {
+          "imdb": {
+            "source": "omdb",
+            "votes": 17192,
+            "lastChanged": "2026-09-08T19:44:27.052615+08:00"
+          },
           "rt": {
             "source": "mdblist",
             "votes": 114,
@@ -9883,12 +9888,12 @@
           }
         ],
         "budget": 18000000,
-        "revenue": 139204759,
+        "revenue": 139189759,
         "status": "Released",
         "origLang": "en",
         "origTitle": "Insidious: Out of the Further",
         "platforms": [],
-        "popularity": 56.1565,
+        "popularity": 55.2423,
         "imdbId": "tt32393988",
         "countries": [
           "United States of America"
@@ -10001,7 +10006,7 @@
             }
           ],
           "budget": 18000000,
-          "revenue": 139204759,
+          "revenue": 139189759,
           "status": "Released",
           "origLang": "en",
           "origTitle": "Insidious: Out of the Further",
@@ -10036,14 +10041,14 @@
         ],
         "duration": 102,
         "synopsis": "",
-        "imdb": "6.4",
+        "imdb": "6.3",
         "rt": "43%",
         "mc": "42",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
-            "votes": 1318,
-            "lastChanged": "2026-08-19T03:10:13.032781+08:00"
+            "votes": 6744,
+            "lastChanged": "2026-09-08T19:44:27.052615+08:00"
           },
           "rt": {
             "source": "mdblist",
@@ -10155,7 +10160,7 @@
         "origLang": "en",
         "origTitle": "One Night Only",
         "platforms": [],
-        "popularity": 28.6082,
+        "popularity": 28.0886,
         "imdbId": "tt37853455",
         "countries": [
           "United States of America"
@@ -10706,7 +10711,7 @@
         "origLang": "en",
         "origTitle": "PAW Patrol: The Dino Movie",
         "platforms": [],
-        "popularity": 27.3329,
+        "popularity": 31.8863,
         "imdbId": "tt29356163",
         "countries": [
           "Canada",
@@ -12909,7 +12914,7 @@
         "origLang": "en",
         "origTitle": "Obsession",
         "platforms": [],
-        "popularity": 225.727,
+        "popularity": 205.4049,
         "imdbId": "tt37287335",
         "countries": [
           "United States of America",
@@ -13409,7 +13414,7 @@
         "origLang": "vi",
         "origTitle": "Phí Phông: Quỷ Máu Rừng Thiêng",
         "platforms": [],
-        "popularity": 2.6647,
+        "popularity": 2.6609,
         "imdbId": null,
         "countries": [
           "Vietnam"
@@ -13788,7 +13793,7 @@
           {
             "name": "千黛亞",
             "char": "MJ",
-            "photo": "https://image.tmdb.org/t/p/w500/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
           },
           {
             "name": "馬克·魯法洛",
@@ -13911,7 +13916,7 @@
             {
               "name": "千黛亞",
               "char": "MJ",
-              "photo": "https://image.tmdb.org/t/p/w500/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
             },
             {
               "name": "馬克·魯法洛",
@@ -14154,7 +14159,7 @@
         "origLang": "ja",
         "origTitle": "君の名は。",
         "platforms": [],
-        "popularity": 25.7901,
+        "popularity": 28.38,
         "imdbId": "tt5311514",
         "countries": [
           "Japan"
@@ -15141,7 +15146,7 @@
         "origLang": "ja",
         "origTitle": "名探偵コナン ハイウェイの堕天使",
         "platforms": [],
-        "popularity": 18.411,
+        "popularity": 17.0524,
         "imdbId": "tt39123115",
         "countries": [
           "Japan"
@@ -15683,7 +15688,7 @@
         "origLang": "ja",
         "origTitle": "ヒプノシスマイク -Division Rap Battle-",
         "platforms": [],
-        "popularity": 2.1029,
+        "popularity": 2.1432,
         "imdbId": "tt34571222",
         "countries": [
           "Japan"
@@ -15878,11 +15883,11 @@
         "crew": [
           {
             "name": "蘇達",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "蘇達",
-            "job": "Director"
+            "job": "Writer"
           }
         ],
         "budget": 0,
@@ -15951,11 +15956,11 @@
           "crew": [
             {
               "name": "蘇達",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "蘇達",
-              "job": "Director"
+              "job": "Writer"
             }
           ],
           "budget": 0,
@@ -16121,7 +16126,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 4.3205,
+        "popularity": 4.6556,
         "imdbId": "tt0108394",
         "countries": [
           "France",
@@ -16387,16 +16392,16 @@
         ],
         "crew": [
           {
-            "name": "Krzysztof Piesiewicz",
-            "job": "Screenplay"
-          },
-          {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
-          },
-          {
             "name": "古茲托夫·奇斯洛夫斯基",
             "job": "Director"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Screenplay"
+          },
+          {
+            "name": "Krzysztof Piesiewicz",
+            "job": "Screenplay"
           }
         ],
         "budget": 0,
@@ -16410,7 +16415,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 5.8723,
+        "popularity": 5.168,
         "imdbId": "tt0111507",
         "countries": [
           "France",
@@ -16519,16 +16524,16 @@
           ],
           "crew": [
             {
-              "name": "Krzysztof Piesiewicz",
-              "job": "Screenplay"
-            },
-            {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
-            },
-            {
               "name": "古茲托夫·奇斯洛夫斯基",
               "job": "Director"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Screenplay"
+            },
+            {
+              "name": "Krzysztof Piesiewicz",
+              "job": "Screenplay"
             }
           ],
           "budget": 0,
@@ -16678,16 +16683,16 @@
         ],
         "crew": [
           {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
-          },
-          {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
-          },
-          {
             "name": "Krzysztof Piesiewicz",
             "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -16810,16 +16815,16 @@
           ],
           "crew": [
             {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
-            },
-            {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
-            },
-            {
               "name": "Krzysztof Piesiewicz",
               "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -16969,11 +16974,11 @@
         "crew": [
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "Krzysztof Piesiewicz",
@@ -16991,7 +16996,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 4.8159,
+        "popularity": 4.0646,
         "imdbId": "tt0101765",
         "countries": [
           "France",
@@ -17100,11 +17105,11 @@
           "crew": [
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "Krzysztof Piesiewicz",
@@ -17251,12 +17256,12 @@
         ],
         "crew": [
           {
-            "name": "相米慎二",
-            "job": "Director"
-          },
-          {
             "name": "加藤祐司",
             "job": "Writer"
+          },
+          {
+            "name": "相米慎二",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -17368,12 +17373,12 @@
           ],
           "crew": [
             {
-              "name": "相米慎二",
-              "job": "Director"
-            },
-            {
               "name": "加藤祐司",
               "job": "Writer"
+            },
+            {
+              "name": "相米慎二",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -17523,7 +17528,7 @@
         "origLang": "ja",
         "origTitle": "ONE PIECE FILM Z",
         "platforms": [],
-        "popularity": 5.5493,
+        "popularity": 8.0767,
         "imdbId": "tt2375379",
         "countries": [
           "Japan"
@@ -18197,10 +18202,10 @@
           }
         ],
         "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/sbvXPLREf72muvzaR2vtIfmVQWH.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-        "voteAverage": "6.7",
+        "voteAverage": "6.2",
         "genre": [
           "愛情",
           "奇幻",
@@ -18293,9 +18298,9 @@
             "喜劇"
           ],
           "synopsis": "",
-          "poster": "https://image.tmdb.org/t/p/w500/sbvXPLREf72muvzaR2vtIfmVQWH.jpg",
+          "poster": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-          "voteAverage": "6.7",
+          "voteAverage": "6.2",
           "trailerKey": "fmMoGBw0Dkk",
           "imdbId": "tt32588798",
           "countries": [
@@ -18518,7 +18523,7 @@
         "origLang": "en",
         "origTitle": "Palestine 36",
         "platforms": [],
-        "popularity": 4.273,
+        "popularity": 4.4652,
         "imdbId": "tt29271622",
         "countries": [
           "Palestinian Territory",
@@ -19389,7 +19394,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Hamlet",
         "platforms": [],
-        "popularity": 1.2449,
+        "popularity": 1.079,
         "imdbId": "tt37511206",
         "countries": [
           "United Kingdom"
@@ -21062,7 +21067,7 @@
         "origLang": "ja",
         "origTitle": "時には懺悔を",
         "platforms": [],
-        "popularity": 3.9462,
+        "popularity": 2.855,
         "imdbId": "tt36236732",
         "countries": [
           "Japan"
@@ -21203,7 +21208,7 @@
         "rt": "",
         "mc": "",
         "ratingMeta": {},
-        "trailerKey": null,
+        "trailerKey": "Rb6QakKIH3M",
         "cast": [
           {
             "name": "William Hope",
@@ -21302,7 +21307,7 @@
           "poster": "https://image.tmdb.org/t/p/w500/zL2xS75LrMvI9xOnYnLN9Zaacdl.jpg",
           "backdrop": null,
           "voteAverage": "",
-          "trailerKey": null,
+          "trailerKey": "Rb6QakKIH3M",
           "imdbId": "tt31549553",
           "countries": [
             "Germany"
@@ -21436,7 +21441,7 @@
         "origLang": "zh",
         "origTitle": "婚・紗・罩",
         "platforms": [],
-        "popularity": 0.422,
+        "popularity": 0.4341,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -21847,7 +21852,7 @@
         "origLang": "ja",
         "origTitle": "ラブ≠コメディ",
         "platforms": [],
-        "popularity": 0.733,
+        "popularity": 0.8283,
         "imdbId": "tt43653895",
         "countries": [
           "Japan"
@@ -22649,7 +22654,7 @@
           {
             "name": "莫妮卡·巴巴羅",
             "char": "Madame de Tourvel",
-            "photo": "https://image.tmdb.org/t/p/w500/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
           },
           {
             "name": "Darragh Hand",
@@ -22764,7 +22769,7 @@
             {
               "name": "莫妮卡·巴巴羅",
               "char": "Madame de Tourvel",
-              "photo": "https://image.tmdb.org/t/p/w500/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
             },
             {
               "name": "Darragh Hand",
@@ -22993,7 +22998,7 @@
         "origLang": "ja",
         "origTitle": "リリイ・シュシュのすべて",
         "platforms": [],
-        "popularity": 6.3692,
+        "popularity": 7.5113,
         "imdbId": "tt0297721",
         "countries": [
           "Japan"
@@ -23165,12 +23170,12 @@
         ],
         "crew": [
           {
-            "name": "Cameron Alexander",
-            "job": "Writer"
-          },
-          {
             "name": "David Ayer",
             "job": "Director"
+          },
+          {
+            "name": "Cameron Alexander",
+            "job": "Writer"
           }
         ],
         "budget": 0,
@@ -23218,12 +23223,12 @@
           ],
           "crew": [
             {
-              "name": "Cameron Alexander",
-              "job": "Writer"
-            },
-            {
               "name": "David Ayer",
               "job": "Director"
+            },
+            {
+              "name": "Cameron Alexander",
+              "job": "Writer"
             }
           ],
           "budget": 0,
@@ -23339,7 +23344,7 @@
         "origLang": "fr",
         "origTitle": "À bicyclette !",
         "platforms": [],
-        "popularity": 2.7542,
+        "popularity": 2.686,
         "imdbId": "tt33298226",
         "countries": [
           "France"
@@ -23723,7 +23728,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "voteAverage": "8.4",
+        "voteAverage": "8.2",
         "genre": [
           "動作",
           "喜劇",
@@ -23813,7 +23818,7 @@
         "origLang": "en",
         "origTitle": "Runner",
         "platforms": [],
-        "popularity": 26.9876,
+        "popularity": 29.3373,
         "imdbId": "tt31349844",
         "countries": [
           "United States of America",
@@ -23829,7 +23834,7 @@
           "synopsis": "退伍特種部隊軍人漢克奉命護送醫療快遞員班，要將一副健康的肝臟送到病危的女孩手中，結果意圖搶奪肝臟的傭兵集團盯上了他們……",
           "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-          "voteAverage": "8.4",
+          "voteAverage": "8.2",
           "trailerKey": "S3Vz0fBz55A",
           "imdbId": "tt31349844",
           "countries": [
@@ -23966,7 +23971,7 @@
         "origLang": "en",
         "origTitle": "Space Cadet",
         "platforms": [],
-        "popularity": 2.9563,
+        "popularity": 2.9247,
         "imdbId": "tt26446095",
         "countries": [
           "Canada"
@@ -24036,13 +24041,13 @@
         "duration": 147,
         "synopsis": "",
         "imdb": "",
-        "rt": "98%",
+        "rt": "97%",
         "mc": "84",
         "ratingMeta": {
           "rt": {
             "source": "mdblist",
-            "votes": 85,
-            "lastChanged": "2026-08-19T00:01:20.118074+08:00"
+            "votes": 88,
+            "lastChanged": "2026-09-08T19:44:27.052615+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -24361,7 +24366,7 @@
         "origLang": "ja",
         "origTitle": "5秒で完全犯罪を生成する方法",
         "platforms": [],
-        "popularity": 1.2905,
+        "popularity": 1.3939,
         "imdbId": "tt42864901",
         "countries": [
           "Japan"
@@ -24575,11 +24580,11 @@
         ],
         "crew": [
           {
-            "name": "Christopher Markus",
+            "name": "Stephen McFeely",
             "job": "Screenplay"
           },
           {
-            "name": "Stephen McFeely",
+            "name": "Christopher Markus",
             "job": "Screenplay"
           },
           {
@@ -24703,11 +24708,11 @@
           ],
           "crew": [
             {
-              "name": "Christopher Markus",
+              "name": "Stephen McFeely",
               "job": "Screenplay"
             },
             {
-              "name": "Stephen McFeely",
+              "name": "Christopher Markus",
               "job": "Screenplay"
             },
             {
@@ -25054,7 +25059,7 @@
         "origLang": "en",
         "origTitle": "LINKIN PARK: UNSHATTER",
         "platforms": [],
-        "popularity": 2.387,
+        "popularity": 2.3611,
         "imdbId": "tt43442522",
         "countries": [
           "United States of America",
@@ -25226,7 +25231,7 @@
         "origLang": "ko",
         "origTitle": "부활남: 더 레드",
         "platforms": [],
-        "popularity": 2.8025,
+        "popularity": 3.1437,
         "imdbId": "tt29452783",
         "countries": [
           "South Korea"
@@ -25960,7 +25965,7 @@
         "origLang": "fr",
         "origTitle": "En nous",
         "platforms": [],
-        "popularity": 2.404,
+        "popularity": 2.5382,
         "imdbId": "tt37964027",
         "countries": [
           "France"
@@ -26050,7 +26055,7 @@
         "origLang": "zh",
         "origTitle": "遠離祖靈的孩子",
         "platforms": [],
-        "popularity": 0.4198,
+        "popularity": 0.4151,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -26652,7 +26657,7 @@
         "origLang": "en",
         "origTitle": "Other Mommy",
         "platforms": [],
-        "popularity": 12.0073,
+        "popularity": 11.2296,
         "imdbId": "tt36586020",
         "countries": [
           "United States of America"
@@ -26814,11 +26819,11 @@
         ],
         "budget": 0,
         "revenue": 0,
-        "status": "Post Production",
+        "status": "Released",
         "origLang": "en",
         "origTitle": "Always Lalisa",
         "platforms": [],
-        "popularity": 2.8417,
+        "popularity": 3.2939,
         "imdbId": "tt43696886",
         "countries": [
           "United States of America"
@@ -26853,7 +26858,7 @@
           ],
           "budget": 0,
           "revenue": 0,
-          "status": "Post Production",
+          "status": "Released",
           "origLang": "en",
           "origTitle": "Always Lalisa",
           "platforms": []
@@ -27204,7 +27209,7 @@
         "origLang": "en",
         "origTitle": "Whalefall",
         "platforms": [],
-        "popularity": 7.2315,
+        "popularity": 7.1254,
         "imdbId": "tt28535715",
         "countries": [
           "United States of America"
@@ -27605,7 +27610,7 @@
         "origLang": "ja",
         "origTitle": "mentor",
         "platforms": [],
-        "popularity": 1.4169,
+        "popularity": 1.5354,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -27862,7 +27867,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Mrs. Warren's Profession",
         "platforms": [],
-        "popularity": 0.9495,
+        "popularity": 0.9496,
         "imdbId": "tt37511195",
         "countries": [
           "United Kingdom"
@@ -28736,7 +28741,7 @@
         "origLang": "ja",
         "origTitle": "ゴジラ-0.0",
         "platforms": [],
-        "popularity": 5.5709,
+        "popularity": 5.6495,
         "imdbId": "tt34384661",
         "countries": [
           "Japan"
@@ -30335,7 +30340,7 @@
           {
             "name": "千黛亞",
             "char": "Chani",
-            "photo": "https://image.tmdb.org/t/p/w500/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
           },
           {
             "name": "傑森·摩莫亞",
@@ -30401,11 +30406,11 @@
         "crew": [
           {
             "name": "丹尼·維勒納夫",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "丹尼·維勒納夫",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "Brian K. Vaughan",
@@ -30418,7 +30423,7 @@
         "origLang": "en",
         "origTitle": "Dune: Part Three",
         "platforms": [],
-        "popularity": 14.7015,
+        "popularity": 15.0648,
         "imdbId": "tt31378509",
         "countries": [
           "United States of America"
@@ -30447,7 +30452,7 @@
             {
               "name": "千黛亞",
               "char": "Chani",
-              "photo": "https://image.tmdb.org/t/p/w500/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
             },
             {
               "name": "傑森·摩莫亞",
@@ -30513,11 +30518,11 @@
           "crew": [
             {
               "name": "丹尼·維勒納夫",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "丹尼·維勒納夫",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "Brian K. Vaughan",
@@ -30668,7 +30673,7 @@
         "origLang": "en",
         "origTitle": "Avengers: Doomsday",
         "platforms": [],
-        "popularity": 49.4648,
+        "popularity": 46.2898,
         "imdbId": "tt21357150",
         "countries": [
           "United States of America"
@@ -30910,7 +30915,7 @@
         "origLang": "en",
         "origTitle": "Ice Age: Boiling Point",
         "platforms": [],
-        "popularity": 12.0341,
+        "popularity": 12.6524,
         "imdbId": "tt34512981",
         "countries": [
           "United States of America"
@@ -31080,7 +31085,7 @@
         "origLang": "en",
         "origTitle": "Gatto",
         "platforms": [],
-        "popularity": 6.1653,
+        "popularity": 6.6706,
         "imdbId": "tt26443610",
         "countries": [
           "United States of America"

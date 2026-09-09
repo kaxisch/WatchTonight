@@ -1,12 +1,173 @@
 {
-  "generated_at": "2026-09-09T22:00:47.194433+08:00",
+  "generated_at": "2026-09-10T00:53:49.959504+08:00",
   "source": "api.themoviedb.org",
   "summary": {
-    "now_count": 63,
-    "soon_count": 81
+    "now_count": 64,
+    "soon_count": 80
   },
   "movies": {
     "now": [
+      {
+        "id": 1193673,
+        "titleZh": "怎麼可能我家的祖先是你家的鬼",
+        "titleEn": "怎麼可能我家的祖先是你家的鬼",
+        "releaseDate": "2026-09-10",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-09-10",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/myDhMRgMKe0jBNVZu7k7ZwZIkQE.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/59iwNj0zSo6ReMlxMzEIDXkAwYf.jpg",
+        "voteAverage": "",
+        "genre": [
+          "喜劇",
+          "恐怖"
+        ],
+        "duration": 88,
+        "synopsis": "日本潮流天后為追憶母親，旋風造訪母親位於鄉村部落的出生地，並邀小學同學心嵐偕男友萬德陪同上山。一行人嬉鬧入林，只有萬德始終繃緊神經，就怕驚動山林中的祖靈。夜漸深，濃霧鎖山、異象連環，恐懼逐漸化作心魔，甚至引來邪靈相伴。這趟山林之行，是尋根之旅，還是失魂記？",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": "J_U8SyFd6o4",
+        "cast": [
+          {
+            "name": "蘇達",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/cEx7NEqSyUADBUr3RZRlxB2WgAe.jpg"
+          },
+          {
+            "name": "小薰",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/yGiHpKyLoM3gJKKhpXqtqs4KF1s.jpg"
+          },
+          {
+            "name": "渡邊直美",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/jFaLYZpnHjYkdWjFkwc5PDPS99h.jpg"
+          },
+          {
+            "name": "劉以豪",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/n4RULK7H8nooIm9WVwW7AghKElO.jpg"
+          },
+          {
+            "name": "撒基努",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/55kyzKRfrzC3Hyr9324bB4Ksd6p.jpg"
+          },
+          {
+            "name": "徐若瑄",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/stfg4eGYLAUy1SMVNxA9raT3do1.jpg"
+          },
+          {
+            "name": "黃信赫",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/HSxdR2EUKggkowESqhHbH47HvO.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "蘇達",
+            "job": "Writer"
+          },
+          {
+            "name": "蘇達",
+            "job": "Director"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Released",
+        "origLang": "zh",
+        "origTitle": "怎麼可能我家的祖先是你家的鬼",
+        "platforms": [],
+        "popularity": 1.073,
+        "imdbId": "tt43560584",
+        "countries": [
+          "Taiwan"
+        ],
+        "detail": {
+          "duration": 88,
+          "genres": [
+            "喜劇",
+            "恐怖"
+          ],
+          "synopsis": "日本潮流天后為追憶母親，旋風造訪母親位於鄉村部落的出生地，並邀小學同學心嵐偕男友萬德陪同上山。一行人嬉鬧入林，只有萬德始終繃緊神經，就怕驚動山林中的祖靈。夜漸深，濃霧鎖山、異象連環，恐懼逐漸化作心魔，甚至引來邪靈相伴。這趟山林之行，是尋根之旅，還是失魂記？",
+          "poster": "https://image.tmdb.org/t/p/w500/myDhMRgMKe0jBNVZu7k7ZwZIkQE.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/59iwNj0zSo6ReMlxMzEIDXkAwYf.jpg",
+          "voteAverage": "",
+          "trailerKey": "J_U8SyFd6o4",
+          "imdbId": "tt43560584",
+          "countries": [
+            "Taiwan"
+          ],
+          "cast": [
+            {
+              "name": "蘇達",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/cEx7NEqSyUADBUr3RZRlxB2WgAe.jpg"
+            },
+            {
+              "name": "小薰",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/yGiHpKyLoM3gJKKhpXqtqs4KF1s.jpg"
+            },
+            {
+              "name": "渡邊直美",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/jFaLYZpnHjYkdWjFkwc5PDPS99h.jpg"
+            },
+            {
+              "name": "劉以豪",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/n4RULK7H8nooIm9WVwW7AghKElO.jpg"
+            },
+            {
+              "name": "撒基努",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/55kyzKRfrzC3Hyr9324bB4Ksd6p.jpg"
+            },
+            {
+              "name": "徐若瑄",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/stfg4eGYLAUy1SMVNxA9raT3do1.jpg"
+            },
+            {
+              "name": "黃信赫",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/HSxdR2EUKggkowESqhHbH47HvO.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "蘇達",
+              "job": "Writer"
+            },
+            {
+              "name": "蘇達",
+              "job": "Director"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Released",
+          "origLang": "zh",
+          "origTitle": "怎麼可能我家的祖先是你家的鬼",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1193673?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
       {
         "id": 71883,
         "titleZh": "超時空甩尾",
@@ -3801,15 +3962,15 @@
         ],
         "crew": [
           {
-            "name": "單丹丹",
-            "job": "Writer"
-          },
-          {
             "name": "李闊",
             "job": "Director"
           },
           {
-            "name": "李闊",
+            "name": "單丹丹",
+            "job": "Director"
+          },
+          {
+            "name": "單丹丹",
             "job": "Writer"
           }
         ],
@@ -3913,15 +4074,15 @@
           ],
           "crew": [
             {
-              "name": "單丹丹",
-              "job": "Writer"
-            },
-            {
               "name": "李闊",
               "job": "Director"
             },
             {
-              "name": "李闊",
+              "name": "單丹丹",
+              "job": "Director"
+            },
+            {
+              "name": "單丹丹",
               "job": "Writer"
             }
           ],
@@ -5109,7 +5270,7 @@
           {
             "name": "山繆·傑克森",
             "char": "Jack Wolfe",
-            "photo": "https://image.tmdb.org/t/p/w500/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
           },
           {
             "name": "伊娃葛林",
@@ -5227,7 +5388,7 @@
             {
               "name": "山繆·傑克森",
               "char": "Jack Wolfe",
-              "photo": "https://image.tmdb.org/t/p/w500/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
             },
             {
               "name": "伊娃葛林",
@@ -9313,8 +9474,8 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-        "voteAverage": "7.0",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+        "voteAverage": "6.9",
         "genre": [
           "喜劇",
           "愛情"
@@ -9453,8 +9614,8 @@
           ],
           "synopsis": "剛被女友狠甩的歐文和滿懷浪漫情懷和希望的艾莉或許是這座城市裡唯二只想要尋找真愛的單身人士，而不只是想找一個一夜情的性伴侶。他們相遇時都感到彼此之間擦出火花，但是一連串的意外和其他的冒險卻讓他們的夜晚變得很複雜，結果被迫分開。當他們在城市中奔向彼此又在無意間遠離彼此的時候，也許他們會發現，他們最渴望的東西其實近在咫尺。",
           "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-          "voteAverage": "7.0",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+          "voteAverage": "6.9",
           "trailerKey": "lIl2WzFiF0A",
           "imdbId": "tt37853455",
           "countries": [
@@ -13407,7 +13568,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
         "voteAverage": "8.0",
         "genre": [
           "冒險",
@@ -13550,7 +13711,7 @@
           ],
           "synopsis": "講述奧德修斯在特洛伊戰爭後歷經艱險返鄉，途中遭遇獨眼巨人、女妖與女巫，最終與妻子重逢的傳奇旅程。",
           "poster": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
           "voteAverage": "8.0",
           "trailerKey": "2rzJuAIj0VI",
           "imdbId": "tt33764258",
@@ -15069,167 +15230,6 @@
     ],
     "soon": [
       {
-        "id": 1193673,
-        "titleZh": "怎麼可能我家的祖先是你家的鬼",
-        "titleEn": "怎麼可能我家的祖先是你家的鬼",
-        "releaseDate": "2026-09-10",
-        "releaseYear": "2026",
-        "isRerelease": false,
-        "twTheatricalReleases": [
-          {
-            "date": "2026-09-10",
-            "language": ""
-          }
-        ],
-        "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/myDhMRgMKe0jBNVZu7k7ZwZIkQE.jpg",
-        "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/59iwNj0zSo6ReMlxMzEIDXkAwYf.jpg",
-        "voteAverage": "",
-        "genre": [
-          "喜劇",
-          "恐怖"
-        ],
-        "duration": 88,
-        "synopsis": "日本潮流天后為追憶母親，旋風造訪母親位於鄉村部落的出生地，並邀小學同學心嵐偕男友萬德陪同上山。一行人嬉鬧入林，只有萬德始終繃緊神經，就怕驚動山林中的祖靈。夜漸深，濃霧鎖山、異象連環，恐懼逐漸化作心魔，甚至引來邪靈相伴。這趟山林之行，是尋根之旅，還是失魂記？",
-        "imdb": "",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {},
-        "trailerKey": "J_U8SyFd6o4",
-        "cast": [
-          {
-            "name": "蘇達",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/cEx7NEqSyUADBUr3RZRlxB2WgAe.jpg"
-          },
-          {
-            "name": "小薰",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/yGiHpKyLoM3gJKKhpXqtqs4KF1s.jpg"
-          },
-          {
-            "name": "渡邊直美",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/jFaLYZpnHjYkdWjFkwc5PDPS99h.jpg"
-          },
-          {
-            "name": "劉以豪",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/n4RULK7H8nooIm9WVwW7AghKElO.jpg"
-          },
-          {
-            "name": "撒基努",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/55kyzKRfrzC3Hyr9324bB4Ksd6p.jpg"
-          },
-          {
-            "name": "徐若瑄",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/stfg4eGYLAUy1SMVNxA9raT3do1.jpg"
-          },
-          {
-            "name": "黃信赫",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/HSxdR2EUKggkowESqhHbH47HvO.jpg"
-          }
-        ],
-        "crew": [
-          {
-            "name": "蘇達",
-            "job": "Director"
-          },
-          {
-            "name": "蘇達",
-            "job": "Writer"
-          }
-        ],
-        "budget": 0,
-        "revenue": 0,
-        "status": "Released",
-        "origLang": "zh",
-        "origTitle": "怎麼可能我家的祖先是你家的鬼",
-        "platforms": [],
-        "popularity": 1.073,
-        "imdbId": "tt43560584",
-        "countries": [
-          "Taiwan"
-        ],
-        "detail": {
-          "duration": 88,
-          "genres": [
-            "喜劇",
-            "恐怖"
-          ],
-          "synopsis": "日本潮流天后為追憶母親，旋風造訪母親位於鄉村部落的出生地，並邀小學同學心嵐偕男友萬德陪同上山。一行人嬉鬧入林，只有萬德始終繃緊神經，就怕驚動山林中的祖靈。夜漸深，濃霧鎖山、異象連環，恐懼逐漸化作心魔，甚至引來邪靈相伴。這趟山林之行，是尋根之旅，還是失魂記？",
-          "poster": "https://image.tmdb.org/t/p/w500/myDhMRgMKe0jBNVZu7k7ZwZIkQE.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/59iwNj0zSo6ReMlxMzEIDXkAwYf.jpg",
-          "voteAverage": "",
-          "trailerKey": "J_U8SyFd6o4",
-          "imdbId": "tt43560584",
-          "countries": [
-            "Taiwan"
-          ],
-          "cast": [
-            {
-              "name": "蘇達",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/cEx7NEqSyUADBUr3RZRlxB2WgAe.jpg"
-            },
-            {
-              "name": "小薰",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/yGiHpKyLoM3gJKKhpXqtqs4KF1s.jpg"
-            },
-            {
-              "name": "渡邊直美",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/jFaLYZpnHjYkdWjFkwc5PDPS99h.jpg"
-            },
-            {
-              "name": "劉以豪",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/n4RULK7H8nooIm9WVwW7AghKElO.jpg"
-            },
-            {
-              "name": "撒基努",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/55kyzKRfrzC3Hyr9324bB4Ksd6p.jpg"
-            },
-            {
-              "name": "徐若瑄",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/stfg4eGYLAUy1SMVNxA9raT3do1.jpg"
-            },
-            {
-              "name": "黃信赫",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/HSxdR2EUKggkowESqhHbH47HvO.jpg"
-            }
-          ],
-          "crew": [
-            {
-              "name": "蘇達",
-              "job": "Director"
-            },
-            {
-              "name": "蘇達",
-              "job": "Writer"
-            }
-          ],
-          "budget": 0,
-          "revenue": 0,
-          "status": "Released",
-          "origLang": "zh",
-          "origTitle": "怎麼可能我家的祖先是你家的鬼",
-          "platforms": []
-        },
-        "tmdbUrl": "https://www.themoviedb.org/movie/1193673?language=zh-TW",
-        "atmoviesId": "",
-        "atmoviesUrl": "",
-        "sourceBucket": "tmdb"
-      },
-      {
         "id": 108,
         "titleZh": "藍色情挑",
         "titleEn": "Trois couleurs : Bleu",
@@ -16219,12 +16219,12 @@
         ],
         "crew": [
           {
-            "name": "相米慎二",
-            "job": "Director"
-          },
-          {
             "name": "加藤祐司",
             "job": "Writer"
+          },
+          {
+            "name": "相米慎二",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -16336,12 +16336,12 @@
           ],
           "crew": [
             {
-              "name": "相米慎二",
-              "job": "Director"
-            },
-            {
               "name": "加藤祐司",
               "job": "Writer"
+            },
+            {
+              "name": "相米慎二",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -17787,7 +17787,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-        "voteAverage": "7.6",
+        "voteAverage": "8.1",
         "genre": [
           "劇情"
         ],
@@ -17895,7 +17895,7 @@
           "synopsis": "一心以成為漫畫家為目標的兩位少女藤野、京本之間青春動人的故事。",
           "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-          "voteAverage": "7.6",
+          "voteAverage": "8.1",
           "trailerKey": "ad3giJ30GOw",
           "imdbId": "tt39094466",
           "countries": [
@@ -21357,11 +21357,11 @@
         "crew": [
           {
             "name": "張艾嘉",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "張艾嘉",
-            "job": "Director"
+            "job": "Screenplay"
           }
         ],
         "budget": 0,
@@ -21430,11 +21430,11 @@
           "crew": [
             {
               "name": "張艾嘉",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "張艾嘉",
-              "job": "Director"
+              "job": "Screenplay"
             }
           ],
           "budget": 0,
@@ -22234,7 +22234,7 @@
             "job": "Screenplay"
           },
           {
-            "name": "Anthony Russo",
+            "name": "Joe Russo",
             "job": "Director"
           }
         ],
@@ -22362,7 +22362,7 @@
               "job": "Screenplay"
             },
             {
-              "name": "Anthony Russo",
+              "name": "Joe Russo",
               "job": "Director"
             }
           ],
@@ -22998,7 +22998,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
         "voteAverage": "8.4",
         "genre": [
           "動作",
@@ -23115,7 +23115,7 @@
           ],
           "synopsis": "退伍特種部隊軍人漢克奉命護送醫療快遞員班，要將一副健康的肝臟送到病危的女孩手中，結果意圖搶奪肝臟的傭兵集團盯上了他們……",
           "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
           "voteAverage": "8.4",
           "trailerKey": "S3Vz0fBz55A",
           "imdbId": "tt31349844",
@@ -23888,7 +23888,7 @@
           {
             "name": "萊薩·索貝拉諾",
             "char": "Raissa (voice)",
-            "photo": "https://image.tmdb.org/t/p/w500/iAaE3bbG5gyLQVdLoIKg5lcSc1q.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/fXynqs4UaBMq7HiMQoNqahm1PhZ.jpg"
           },
           {
             "name": "戴夫·法蘭科",
@@ -23998,7 +23998,7 @@
             {
               "name": "萊薩·索貝拉諾",
               "char": "Raissa (voice)",
-              "photo": "https://image.tmdb.org/t/p/w500/iAaE3bbG5gyLQVdLoIKg5lcSc1q.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/fXynqs4UaBMq7HiMQoNqahm1PhZ.jpg"
             },
             {
               "name": "戴夫·法蘭科",
@@ -24327,7 +24327,7 @@
             "job": "Director"
           },
           {
-            "name": "Kang Sun-ju",
+            "name": "강선주",
             "job": "Writer"
           },
           {
@@ -24404,7 +24404,7 @@
               "job": "Director"
             },
             {
-              "name": "Kang Sun-ju",
+              "name": "강선주",
               "job": "Writer"
             },
             {
@@ -26185,7 +26185,7 @@
         "origTitle": "Always Lalisa",
         "platforms": [],
         "popularity": 3.2112,
-        "imdbId": "tt43696886",
+        "imdbId": "tt37108970",
         "countries": [
           "United States of America"
         ],
@@ -26200,7 +26200,7 @@
           "backdrop": "https://image.tmdb.org/t/p/w1280/wJwTuwy1ZajIA6ivGjoe0Ee08XN.jpg",
           "voteAverage": "",
           "trailerKey": null,
-          "imdbId": "tt43696886",
+          "imdbId": "tt37108970",
           "countries": [
             "United States of America"
           ],
@@ -30641,11 +30641,11 @@
         "crew": [
           {
             "name": "丹尼·維勒納夫",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "丹尼·維勒納夫",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "Brian K. Vaughan",
@@ -30753,11 +30753,11 @@
           "crew": [
             {
               "name": "丹尼·維勒納夫",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "丹尼·維勒納夫",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "Brian K. Vaughan",

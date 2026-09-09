@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T13:09:44.762945+08:00",
+  "generated_at": "2026-09-09T19:50:01.151926+08:00",
   "source": "api.themoviedb.org",
   "summary": {
-    "now_count": 63,
-    "soon_count": 79
+    "now_count": 65,
+    "soon_count": 80
   },
   "movies": {
     "now": [
@@ -587,8 +587,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "mdblist",
-            "votes": 249,
+            "source": "omdb",
+            "votes": 0,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -705,7 +705,7 @@
             "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
           }
         ],
-        "popularity": 9.98,
+        "popularity": 9.6897,
         "imdbId": "tt10370710",
         "countries": [
           "Norway",
@@ -1182,7 +1182,7 @@
         "origLang": "ko",
         "origTitle": "호프",
         "platforms": [],
-        "popularity": 35.272,
+        "popularity": 37.0798,
         "imdbId": "tt27369017",
         "countries": [
           "South Korea"
@@ -1324,7 +1324,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-        "voteAverage": "6.8",
+        "voteAverage": "6.9",
         "genre": [
           "驚悚"
         ],
@@ -1467,7 +1467,7 @@
           "synopsis": "妹妹杭特去世後，賈克斯悲痛欲絕，為了療傷，她邀請大膽的好友露絲一起挑戰泰國關山惡名昭彰的棧板步道。然而，突如其來的山崩讓她們困在距離地表3000英尺的高空，腳下只剩幾片殘存的木板。為了活下去，賈克斯必須面對內心最深的恐懼……",
           "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-          "voteAverage": "6.8",
+          "voteAverage": "6.9",
           "trailerKey": "9spjI5Y0jPg",
           "imdbId": "tt31192372",
           "countries": [
@@ -1693,7 +1693,7 @@
         "origLang": "ko",
         "origTitle": "마지막 숙제",
         "platforms": [],
-        "popularity": 0.9874,
+        "popularity": 0.829,
         "imdbId": "tt34539004",
         "countries": [
           "South Korea"
@@ -2236,7 +2236,7 @@
         "origLang": "zh",
         "origTitle": "我的爸爸是死刑犯",
         "platforms": [],
-        "popularity": 0.9959,
+        "popularity": 1.0055,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -3801,15 +3801,15 @@
         ],
         "crew": [
           {
+            "name": "單丹丹",
+            "job": "Writer"
+          },
+          {
             "name": "李闊",
             "job": "Director"
           },
           {
-            "name": "單丹丹",
-            "job": "Director"
-          },
-          {
-            "name": "單丹丹",
+            "name": "李闊",
             "job": "Writer"
           }
         ],
@@ -3913,15 +3913,15 @@
           ],
           "crew": [
             {
+              "name": "單丹丹",
+              "job": "Writer"
+            },
+            {
               "name": "李闊",
               "job": "Director"
             },
             {
-              "name": "單丹丹",
-              "job": "Director"
-            },
-            {
-              "name": "單丹丹",
+              "name": "李闊",
               "job": "Writer"
             }
           ],
@@ -4071,7 +4071,7 @@
         "origLang": "fr",
         "origTitle": "Amour Apocalypse",
         "platforms": [],
-        "popularity": 5.4465,
+        "popularity": 5.4125,
         "imdbId": "tt33335204",
         "countries": [
           "Canada"
@@ -4975,7 +4975,7 @@
         "origLang": "ja",
         "origTitle": "兄を持ち運べるサイズに",
         "platforms": [],
-        "popularity": 2.0434,
+        "popularity": 2.1286,
         "imdbId": "tt38504671",
         "countries": [
           "Japan"
@@ -5203,7 +5203,7 @@
         "origLang": "en",
         "origTitle": "Just Play Dead",
         "platforms": [],
-        "popularity": 74.1953,
+        "popularity": 64.0573,
         "imdbId": "tt36948232",
         "countries": [
           "United Kingdom"
@@ -5893,7 +5893,7 @@
             "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           }
         ],
-        "popularity": 14.5658,
+        "popularity": 12.4706,
         "imdbId": "tt31711040",
         "countries": [
           "Japan"
@@ -6038,7 +6038,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
         "voteAverage": "6.7",
         "genre": [
           "科幻",
@@ -6166,7 +6166,7 @@
         "origLang": "en",
         "origTitle": "The Dog Stars",
         "platforms": [],
-        "popularity": 66.6489,
+        "popularity": 57.6304,
         "imdbId": "tt21285562",
         "countries": [
           "United States of America"
@@ -6180,7 +6180,7 @@
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
           "voteAverage": "6.7",
           "trailerKey": "5I3Tal6CXB0",
           "imdbId": "tt21285562",
@@ -6652,7 +6652,7 @@
         "origLang": "zh",
         "origTitle": "網紅老爸",
         "platforms": [],
-        "popularity": 1.7569,
+        "popularity": 1.8688,
         "imdbId": "tt44878475",
         "countries": [
           "Taiwan"
@@ -7184,12 +7184,12 @@
         ],
         "crew": [
           {
-            "name": "石立太一",
-            "job": "Director"
-          },
-          {
             "name": "花田十輝",
             "job": "Screenplay"
+          },
+          {
+            "name": "石立太一",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -7305,12 +7305,12 @@
           ],
           "crew": [
             {
-              "name": "石立太一",
-              "job": "Director"
-            },
-            {
               "name": "花田十輝",
               "job": "Screenplay"
+            },
+            {
+              "name": "石立太一",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -8162,7 +8162,7 @@
         "origLang": "en",
         "origTitle": "My Father's Shadow",
         "platforms": [],
-        "popularity": 2.9235,
+        "popularity": 2.9674,
         "imdbId": "tt35695538",
         "countries": [
           "Nigeria",
@@ -8769,7 +8769,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/9UmRLdkctpIwvUkmPFvyz67Psu8.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
         "voteAverage": "6.4",
         "genre": [
           "動作",
@@ -8802,7 +8802,7 @@
           {
             "name": "傑森·史塔森",
             "char": "Cole Reed",
-            "photo": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
           },
           {
             "name": "安娜貝爾・華麗絲",
@@ -8914,7 +8914,7 @@
           ],
           "synopsis": "目睹億萬富翁企業家老闆在面前遭到殺害後，柯爾李德被誣陷為兇手，他被迫展開逃亡，同時要在過程中設法揭發一樁國際陰謀。",
           "poster": "https://image.tmdb.org/t/p/w500/9UmRLdkctpIwvUkmPFvyz67Psu8.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
           "voteAverage": "6.4",
           "trailerKey": "NfocDa8yXOk",
           "imdbId": "tt32338669",
@@ -8926,7 +8926,7 @@
             {
               "name": "傑森·史塔森",
               "char": "Cole Reed",
-              "photo": "https://image.tmdb.org/t/p/w500/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
             },
             {
               "name": "安娜貝爾・華麗絲",
@@ -9065,7 +9065,7 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 125,
+            "votes": 129,
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "mc": {
@@ -9168,12 +9168,12 @@
           }
         ],
         "budget": 18000000,
-        "revenue": 139189759,
+        "revenue": 139530241,
         "status": "Released",
         "origLang": "en",
         "origTitle": "Insidious: Out of the Further",
         "platforms": [],
-        "popularity": 55.2423,
+        "popularity": 50.0771,
         "imdbId": "tt32393988",
         "countries": [
           "United States of America"
@@ -9286,7 +9286,7 @@
             }
           ],
           "budget": 18000000,
-          "revenue": 139189759,
+          "revenue": 139530241,
           "status": "Released",
           "origLang": "en",
           "origTitle": "Insidious: Out of the Further",
@@ -9314,7 +9314,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-        "voteAverage": "7.1",
+        "voteAverage": "7.0",
         "genre": [
           "喜劇",
           "愛情"
@@ -9440,7 +9440,7 @@
         "origLang": "en",
         "origTitle": "One Night Only",
         "platforms": [],
-        "popularity": 28.0886,
+        "popularity": 71.2824,
         "imdbId": "tt37853455",
         "countries": [
           "United States of America"
@@ -9454,7 +9454,7 @@
           "synopsis": "剛被女友狠甩的歐文和滿懷浪漫情懷和希望的艾莉或許是這座城市裡唯二只想要尋找真愛的單身人士，而不只是想找一個一夜情的性伴侶。他們相遇時都感到彼此之間擦出火花，但是一連串的意外和其他的冒險卻讓他們的夜晚變得很複雜，結果被迫分開。當他們在城市中奔向彼此又在無意間遠離彼此的時候，也許他們會發現，他們最渴望的東西其實近在咫尺。",
           "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-          "voteAverage": "7.1",
+          "voteAverage": "7.0",
           "trailerKey": "lIl2WzFiF0A",
           "imdbId": "tt37853455",
           "countries": [
@@ -9560,6 +9560,368 @@
           "platforms": []
         },
         "tmdbUrl": "https://www.themoviedb.org/movie/1433367?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
+        "id": 1509632,
+        "titleZh": "我們不是什麼",
+        "titleEn": "我們不是什麼",
+        "releaseDate": "2026-08-16",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-08-16",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xP9YyExJeXo5c5WrjRftm90mQRt.jpg",
+        "voteAverage": "7.5",
+        "genre": [
+          "犯罪",
+          "劇情"
+        ],
+        "duration": 128,
+        "synopsis": "情人節當天，一輛雙層巴士在香港市中心爆炸，造成大量乘客傷亡。警方找來鑑定專家，兩具無家屬認領少年遺體，成為著重調查對象。鑑定的不只是物理證據，也是人際網絡和生命軌跡，被排斥及壓迫的他們在亂世中彷彿什麼都不是，但仍勇敢面對命運。",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "譚耀文",
+            "char": "Lung",
+            "photo": "https://image.tmdb.org/t/p/w500/aOus8OyhjMqJxnZsI0r5krej8TU.jpg"
+          },
+          {
+            "name": "江熚生",
+            "char": "Fai",
+            "photo": "https://image.tmdb.org/t/p/w500/u855FOXF78pF3uO91cVYDOyvVWS.jpg"
+          },
+          {
+            "name": "陳毅燊",
+            "char": "Ike",
+            "photo": "https://image.tmdb.org/t/p/w500/2ixDLVrKEy6nzM0ja7dBuJNQkJE.jpg"
+          },
+          {
+            "name": "Chu Pak-Him",
+            "char": "Chiang Chung",
+            "photo": "https://image.tmdb.org/t/p/w500/vxBKBIa3hZDXxT3PGzUbj666dGe.jpg"
+          },
+          {
+            "name": "梁雍婷",
+            "char": "Ike's Sister",
+            "photo": "https://image.tmdb.org/t/p/w500/frTVaV1U4KqPeHwSnoeB1JorUtw.jpg"
+          },
+          {
+            "name": "駱振偉",
+            "char": "Andrew",
+            "photo": "https://image.tmdb.org/t/p/w500/ba7185vQ34idyYu1b3b2NjJ82uX.jpg"
+          },
+          {
+            "name": "林宣妤",
+            "char": "Investigator",
+            "photo": "https://image.tmdb.org/t/p/w500/vPc8yPmvKzw9vSQnSHd1c4X8MeF.jpg"
+          },
+          {
+            "name": "陳淑儀",
+            "char": "Ike's Father",
+            "photo": "https://image.tmdb.org/t/p/w500/j8BaI0GslLQtxhG9B8MitChT8kE.jpg"
+          },
+          {
+            "name": "寶佩如",
+            "char": "Ike's Mother",
+            "photo": "https://image.tmdb.org/t/p/w500/tgi7c0RFzZyqRNPiuZp1dqsEZN8.jpg"
+          },
+          {
+            "name": "麥沛東",
+            "char": "Taxi Driver",
+            "photo": "https://image.tmdb.org/t/p/w500/mhdaIJ9tgLmcW8jT6UHWBMINTDh.jpg"
+          },
+          {
+            "name": "廖愛玲",
+            "char": "Chief Superintendent",
+            "photo": null
+          },
+          {
+            "name": "朱天",
+            "char": "Investigator",
+            "photo": "https://image.tmdb.org/t/p/w500/9gqHcq3vMqEemdtpr3pc4HTNlQ.jpg"
+          },
+          {
+            "name": "徐偉棟",
+            "char": "Loan Shark",
+            "photo": "https://image.tmdb.org/t/p/w500/rbVCAOS3Dp5q9HMDdWCGBQ6J7KO.jpg"
+          },
+          {
+            "name": "蘇偉泉",
+            "char": "Bar Customer",
+            "photo": "https://image.tmdb.org/t/p/w500/unPemOz6464jdASv7ct5QBofbEi.jpg"
+          },
+          {
+            "name": "王貝兒",
+            "char": "Zoe",
+            "photo": "https://image.tmdb.org/t/p/w500/6UerZ84pnkjeEzMBogxbYti7nQk.jpg"
+          },
+          {
+            "name": "吳致毅",
+            "char": "Debtor",
+            "photo": "https://image.tmdb.org/t/p/w500/5augmrSzGejWrTYhGm0Lkx3xv5L.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "邱禮濤",
+            "job": "Director"
+          },
+          {
+            "name": "邱禮濤",
+            "job": "Writer"
+          }
+        ],
+        "budget": 0,
+        "revenue": 128,
+        "status": "Released",
+        "origLang": "cn",
+        "origTitle": "我們不是什麼",
+        "platforms": [],
+        "popularity": 2.4881,
+        "imdbId": "tt37535198",
+        "countries": [
+          "Hong Kong"
+        ],
+        "detail": {
+          "duration": 128,
+          "genres": [
+            "犯罪",
+            "劇情"
+          ],
+          "synopsis": "情人節當天，一輛雙層巴士在香港市中心爆炸，造成大量乘客傷亡。警方找來鑑定專家，兩具無家屬認領少年遺體，成為著重調查對象。鑑定的不只是物理證據，也是人際網絡和生命軌跡，被排斥及壓迫的他們在亂世中彷彿什麼都不是，但仍勇敢面對命運。",
+          "poster": "https://image.tmdb.org/t/p/w500/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/xP9YyExJeXo5c5WrjRftm90mQRt.jpg",
+          "voteAverage": "7.5",
+          "trailerKey": null,
+          "imdbId": "tt37535198",
+          "countries": [
+            "Hong Kong"
+          ],
+          "cast": [
+            {
+              "name": "譚耀文",
+              "char": "Lung",
+              "photo": "https://image.tmdb.org/t/p/w500/aOus8OyhjMqJxnZsI0r5krej8TU.jpg"
+            },
+            {
+              "name": "江熚生",
+              "char": "Fai",
+              "photo": "https://image.tmdb.org/t/p/w500/u855FOXF78pF3uO91cVYDOyvVWS.jpg"
+            },
+            {
+              "name": "陳毅燊",
+              "char": "Ike",
+              "photo": "https://image.tmdb.org/t/p/w500/2ixDLVrKEy6nzM0ja7dBuJNQkJE.jpg"
+            },
+            {
+              "name": "Chu Pak-Him",
+              "char": "Chiang Chung",
+              "photo": "https://image.tmdb.org/t/p/w500/vxBKBIa3hZDXxT3PGzUbj666dGe.jpg"
+            },
+            {
+              "name": "梁雍婷",
+              "char": "Ike's Sister",
+              "photo": "https://image.tmdb.org/t/p/w500/frTVaV1U4KqPeHwSnoeB1JorUtw.jpg"
+            },
+            {
+              "name": "駱振偉",
+              "char": "Andrew",
+              "photo": "https://image.tmdb.org/t/p/w500/ba7185vQ34idyYu1b3b2NjJ82uX.jpg"
+            },
+            {
+              "name": "林宣妤",
+              "char": "Investigator",
+              "photo": "https://image.tmdb.org/t/p/w500/vPc8yPmvKzw9vSQnSHd1c4X8MeF.jpg"
+            },
+            {
+              "name": "陳淑儀",
+              "char": "Ike's Father",
+              "photo": "https://image.tmdb.org/t/p/w500/j8BaI0GslLQtxhG9B8MitChT8kE.jpg"
+            },
+            {
+              "name": "寶佩如",
+              "char": "Ike's Mother",
+              "photo": "https://image.tmdb.org/t/p/w500/tgi7c0RFzZyqRNPiuZp1dqsEZN8.jpg"
+            },
+            {
+              "name": "麥沛東",
+              "char": "Taxi Driver",
+              "photo": "https://image.tmdb.org/t/p/w500/mhdaIJ9tgLmcW8jT6UHWBMINTDh.jpg"
+            },
+            {
+              "name": "廖愛玲",
+              "char": "Chief Superintendent",
+              "photo": null
+            },
+            {
+              "name": "朱天",
+              "char": "Investigator",
+              "photo": "https://image.tmdb.org/t/p/w500/9gqHcq3vMqEemdtpr3pc4HTNlQ.jpg"
+            },
+            {
+              "name": "徐偉棟",
+              "char": "Loan Shark",
+              "photo": "https://image.tmdb.org/t/p/w500/rbVCAOS3Dp5q9HMDdWCGBQ6J7KO.jpg"
+            },
+            {
+              "name": "蘇偉泉",
+              "char": "Bar Customer",
+              "photo": "https://image.tmdb.org/t/p/w500/unPemOz6464jdASv7ct5QBofbEi.jpg"
+            },
+            {
+              "name": "王貝兒",
+              "char": "Zoe",
+              "photo": "https://image.tmdb.org/t/p/w500/6UerZ84pnkjeEzMBogxbYti7nQk.jpg"
+            },
+            {
+              "name": "吳致毅",
+              "char": "Debtor",
+              "photo": "https://image.tmdb.org/t/p/w500/5augmrSzGejWrTYhGm0Lkx3xv5L.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "邱禮濤",
+              "job": "Director"
+            },
+            {
+              "name": "邱禮濤",
+              "job": "Writer"
+            }
+          ],
+          "budget": 0,
+          "revenue": 128,
+          "status": "Released",
+          "origLang": "cn",
+          "origTitle": "我們不是什麼",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1509632?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
+        "id": 1705271,
+        "titleZh": "一生二命",
+        "titleEn": "一生二命",
+        "releaseDate": "2026-08-16",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-08-16",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/a39mXS0NMxbFKBdWB3lFM5lXTO1.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/u9qwG2ZqSBGyf7pmuYeWqSSVo1m.jpg",
+        "voteAverage": "",
+        "genre": [
+          "紀錄"
+        ],
+        "duration": 75,
+        "synopsis": "年少的Birdy就像一隻還在學飛的幼鳥，需要來自家庭的哺育，卻不想長成家族期待的樣子。「我要改名、做平胸手術、賀爾蒙治療！」這幾乎是他迷惘的二十歲人生裡最確定的事。「但如果我變成另一個樣子，要怎麼面對他們？」這份恐懼逼得他想製造假死。「如果讓家人以為自己已經死去，是不是就能以全新的身份重新開始？」這是一部關於青春的成長紀錄片，陪著主角穿過無數念頭與掙扎，看見一段人生裂開、成長、再次成為自己的旅程。",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "康翌紳",
+            "char": "",
+            "photo": null
+          },
+          {
+            "name": "Kang Hsin-Tzu",
+            "char": "",
+            "photo": null
+          },
+          {
+            "name": "Lili Lien",
+            "char": "",
+            "photo": null
+          }
+        ],
+        "crew": [
+          {
+            "name": "陳冠君",
+            "job": "Director"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Released",
+        "origLang": "zh",
+        "origTitle": "一生二命",
+        "platforms": [],
+        "popularity": 1.1767,
+        "imdbId": null,
+        "countries": [
+          "Taiwan"
+        ],
+        "detail": {
+          "duration": 75,
+          "genres": [
+            "紀錄"
+          ],
+          "synopsis": "年少的Birdy就像一隻還在學飛的幼鳥，需要來自家庭的哺育，卻不想長成家族期待的樣子。「我要改名、做平胸手術、賀爾蒙治療！」這幾乎是他迷惘的二十歲人生裡最確定的事。「但如果我變成另一個樣子，要怎麼面對他們？」這份恐懼逼得他想製造假死。「如果讓家人以為自己已經死去，是不是就能以全新的身份重新開始？」這是一部關於青春的成長紀錄片，陪著主角穿過無數念頭與掙扎，看見一段人生裂開、成長、再次成為自己的旅程。",
+          "poster": "https://image.tmdb.org/t/p/w500/a39mXS0NMxbFKBdWB3lFM5lXTO1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/u9qwG2ZqSBGyf7pmuYeWqSSVo1m.jpg",
+          "voteAverage": "",
+          "trailerKey": null,
+          "imdbId": null,
+          "countries": [
+            "Taiwan"
+          ],
+          "cast": [
+            {
+              "name": "康翌紳",
+              "char": "",
+              "photo": null
+            },
+            {
+              "name": "Kang Hsin-Tzu",
+              "char": "",
+              "photo": null
+            },
+            {
+              "name": "Lili Lien",
+              "char": "",
+              "photo": null
+            }
+          ],
+          "crew": [
+            {
+              "name": "陳冠君",
+              "job": "Director"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Released",
+          "origLang": "zh",
+          "origTitle": "一生二命",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1705271?language=zh-TW",
         "atmoviesId": "",
         "atmoviesUrl": "",
         "sourceBucket": "tmdb"
@@ -9712,7 +10074,7 @@
         "origLang": "en",
         "origTitle": "Nirvanna the Band the Show the Movie",
         "platforms": [],
-        "popularity": 5.6709,
+        "popularity": 5.8287,
         "imdbId": "tt35522483",
         "countries": [
           "Canada"
@@ -10689,7 +11051,7 @@
         "origLang": "zh",
         "origTitle": "終戰那一天",
         "platforms": [],
-        "popularity": 0.6047,
+        "popularity": 0.6116,
         "imdbId": "tt44544376",
         "countries": [
           "Taiwan"
@@ -10864,11 +11226,11 @@
         "crew": [
           {
             "name": "David Robert Mitchell",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "David Robert Mitchell",
-            "job": "Writer"
+            "job": "Director"
           }
         ],
         "budget": 80000000,
@@ -10877,7 +11239,7 @@
         "origLang": "en",
         "origTitle": "The End of Oak Street",
         "platforms": [],
-        "popularity": 56.6642,
+        "popularity": 57.6922,
         "imdbId": "tt27165187",
         "countries": [
           "United States of America"
@@ -10983,11 +11345,11 @@
           "crew": [
             {
               "name": "David Robert Mitchell",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "David Robert Mitchell",
-              "job": "Writer"
+              "job": "Director"
             }
           ],
           "budget": 80000000,
@@ -11129,7 +11491,7 @@
         "origLang": "ko",
         "origTitle": "오케이 마담 2",
         "platforms": [],
-        "popularity": 4.901,
+        "popularity": 4.7281,
         "imdbId": "tt43669175",
         "countries": [
           "South Korea"
@@ -11380,7 +11742,7 @@
         "origLang": "ja",
         "origTitle": "ブルーロック",
         "platforms": [],
-        "popularity": 5.2004,
+        "popularity": 4.7523,
         "imdbId": "tt39400168",
         "countries": [
           "Japan"
@@ -11924,7 +12286,7 @@
         "origLang": "hi",
         "origTitle": "होमबाउंड",
         "platforms": [],
-        "popularity": 3.7761,
+        "popularity": 3.4588,
         "imdbId": "tt26733325",
         "countries": [
           "India",
@@ -12181,11 +12543,11 @@
         "crew": [
           {
             "name": "柯瑞·巴克",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "柯瑞·巴克",
-            "job": "Director"
+            "job": "Writer"
           }
         ],
         "budget": 750000,
@@ -12301,11 +12663,11 @@
           "crew": [
             {
               "name": "柯瑞·巴克",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "柯瑞·巴克",
-              "job": "Director"
+              "job": "Writer"
             }
           ],
           "budget": 750000,
@@ -12398,7 +12760,7 @@
         "origLang": "ja",
         "origTitle": "アイカツ！×プリパラ THE MOVIE -出会いのキセキ !-",
         "platforms": [],
-        "popularity": 1.4209,
+        "popularity": 1.5059,
         "imdbId": "tt36635947",
         "countries": [
           "Japan"
@@ -12729,7 +13091,7 @@
         "origLang": "ja",
         "origTitle": "映画ちいかわ 人魚の島のひみつ",
         "platforms": [],
-        "popularity": 11.5291,
+        "popularity": 11.4127,
         "imdbId": "tt39026173",
         "countries": [
           "Japan"
@@ -12993,7 +13355,7 @@
         "origLang": "en",
         "origTitle": "Spider-Man: Brand New Day",
         "platforms": [],
-        "popularity": 839.8385,
+        "popularity": 839.8698,
         "imdbId": "tt22084616",
         "countries": [
           "United States of America"
@@ -13266,7 +13628,7 @@
         "origLang": "ja",
         "origTitle": "君の名は。",
         "platforms": [],
-        "popularity": 28.38,
+        "popularity": 26.2808,
         "imdbId": "tt5311514",
         "countries": [
           "Japan"
@@ -13407,7 +13769,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
         "voteAverage": "8.0",
         "genre": [
           "冒險",
@@ -13550,7 +13912,7 @@
           ],
           "synopsis": "講述奧德修斯在特洛伊戰爭後歷經艱險返鄉，途中遭遇獨眼巨人、女妖與女巫，最終與妻子重逢的傳奇旅程。",
           "poster": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
           "voteAverage": "8.0",
           "trailerKey": "2rzJuAIj0VI",
           "imdbId": "tt33764258",
@@ -13740,7 +14102,7 @@
         "origLang": "zh",
         "origTitle": "魯冰花",
         "platforms": [],
-        "popularity": 1.7692,
+        "popularity": 1.6828,
         "imdbId": "tt0097791",
         "countries": [
           "Taiwan"
@@ -14129,7 +14491,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 153.0307,
+        "popularity": 141.8469,
         "imdbId": "tt32890033",
         "countries": [
           "United States of America"
@@ -14543,7 +14905,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/8IfNwMFlqggaZ5dcJo8t4QIaSPX.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-        "voteAverage": "8.3",
+        "voteAverage": "8.4",
         "genre": [
           "動畫",
           "家庭",
@@ -14680,7 +15042,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 173.6579,
+        "popularity": 163.306,
         "imdbId": "tt29355505",
         "countries": [
           "United States of America"
@@ -14696,7 +15058,7 @@
           "synopsis": "伴隨著時代演進、以科技入侵作為主題，玩具們將陷入 3C 危機，胡迪、巴斯光年此生最強勁敵現身，讓人愛不釋手的閃亮亮玩具登場，全新角色「莉莉板」，一款高科技、青蛙造型的智慧平板玩具，有了這個新寶貝，誰還需要玩具呢？他們將面臨史上最大的挑戰。",
           "poster": "https://image.tmdb.org/t/p/w500/8IfNwMFlqggaZ5dcJo8t4QIaSPX.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-          "voteAverage": "8.3",
+          "voteAverage": "8.4",
           "trailerKey": "r0MhS0IpUts",
           "imdbId": "tt29355505",
           "countries": [
@@ -14942,7 +15304,7 @@
         "origLang": "ja",
         "origTitle": "ヒプノシスマイク -Division Rap Battle-",
         "platforms": [],
-        "popularity": 2.1432,
+        "popularity": 1.7517,
         "imdbId": "tt34571222",
         "countries": [
           "Japan"
@@ -15358,11 +15720,11 @@
         "crew": [
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
+            "job": "Director"
           },
           {
             "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
+            "job": "Screenplay"
           },
           {
             "name": "Krzysztof Piesiewicz",
@@ -15488,11 +15850,11 @@
           "crew": [
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
+              "job": "Director"
             },
             {
               "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
+              "job": "Screenplay"
             },
             {
               "name": "Krzysztof Piesiewicz",
@@ -15646,16 +16008,16 @@
         ],
         "crew": [
           {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
-          },
-          {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
-          },
-          {
             "name": "Krzysztof Piesiewicz",
             "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -15778,16 +16140,16 @@
           ],
           "crew": [
             {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
-            },
-            {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
-            },
-            {
               "name": "Krzysztof Piesiewicz",
               "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -15937,16 +16299,16 @@
         ],
         "crew": [
           {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
-          },
-          {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
-          },
-          {
             "name": "Krzysztof Piesiewicz",
             "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Screenplay"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -16069,16 +16431,16 @@
           ],
           "crew": [
             {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
-            },
-            {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
-            },
-            {
               "name": "Krzysztof Piesiewicz",
               "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Screenplay"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -16250,7 +16612,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 4.0646,
+        "popularity": 3.5312,
         "imdbId": "tt0101765",
         "countries": [
           "France",
@@ -16782,7 +17144,7 @@
         "origLang": "ja",
         "origTitle": "ONE PIECE FILM Z",
         "platforms": [],
-        "popularity": 8.0767,
+        "popularity": 6.2728,
         "imdbId": "tt2375379",
         "countries": [
           "Japan"
@@ -17294,11 +17656,11 @@
         "crew": [
           {
             "name": "約翰·卡尼",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "約翰·卡尼",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "Peter McDonald",
@@ -17311,7 +17673,7 @@
         "origLang": "en",
         "origTitle": "Power Ballad",
         "platforms": [],
-        "popularity": 8.5646,
+        "popularity": 7.6901,
         "imdbId": "tt32267691",
         "countries": [
           "Ireland",
@@ -17419,11 +17781,11 @@
           "crew": [
             {
               "name": "約翰·卡尼",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "約翰·卡尼",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "Peter McDonald",
@@ -17459,13 +17821,13 @@
         "poster": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-        "voteAverage": "6.2",
+        "voteAverage": "6.5",
         "genre": [
           "愛情",
           "奇幻",
           "喜劇"
         ],
-        "duration": 130,
+        "duration": 110,
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -17476,7 +17838,7 @@
           {
             "name": "珊卓布拉克",
             "char": "Sally Owens",
-            "photo": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg"
           },
           {
             "name": "妮可·基嫚",
@@ -17539,13 +17901,13 @@
         "origLang": "en",
         "origTitle": "Practical Magic 2",
         "platforms": [],
-        "popularity": 30.8681,
+        "popularity": 37.882,
         "imdbId": "tt32588798",
         "countries": [
           "United States of America"
         ],
         "detail": {
-          "duration": 130,
+          "duration": 110,
           "genres": [
             "愛情",
             "奇幻",
@@ -17554,7 +17916,7 @@
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-          "voteAverage": "6.2",
+          "voteAverage": "6.5",
           "trailerKey": "fmMoGBw0Dkk",
           "imdbId": "tt32588798",
           "countries": [
@@ -17564,7 +17926,7 @@
             {
               "name": "珊卓布拉克",
               "char": "Sally Owens",
-              "photo": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg"
             },
             {
               "name": "妮可·基嫚",
@@ -17987,7 +18349,7 @@
         "origLang": "zh",
         "origTitle": "大仙尪仔",
         "platforms": [],
-        "popularity": 0.6821,
+        "popularity": 0.6686,
         "imdbId": "tt43659346",
         "countries": [
           "Taiwan"
@@ -18078,7 +18440,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-        "voteAverage": "8.2",
+        "voteAverage": "7.6",
         "genre": [
           "劇情"
         ],
@@ -18186,7 +18548,7 @@
           "synopsis": "一心以成為漫畫家為目標的兩位少女藤野、京本之間青春動人的故事。",
           "poster": "https://image.tmdb.org/t/p/w500/iMseJtWiyjT7gzxb0cUvOKxOtCO.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
-          "voteAverage": "8.2",
+          "voteAverage": "7.6",
           "trailerKey": "ad3giJ30GOw",
           "imdbId": "tt39094466",
           "countries": [
@@ -18659,7 +19021,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Hamlet",
         "platforms": [],
-        "popularity": 1.079,
+        "popularity": 1.195,
         "imdbId": "tt37511206",
         "countries": [
           "United Kingdom"
@@ -18798,7 +19160,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
         "voteAverage": "",
         "genre": [
           "恐怖",
@@ -18873,7 +19235,7 @@
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
           "voteAverage": "",
           "trailerKey": "f6Y2SgaHyCw",
           "imdbId": "tt35538033",
@@ -19069,7 +19431,7 @@
         "origLang": "ja",
         "origTitle": "ワンピース デッドエンドの冒険",
         "platforms": [],
-        "popularity": 4.0651,
+        "popularity": 3.32,
         "imdbId": "tt1006926",
         "countries": [
           "Japan"
@@ -19347,7 +19709,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 4.7415,
+        "popularity": 5.0152,
         "imdbId": "tt14561712",
         "countries": [
           "Italy",
@@ -19816,7 +20178,7 @@
         "origLang": "cs",
         "origTitle": "Franz",
         "platforms": [],
-        "popularity": 3.0801,
+        "popularity": 2.7739,
         "imdbId": "tt17070412",
         "countries": [
           "Czech Republic",
@@ -20556,7 +20918,7 @@
         "origLang": "en",
         "origTitle": "Scotty",
         "platforms": [],
-        "popularity": 0.924,
+        "popularity": 0.855,
         "imdbId": "tt31549553",
         "countries": [
           "Germany"
@@ -20706,7 +21068,7 @@
         "origLang": "zh",
         "origTitle": "婚・紗・罩",
         "platforms": [],
-        "popularity": 0.4341,
+        "popularity": 0.4565,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -20986,7 +21348,7 @@
         "origLang": "ja",
         "origTitle": "死ねばいいのに",
         "platforms": [],
-        "popularity": 1.507,
+        "popularity": 1.5415,
         "imdbId": "tt42477970",
         "countries": [
           "Japan"
@@ -21117,7 +21479,7 @@
         "origLang": "ja",
         "origTitle": "ラブ≠コメディ",
         "platforms": [],
-        "popularity": 0.8283,
+        "popularity": 0.9407,
         "imdbId": "tt43653895",
         "countries": [
           "Japan"
@@ -21428,11 +21790,11 @@
         ],
         "crew": [
           {
-            "name": "Yung-hsiang Chang",
+            "name": "Liu Wei-Bin",
             "job": "Screenplay"
           },
           {
-            "name": "Liu Wei-Bin",
+            "name": "Yung-hsiang Chang",
             "job": "Screenplay"
           },
           {
@@ -21549,11 +21911,11 @@
           ],
           "crew": [
             {
-              "name": "Yung-hsiang Chang",
+              "name": "Liu Wei-Bin",
               "job": "Screenplay"
             },
             {
-              "name": "Liu Wei-Bin",
+              "name": "Yung-hsiang Chang",
               "job": "Screenplay"
             },
             {
@@ -22263,7 +22625,7 @@
         "origLang": "ja",
         "origTitle": "リリイ・シュシュのすべて",
         "platforms": [],
-        "popularity": 7.5113,
+        "popularity": 6.6862,
         "imdbId": "tt0297721",
         "countries": [
           "Japan"
@@ -22525,7 +22887,7 @@
             "job": "Screenplay"
           },
           {
-            "name": "Joe Russo",
+            "name": "Anthony Russo",
             "job": "Director"
           }
         ],
@@ -22653,7 +23015,7 @@
               "job": "Screenplay"
             },
             {
-              "name": "Joe Russo",
+              "name": "Anthony Russo",
               "job": "Director"
             }
           ],
@@ -22718,16 +23080,21 @@
             "name": "Anna Lambe",
             "char": "",
             "photo": "https://image.tmdb.org/t/p/w500/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+          },
+          {
+            "name": "Uber",
+            "char": "Odin The Dog",
+            "photo": "https://image.tmdb.org/t/p/w500/jUQdIsuHRhgBBz0j0tKYgzV24uZ.jpg"
           }
         ],
         "crew": [
           {
-            "name": "David Ayer",
-            "job": "Director"
-          },
-          {
             "name": "Cameron Alexander",
             "job": "Writer"
+          },
+          {
+            "name": "David Ayer",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -22736,7 +23103,7 @@
         "origLang": "en",
         "origTitle": "Heart of the Beast",
         "platforms": [],
-        "popularity": 19.0992,
+        "popularity": 17.0891,
         "imdbId": "tt7526136",
         "countries": [
           "United States of America"
@@ -22771,16 +23138,21 @@
               "name": "Anna Lambe",
               "char": "",
               "photo": "https://image.tmdb.org/t/p/w500/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+            },
+            {
+              "name": "Uber",
+              "char": "Odin The Dog",
+              "photo": "https://image.tmdb.org/t/p/w500/jUQdIsuHRhgBBz0j0tKYgzV24uZ.jpg"
             }
           ],
           "crew": [
             {
-              "name": "David Ayer",
-              "job": "Director"
-            },
-            {
               "name": "Cameron Alexander",
               "job": "Writer"
+            },
+            {
+              "name": "David Ayer",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -23044,7 +23416,7 @@
           {
             "name": "羅伯·派汀森",
             "char": "Chris Hansen",
-            "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
           },
           {
             "name": "梅里特・維沃",
@@ -23163,7 +23535,7 @@
             {
               "name": "羅伯·派汀森",
               "char": "Chris Hansen",
-              "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
             },
             {
               "name": "梅里特・維沃",
@@ -23279,7 +23651,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
         "voteAverage": "8.4",
         "genre": [
           "動作",
@@ -23396,7 +23768,7 @@
           ],
           "synopsis": "退伍特種部隊軍人漢克奉命護送醫療快遞員班，要將一副健康的肝臟送到病危的女孩手中，結果意圖搶奪肝臟的傭兵集團盯上了他們……",
           "poster": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
           "voteAverage": "8.4",
           "trailerKey": "S3Vz0fBz55A",
           "imdbId": "tt31349844",
@@ -23534,7 +23906,7 @@
         "origLang": "en",
         "origTitle": "Space Cadet",
         "platforms": [],
-        "popularity": 2.9247,
+        "popularity": 2.721,
         "imdbId": "tt26446095",
         "countries": [
           "Canada"
@@ -24054,7 +24426,7 @@
           {
             "name": "萊薩·索貝拉諾",
             "char": "Raissa (voice)",
-            "photo": "https://image.tmdb.org/t/p/w500/9Fh1ZopF5u3mABNlGrQkXN6MPEr.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/iAaE3bbG5gyLQVdLoIKg5lcSc1q.jpg"
           },
           {
             "name": "戴夫·法蘭科",
@@ -24164,7 +24536,7 @@
             {
               "name": "萊薩·索貝拉諾",
               "char": "Raissa (voice)",
-              "photo": "https://image.tmdb.org/t/p/w500/9Fh1ZopF5u3mABNlGrQkXN6MPEr.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/iAaE3bbG5gyLQVdLoIKg5lcSc1q.jpg"
             },
             {
               "name": "戴夫·法蘭科",
@@ -24335,7 +24707,7 @@
         "origLang": "en",
         "origTitle": "LINKIN PARK: UNSHATTER",
         "platforms": [],
-        "popularity": 2.3611,
+        "popularity": 2.2551,
         "imdbId": "tt43442522",
         "countries": [
           "United States of America",
@@ -24833,7 +25205,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/6MYR8uHe9bDvHJT7tDscaLAiiF9.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
         "voteAverage": "",
         "genre": [
           "懸疑",
@@ -24922,7 +25294,7 @@
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/6MYR8uHe9bDvHJT7tDscaLAiiF9.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
           "voteAverage": "",
           "trailerKey": "O33qqsXTZPc",
           "imdbId": "tt32261958",
@@ -25241,7 +25613,7 @@
         "origLang": "fr",
         "origTitle": "En nous",
         "platforms": [],
-        "popularity": 2.5382,
+        "popularity": 2.5743,
         "imdbId": "tt37964027",
         "countries": [
           "France"
@@ -25933,7 +26305,7 @@
         "origLang": "en",
         "origTitle": "Other Mommy",
         "platforms": [],
-        "popularity": 11.2296,
+        "popularity": 10.3636,
         "imdbId": "tt36586020",
         "countries": [
           "United States of America"
@@ -27534,7 +27906,7 @@
         "origLang": "en",
         "origTitle": "Clayface",
         "platforms": [],
-        "popularity": 8.4567,
+        "popularity": 8.4868,
         "imdbId": "tt34890576",
         "countries": [
           "United States of America"
@@ -28061,7 +28433,7 @@
         "origLang": "zh",
         "origTitle": "世紀初戀 楊麗花",
         "platforms": [],
-        "popularity": 1.2672,
+        "popularity": 1.0946,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -28570,6 +28942,257 @@
         "sourceBucket": "tmdb"
       },
       {
+        "id": 1567605,
+        "titleZh": "聖誕驚奇夜",
+        "titleEn": "Ebenezer",
+        "releaseDate": "2026-11-13",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-11-13",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/vzwT9kHTAM9tMFmBjwO1hej1k0M.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+        "voteAverage": "",
+        "genre": [
+          "奇幻",
+          "喜劇"
+        ],
+        "duration": "",
+        "synopsis": "",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": "x5FVMUuZldc",
+        "cast": [
+          {
+            "name": "強尼·戴普",
+            "char": "Ebenezer Scrooge",
+            "photo": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+          },
+          {
+            "name": "魯伯特·葛林特",
+            "char": "Bob Cratchit",
+            "photo": "https://image.tmdb.org/t/p/w500/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+          },
+          {
+            "name": "安德麗亞·瑞斯波羅格",
+            "char": "Ghost of Christmas Past",
+            "photo": "https://image.tmdb.org/t/p/w500/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg"
+          },
+          {
+            "name": "Tramell Tillman",
+            "char": "Ghost of Christmas Present",
+            "photo": "https://image.tmdb.org/t/p/w500/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+          },
+          {
+            "name": "伊恩·麥克連",
+            "char": "Jacob Marley",
+            "photo": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+          },
+          {
+            "name": "黛西·蕾德莉",
+            "char": "Emily Cratchit",
+            "photo": "https://image.tmdb.org/t/p/w500/dnRtM8YBxidAshD76XIMN495Yqc.jpg"
+          },
+          {
+            "name": "山姆·克萊弗林",
+            "char": "Fred",
+            "photo": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+          },
+          {
+            "name": "Charlie Murphy",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
+          },
+          {
+            "name": "Arthur Conti",
+            "char": "Young Ebenezer",
+            "photo": "https://image.tmdb.org/t/p/w500/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
+          },
+          {
+            "name": "Ellie Bamber",
+            "char": "Isabel Fezziwig",
+            "photo": "https://image.tmdb.org/t/p/w500/9j6D1LH5C0CLtKXfmKo34T6G63.jpg"
+          },
+          {
+            "name": "Robert Strange",
+            "char": "Ghost of Christmas Future",
+            "photo": "https://image.tmdb.org/t/p/w500/4GBjA1itRhsKaPaOrVE1YN9qOqc.jpg"
+          },
+          {
+            "name": "Matt Brewer",
+            "char": "Scrooge’s Father",
+            "photo": "https://image.tmdb.org/t/p/w500/xs0lQhzqMMqpOK5JSf8BiBMDWYl.jpg"
+          },
+          {
+            "name": "Nicholas Day",
+            "char": "Minister",
+            "photo": "https://image.tmdb.org/t/p/w500/gv3kwsyRXEkAjf4ATT5s68oLjrG.jpg"
+          },
+          {
+            "name": "Tara Mohatta",
+            "char": "Child",
+            "photo": "https://image.tmdb.org/t/p/w500/llAG2yqEGDErM8Euo8pecb9ObiO.jpg"
+          },
+          {
+            "name": "Tom Page-Turner",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/aIw87YbWIeimi9GfeOy1BEgrwhZ.jpg"
+          },
+          {
+            "name": "Zac Wishart",
+            "char": "Peter Cratchit",
+            "photo": "https://image.tmdb.org/t/p/w500/7LI4kKI8EW25kewuLmysr75HFXO.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "Ti West",
+            "job": "Director"
+          },
+          {
+            "name": "Nathaniel Halpern",
+            "job": "Screenplay"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Post Production",
+        "origLang": "en",
+        "origTitle": "Ebenezer",
+        "platforms": [],
+        "popularity": 6.0851,
+        "imdbId": "tt38773219",
+        "countries": [
+          "United States of America"
+        ],
+        "detail": {
+          "duration": "",
+          "genres": [
+            "奇幻",
+            "喜劇"
+          ],
+          "synopsis": "",
+          "poster": "https://image.tmdb.org/t/p/w500/vzwT9kHTAM9tMFmBjwO1hej1k0M.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+          "voteAverage": "",
+          "trailerKey": "x5FVMUuZldc",
+          "imdbId": "tt38773219",
+          "countries": [
+            "United States of America"
+          ],
+          "cast": [
+            {
+              "name": "強尼·戴普",
+              "char": "Ebenezer Scrooge",
+              "photo": "https://image.tmdb.org/t/p/w500/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+            },
+            {
+              "name": "魯伯特·葛林特",
+              "char": "Bob Cratchit",
+              "photo": "https://image.tmdb.org/t/p/w500/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+            },
+            {
+              "name": "安德麗亞·瑞斯波羅格",
+              "char": "Ghost of Christmas Past",
+              "photo": "https://image.tmdb.org/t/p/w500/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg"
+            },
+            {
+              "name": "Tramell Tillman",
+              "char": "Ghost of Christmas Present",
+              "photo": "https://image.tmdb.org/t/p/w500/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+            },
+            {
+              "name": "伊恩·麥克連",
+              "char": "Jacob Marley",
+              "photo": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+            },
+            {
+              "name": "黛西·蕾德莉",
+              "char": "Emily Cratchit",
+              "photo": "https://image.tmdb.org/t/p/w500/dnRtM8YBxidAshD76XIMN495Yqc.jpg"
+            },
+            {
+              "name": "山姆·克萊弗林",
+              "char": "Fred",
+              "photo": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+            },
+            {
+              "name": "Charlie Murphy",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
+            },
+            {
+              "name": "Arthur Conti",
+              "char": "Young Ebenezer",
+              "photo": "https://image.tmdb.org/t/p/w500/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
+            },
+            {
+              "name": "Ellie Bamber",
+              "char": "Isabel Fezziwig",
+              "photo": "https://image.tmdb.org/t/p/w500/9j6D1LH5C0CLtKXfmKo34T6G63.jpg"
+            },
+            {
+              "name": "Robert Strange",
+              "char": "Ghost of Christmas Future",
+              "photo": "https://image.tmdb.org/t/p/w500/4GBjA1itRhsKaPaOrVE1YN9qOqc.jpg"
+            },
+            {
+              "name": "Matt Brewer",
+              "char": "Scrooge’s Father",
+              "photo": "https://image.tmdb.org/t/p/w500/xs0lQhzqMMqpOK5JSf8BiBMDWYl.jpg"
+            },
+            {
+              "name": "Nicholas Day",
+              "char": "Minister",
+              "photo": "https://image.tmdb.org/t/p/w500/gv3kwsyRXEkAjf4ATT5s68oLjrG.jpg"
+            },
+            {
+              "name": "Tara Mohatta",
+              "char": "Child",
+              "photo": "https://image.tmdb.org/t/p/w500/llAG2yqEGDErM8Euo8pecb9ObiO.jpg"
+            },
+            {
+              "name": "Tom Page-Turner",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/aIw87YbWIeimi9GfeOy1BEgrwhZ.jpg"
+            },
+            {
+              "name": "Zac Wishart",
+              "char": "Peter Cratchit",
+              "photo": "https://image.tmdb.org/t/p/w500/7LI4kKI8EW25kewuLmysr75HFXO.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "Ti West",
+              "job": "Director"
+            },
+            {
+              "name": "Nathaniel Halpern",
+              "job": "Screenplay"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Post Production",
+          "origLang": "en",
+          "origTitle": "Ebenezer",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1567605?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
         "id": 1494715,
         "titleZh": "高校人形金字塔",
         "titleEn": "NEW GROUP",
@@ -29019,7 +29642,7 @@
         "origLang": "en",
         "origTitle": "The Hunger Games: Sunrise on the Reaping",
         "platforms": [],
-        "popularity": 9.0106,
+        "popularity": 8.8448,
         "imdbId": "tt32558705",
         "countries": [
           "United States of America",
@@ -29341,7 +29964,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/wWwKURKR0fCav2tnoDfmsPZlmEM.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
         "voteAverage": "",
         "genre": [
           "喜劇",
@@ -29435,7 +30058,7 @@
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/wWwKURKR0fCav2tnoDfmsPZlmEM.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/1zcCFBcqEQtAtXDh6EoBPy16RLR.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
           "voteAverage": "",
           "trailerKey": "ouOu_Xyh6GE",
           "imdbId": "tt34966140",
@@ -29609,7 +30232,7 @@
         "origLang": "zh",
         "origTitle": "高寮大劫",
         "platforms": [],
-        "popularity": 2.0594,
+        "popularity": 1.6339,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -29821,7 +30444,7 @@
         "origLang": "en",
         "origTitle": "Violent Night 2",
         "platforms": [],
-        "popularity": 3.6445,
+        "popularity": 3.2797,
         "imdbId": "tt32432428",
         "countries": [
           "United States of America"
@@ -30228,7 +30851,7 @@
           {
             "name": "佩德羅·帕斯卡",
             "char": "Reed Richards / Mister Fantastic",
-            "photo": "https://image.tmdb.org/t/p/w500/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
           },
           {
             "name": "保羅路德",
@@ -30351,7 +30974,7 @@
             {
               "name": "佩德羅·帕斯卡",
               "char": "Reed Richards / Mister Fantastic",
-              "photo": "https://image.tmdb.org/t/p/w500/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
             },
             {
               "name": "保羅路德",
@@ -30723,7 +31346,7 @@
         "origLang": "en",
         "origTitle": "Gatto",
         "platforms": [],
-        "popularity": 6.6706,
+        "popularity": 5.6193,
         "imdbId": "tt26443610",
         "countries": [
           "United States of America"

@@ -259,18 +259,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://movienotice.pages.dev/movies/1509632-movie/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://movienotice.pages.dev/movies/1705271-movie/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://movienotice.pages.dev/movies/1154538-nirvanna-the-band-the-show-the-movie/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -422,12 +410,6 @@
   </url>
   <url>
     <loc>https://movienotice.pages.dev/movies/109-trois-couleurs-blanc/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://movienotice.pages.dev/movies/110-trois-couleurs-rouge/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -649,6 +631,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://movienotice.pages.dev/movies/1603232-perfume-25-years-document/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://movienotice.pages.dev/movies/1620313-movie/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -692,6 +680,12 @@
   </url>
   <url>
     <loc>https://movienotice.pages.dev/movies/1393151-mr-nobody-mod-putin/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://movienotice.pages.dev/movies/1509632-movie/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -865,13 +859,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://movienotice.pages.dev/movies/1170608-dune-part-three/</loc>
+    <loc>https://movienotice.pages.dev/movies/1003596-avengers-doomsday/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://movienotice.pages.dev/movies/1003596-avengers-doomsday/</loc>
+    <loc>https://movienotice.pages.dev/movies/1170608-dune-part-three/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

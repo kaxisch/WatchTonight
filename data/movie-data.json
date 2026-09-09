@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T19:50:01.151926+08:00",
+  "generated_at": "2026-09-09T22:00:47.194433+08:00",
   "source": "api.themoviedb.org",
   "summary": {
-    "now_count": 65,
-    "soon_count": 80
+    "now_count": 63,
+    "soon_count": 81
   },
   "movies": {
     "now": [
@@ -1064,7 +1064,7 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
-        "rt": "77%",
+        "rt": "72%",
         "mc": "69",
         "ratingMeta": {
           "imdb": {
@@ -1073,9 +1073,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "mdblist",
-            "votes": 77,
-            "lastChanged": "2026-09-09T07:39:13.943171+08:00"
+            "source": "omdb",
+            "votes": 0,
+            "lastChanged": "2026-09-09T22:00:47.194433+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -5087,7 +5087,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/sLWJQFD7kCvvQoph20rNXzzKOa0.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
-        "voteAverage": "6.6",
+        "voteAverage": "6.5",
         "genre": [
           "驚悚",
           "犯罪"
@@ -5217,7 +5217,7 @@
           "synopsis": "犯罪天才傑克計畫製造一場假死騙局，好跟妻子諾拉共同詐領3000萬美元保險金，還打算陷害妻子的年輕情夫查德成為殺害自己的兇手。然而，早已受夠傑克的諾拉心中另有盤算，她要真的殺死傑克，並獨吞這筆鉅款。這對爾虞我詐的夫妻，究竟誰能夠笑到最後？",
           "poster": "https://image.tmdb.org/t/p/w500/sLWJQFD7kCvvQoph20rNXzzKOa0.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
-          "voteAverage": "6.6",
+          "voteAverage": "6.5",
           "trailerKey": "qxedNwL7OHo",
           "imdbId": "tt36948232",
           "countries": [
@@ -6039,7 +6039,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
-        "voteAverage": "6.7",
+        "voteAverage": "6.6",
         "genre": [
           "科幻",
           "劇情",
@@ -6058,7 +6058,7 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 201,
+            "votes": 205,
             "lastChanged": "2026-09-05T11:55:22.612509+08:00"
           },
           "mc": {
@@ -6181,7 +6181,7 @@
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
-          "voteAverage": "6.7",
+          "voteAverage": "6.6",
           "trailerKey": "5I3Tal6CXB0",
           "imdbId": "tt21285562",
           "countries": [
@@ -9565,368 +9565,6 @@
         "sourceBucket": "tmdb"
       },
       {
-        "id": 1509632,
-        "titleZh": "我們不是什麼",
-        "titleEn": "我們不是什麼",
-        "releaseDate": "2026-08-16",
-        "releaseYear": "2026",
-        "isRerelease": false,
-        "twTheatricalReleases": [
-          {
-            "date": "2026-08-16",
-            "language": ""
-          }
-        ],
-        "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
-        "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/xP9YyExJeXo5c5WrjRftm90mQRt.jpg",
-        "voteAverage": "7.5",
-        "genre": [
-          "犯罪",
-          "劇情"
-        ],
-        "duration": 128,
-        "synopsis": "情人節當天，一輛雙層巴士在香港市中心爆炸，造成大量乘客傷亡。警方找來鑑定專家，兩具無家屬認領少年遺體，成為著重調查對象。鑑定的不只是物理證據，也是人際網絡和生命軌跡，被排斥及壓迫的他們在亂世中彷彿什麼都不是，但仍勇敢面對命運。",
-        "imdb": "",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {},
-        "trailerKey": null,
-        "cast": [
-          {
-            "name": "譚耀文",
-            "char": "Lung",
-            "photo": "https://image.tmdb.org/t/p/w500/aOus8OyhjMqJxnZsI0r5krej8TU.jpg"
-          },
-          {
-            "name": "江熚生",
-            "char": "Fai",
-            "photo": "https://image.tmdb.org/t/p/w500/u855FOXF78pF3uO91cVYDOyvVWS.jpg"
-          },
-          {
-            "name": "陳毅燊",
-            "char": "Ike",
-            "photo": "https://image.tmdb.org/t/p/w500/2ixDLVrKEy6nzM0ja7dBuJNQkJE.jpg"
-          },
-          {
-            "name": "Chu Pak-Him",
-            "char": "Chiang Chung",
-            "photo": "https://image.tmdb.org/t/p/w500/vxBKBIa3hZDXxT3PGzUbj666dGe.jpg"
-          },
-          {
-            "name": "梁雍婷",
-            "char": "Ike's Sister",
-            "photo": "https://image.tmdb.org/t/p/w500/frTVaV1U4KqPeHwSnoeB1JorUtw.jpg"
-          },
-          {
-            "name": "駱振偉",
-            "char": "Andrew",
-            "photo": "https://image.tmdb.org/t/p/w500/ba7185vQ34idyYu1b3b2NjJ82uX.jpg"
-          },
-          {
-            "name": "林宣妤",
-            "char": "Investigator",
-            "photo": "https://image.tmdb.org/t/p/w500/vPc8yPmvKzw9vSQnSHd1c4X8MeF.jpg"
-          },
-          {
-            "name": "陳淑儀",
-            "char": "Ike's Father",
-            "photo": "https://image.tmdb.org/t/p/w500/j8BaI0GslLQtxhG9B8MitChT8kE.jpg"
-          },
-          {
-            "name": "寶佩如",
-            "char": "Ike's Mother",
-            "photo": "https://image.tmdb.org/t/p/w500/tgi7c0RFzZyqRNPiuZp1dqsEZN8.jpg"
-          },
-          {
-            "name": "麥沛東",
-            "char": "Taxi Driver",
-            "photo": "https://image.tmdb.org/t/p/w500/mhdaIJ9tgLmcW8jT6UHWBMINTDh.jpg"
-          },
-          {
-            "name": "廖愛玲",
-            "char": "Chief Superintendent",
-            "photo": null
-          },
-          {
-            "name": "朱天",
-            "char": "Investigator",
-            "photo": "https://image.tmdb.org/t/p/w500/9gqHcq3vMqEemdtpr3pc4HTNlQ.jpg"
-          },
-          {
-            "name": "徐偉棟",
-            "char": "Loan Shark",
-            "photo": "https://image.tmdb.org/t/p/w500/rbVCAOS3Dp5q9HMDdWCGBQ6J7KO.jpg"
-          },
-          {
-            "name": "蘇偉泉",
-            "char": "Bar Customer",
-            "photo": "https://image.tmdb.org/t/p/w500/unPemOz6464jdASv7ct5QBofbEi.jpg"
-          },
-          {
-            "name": "王貝兒",
-            "char": "Zoe",
-            "photo": "https://image.tmdb.org/t/p/w500/6UerZ84pnkjeEzMBogxbYti7nQk.jpg"
-          },
-          {
-            "name": "吳致毅",
-            "char": "Debtor",
-            "photo": "https://image.tmdb.org/t/p/w500/5augmrSzGejWrTYhGm0Lkx3xv5L.jpg"
-          }
-        ],
-        "crew": [
-          {
-            "name": "邱禮濤",
-            "job": "Director"
-          },
-          {
-            "name": "邱禮濤",
-            "job": "Writer"
-          }
-        ],
-        "budget": 0,
-        "revenue": 128,
-        "status": "Released",
-        "origLang": "cn",
-        "origTitle": "我們不是什麼",
-        "platforms": [],
-        "popularity": 2.4881,
-        "imdbId": "tt37535198",
-        "countries": [
-          "Hong Kong"
-        ],
-        "detail": {
-          "duration": 128,
-          "genres": [
-            "犯罪",
-            "劇情"
-          ],
-          "synopsis": "情人節當天，一輛雙層巴士在香港市中心爆炸，造成大量乘客傷亡。警方找來鑑定專家，兩具無家屬認領少年遺體，成為著重調查對象。鑑定的不只是物理證據，也是人際網絡和生命軌跡，被排斥及壓迫的他們在亂世中彷彿什麼都不是，但仍勇敢面對命運。",
-          "poster": "https://image.tmdb.org/t/p/w500/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/xP9YyExJeXo5c5WrjRftm90mQRt.jpg",
-          "voteAverage": "7.5",
-          "trailerKey": null,
-          "imdbId": "tt37535198",
-          "countries": [
-            "Hong Kong"
-          ],
-          "cast": [
-            {
-              "name": "譚耀文",
-              "char": "Lung",
-              "photo": "https://image.tmdb.org/t/p/w500/aOus8OyhjMqJxnZsI0r5krej8TU.jpg"
-            },
-            {
-              "name": "江熚生",
-              "char": "Fai",
-              "photo": "https://image.tmdb.org/t/p/w500/u855FOXF78pF3uO91cVYDOyvVWS.jpg"
-            },
-            {
-              "name": "陳毅燊",
-              "char": "Ike",
-              "photo": "https://image.tmdb.org/t/p/w500/2ixDLVrKEy6nzM0ja7dBuJNQkJE.jpg"
-            },
-            {
-              "name": "Chu Pak-Him",
-              "char": "Chiang Chung",
-              "photo": "https://image.tmdb.org/t/p/w500/vxBKBIa3hZDXxT3PGzUbj666dGe.jpg"
-            },
-            {
-              "name": "梁雍婷",
-              "char": "Ike's Sister",
-              "photo": "https://image.tmdb.org/t/p/w500/frTVaV1U4KqPeHwSnoeB1JorUtw.jpg"
-            },
-            {
-              "name": "駱振偉",
-              "char": "Andrew",
-              "photo": "https://image.tmdb.org/t/p/w500/ba7185vQ34idyYu1b3b2NjJ82uX.jpg"
-            },
-            {
-              "name": "林宣妤",
-              "char": "Investigator",
-              "photo": "https://image.tmdb.org/t/p/w500/vPc8yPmvKzw9vSQnSHd1c4X8MeF.jpg"
-            },
-            {
-              "name": "陳淑儀",
-              "char": "Ike's Father",
-              "photo": "https://image.tmdb.org/t/p/w500/j8BaI0GslLQtxhG9B8MitChT8kE.jpg"
-            },
-            {
-              "name": "寶佩如",
-              "char": "Ike's Mother",
-              "photo": "https://image.tmdb.org/t/p/w500/tgi7c0RFzZyqRNPiuZp1dqsEZN8.jpg"
-            },
-            {
-              "name": "麥沛東",
-              "char": "Taxi Driver",
-              "photo": "https://image.tmdb.org/t/p/w500/mhdaIJ9tgLmcW8jT6UHWBMINTDh.jpg"
-            },
-            {
-              "name": "廖愛玲",
-              "char": "Chief Superintendent",
-              "photo": null
-            },
-            {
-              "name": "朱天",
-              "char": "Investigator",
-              "photo": "https://image.tmdb.org/t/p/w500/9gqHcq3vMqEemdtpr3pc4HTNlQ.jpg"
-            },
-            {
-              "name": "徐偉棟",
-              "char": "Loan Shark",
-              "photo": "https://image.tmdb.org/t/p/w500/rbVCAOS3Dp5q9HMDdWCGBQ6J7KO.jpg"
-            },
-            {
-              "name": "蘇偉泉",
-              "char": "Bar Customer",
-              "photo": "https://image.tmdb.org/t/p/w500/unPemOz6464jdASv7ct5QBofbEi.jpg"
-            },
-            {
-              "name": "王貝兒",
-              "char": "Zoe",
-              "photo": "https://image.tmdb.org/t/p/w500/6UerZ84pnkjeEzMBogxbYti7nQk.jpg"
-            },
-            {
-              "name": "吳致毅",
-              "char": "Debtor",
-              "photo": "https://image.tmdb.org/t/p/w500/5augmrSzGejWrTYhGm0Lkx3xv5L.jpg"
-            }
-          ],
-          "crew": [
-            {
-              "name": "邱禮濤",
-              "job": "Director"
-            },
-            {
-              "name": "邱禮濤",
-              "job": "Writer"
-            }
-          ],
-          "budget": 0,
-          "revenue": 128,
-          "status": "Released",
-          "origLang": "cn",
-          "origTitle": "我們不是什麼",
-          "platforms": []
-        },
-        "tmdbUrl": "https://www.themoviedb.org/movie/1509632?language=zh-TW",
-        "atmoviesId": "",
-        "atmoviesUrl": "",
-        "sourceBucket": "tmdb"
-      },
-      {
-        "id": 1705271,
-        "titleZh": "一生二命",
-        "titleEn": "一生二命",
-        "releaseDate": "2026-08-16",
-        "releaseYear": "2026",
-        "isRerelease": false,
-        "twTheatricalReleases": [
-          {
-            "date": "2026-08-16",
-            "language": ""
-          }
-        ],
-        "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/a39mXS0NMxbFKBdWB3lFM5lXTO1.jpg",
-        "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/u9qwG2ZqSBGyf7pmuYeWqSSVo1m.jpg",
-        "voteAverage": "",
-        "genre": [
-          "紀錄"
-        ],
-        "duration": 75,
-        "synopsis": "年少的Birdy就像一隻還在學飛的幼鳥，需要來自家庭的哺育，卻不想長成家族期待的樣子。「我要改名、做平胸手術、賀爾蒙治療！」這幾乎是他迷惘的二十歲人生裡最確定的事。「但如果我變成另一個樣子，要怎麼面對他們？」這份恐懼逼得他想製造假死。「如果讓家人以為自己已經死去，是不是就能以全新的身份重新開始？」這是一部關於青春的成長紀錄片，陪著主角穿過無數念頭與掙扎，看見一段人生裂開、成長、再次成為自己的旅程。",
-        "imdb": "",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {},
-        "trailerKey": null,
-        "cast": [
-          {
-            "name": "康翌紳",
-            "char": "",
-            "photo": null
-          },
-          {
-            "name": "Kang Hsin-Tzu",
-            "char": "",
-            "photo": null
-          },
-          {
-            "name": "Lili Lien",
-            "char": "",
-            "photo": null
-          }
-        ],
-        "crew": [
-          {
-            "name": "陳冠君",
-            "job": "Director"
-          }
-        ],
-        "budget": 0,
-        "revenue": 0,
-        "status": "Released",
-        "origLang": "zh",
-        "origTitle": "一生二命",
-        "platforms": [],
-        "popularity": 1.1767,
-        "imdbId": null,
-        "countries": [
-          "Taiwan"
-        ],
-        "detail": {
-          "duration": 75,
-          "genres": [
-            "紀錄"
-          ],
-          "synopsis": "年少的Birdy就像一隻還在學飛的幼鳥，需要來自家庭的哺育，卻不想長成家族期待的樣子。「我要改名、做平胸手術、賀爾蒙治療！」這幾乎是他迷惘的二十歲人生裡最確定的事。「但如果我變成另一個樣子，要怎麼面對他們？」這份恐懼逼得他想製造假死。「如果讓家人以為自己已經死去，是不是就能以全新的身份重新開始？」這是一部關於青春的成長紀錄片，陪著主角穿過無數念頭與掙扎，看見一段人生裂開、成長、再次成為自己的旅程。",
-          "poster": "https://image.tmdb.org/t/p/w500/a39mXS0NMxbFKBdWB3lFM5lXTO1.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/u9qwG2ZqSBGyf7pmuYeWqSSVo1m.jpg",
-          "voteAverage": "",
-          "trailerKey": null,
-          "imdbId": null,
-          "countries": [
-            "Taiwan"
-          ],
-          "cast": [
-            {
-              "name": "康翌紳",
-              "char": "",
-              "photo": null
-            },
-            {
-              "name": "Kang Hsin-Tzu",
-              "char": "",
-              "photo": null
-            },
-            {
-              "name": "Lili Lien",
-              "char": "",
-              "photo": null
-            }
-          ],
-          "crew": [
-            {
-              "name": "陳冠君",
-              "job": "Director"
-            }
-          ],
-          "budget": 0,
-          "revenue": 0,
-          "status": "Released",
-          "origLang": "zh",
-          "origTitle": "一生二命",
-          "platforms": []
-        },
-        "tmdbUrl": "https://www.themoviedb.org/movie/1705271?language=zh-TW",
-        "atmoviesId": "",
-        "atmoviesUrl": "",
-        "sourceBucket": "tmdb"
-      },
-      {
         "id": 1154538,
         "titleZh": "超拖樂團之我要幹大事啦！",
         "titleEn": "Nirvanna the Band the Show the Movie",
@@ -10770,12 +10408,12 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 161,
+            "votes": 170,
             "lastChanged": "2026-09-04T19:42:35.148723+08:00"
           },
           "mc": {
             "source": "mdblist",
-            "votes": 28,
+            "votes": 30,
             "lastChanged": "2026-08-03T17:48:24.046684+08:00"
           }
         },
@@ -16170,297 +15808,6 @@
         "sourceBucket": "tmdb"
       },
       {
-        "id": 110,
-        "titleZh": "紅色情深",
-        "titleEn": "Trois couleurs : Rouge",
-        "releaseDate": "2026-09-11",
-        "releaseYear": "1994",
-        "isRerelease": true,
-        "twTheatricalReleases": [
-          {
-            "date": "2026-09-11",
-            "language": ""
-          }
-        ],
-        "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/9rnoQFrmdBwqAAEWvmBWY2tGNFs.jpg",
-        "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
-        "voteAverage": "7.9",
-        "genre": [
-          "劇情",
-          "懸疑",
-          "愛情"
-        ],
-        "duration": 100,
-        "synopsis": "波蘭電影大師奇士勞斯基逝世20週年紀念修復【藍白紅三部曲】第三部，由伊蓮雅各、尚皮耶羅利與尚路易坦帝尼昂主演。一名模特兒與極度不信任人、喜愛竊聽鄰居電話的退休法官，意外發展出一段特殊的關係。",
-        "imdb": "8.1",
-        "rt": "100%",
-        "mc": "100",
-        "ratingMeta": {
-          "imdb": {
-            "source": "omdb",
-            "votes": 116330,
-            "lastChanged": "2026-08-29T22:03:55.290760+08:00"
-          },
-          "rt": {
-            "source": "mdblist",
-            "votes": 61,
-            "lastChanged": "2026-08-29T22:03:55.290760+08:00"
-          },
-          "mc": {
-            "source": "mdblist",
-            "votes": 11,
-            "lastChanged": "2026-08-29T22:03:55.290760+08:00"
-          }
-        },
-        "trailerKey": null,
-        "cast": [
-          {
-            "name": "伊蓮·雅各",
-            "char": "Valentine",
-            "photo": "https://image.tmdb.org/t/p/w500/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg"
-          },
-          {
-            "name": "尚-路易·特罕狄釀",
-            "char": "The Judge",
-            "photo": "https://image.tmdb.org/t/p/w500/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg"
-          },
-          {
-            "name": "Frédérique Feder",
-            "char": "Karin",
-            "photo": "https://image.tmdb.org/t/p/w500/vHCAJPYuFb2JJeX18yVo8hJmQeY.jpg"
-          },
-          {
-            "name": "Jean-Pierre Lorit",
-            "char": "Auguste",
-            "photo": "https://image.tmdb.org/t/p/w500/xP0IO3ZEAUmriWN36pAqeExloDK.jpg"
-          },
-          {
-            "name": "Samuel Le Bihan",
-            "char": "Photographer",
-            "photo": "https://image.tmdb.org/t/p/w500/jN4hwWfhFaE8v5TGiS6cg9HKOxe.jpg"
-          },
-          {
-            "name": "Marion Stalens",
-            "char": "Veterinarian",
-            "photo": "https://image.tmdb.org/t/p/w500/8AEcShsEooBHYwneHUHyL65mtxO.jpg"
-          },
-          {
-            "name": "Teco Celio",
-            "char": "Bartender",
-            "photo": "https://image.tmdb.org/t/p/w500/5PUIFW0JvgoaLX1ndyJbSeBdQF0.jpg"
-          },
-          {
-            "name": "Bernard Escalon",
-            "char": "Record Dealer",
-            "photo": "https://image.tmdb.org/t/p/w500/hRifAJBIuQEd6xUhvVkYm4tiZOy.jpg"
-          },
-          {
-            "name": "Jean Schlegel",
-            "char": "Neighbor",
-            "photo": null
-          },
-          {
-            "name": "Elżbieta Jasińska",
-            "char": "Woman",
-            "photo": "https://image.tmdb.org/t/p/w500/hcM2a714AjQXejIkhOqY30QcZQw.jpg"
-          },
-          {
-            "name": "Paul Vermeulen",
-            "char": "Karin's Friend",
-            "photo": null
-          },
-          {
-            "name": "Jean-Marie Daunas",
-            "char": "Theater Keeper",
-            "photo": null
-          },
-          {
-            "name": "Roland Carey",
-            "char": "Dealer",
-            "photo": "https://image.tmdb.org/t/p/w500/jynPOZGBo9ANYHPmTvs4ygFWTWk.jpg"
-          },
-          {
-            "name": "Brigitte Raul",
-            "char": "",
-            "photo": null
-          },
-          {
-            "name": "Leo Ramseyer",
-            "char": "",
-            "photo": null
-          },
-          {
-            "name": "Nader Farman",
-            "char": "",
-            "photo": null
-          }
-        ],
-        "crew": [
-          {
-            "name": "Krzysztof Piesiewicz",
-            "job": "Screenplay"
-          },
-          {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Screenplay"
-          },
-          {
-            "name": "古茲托夫·奇斯洛夫斯基",
-            "job": "Director"
-          }
-        ],
-        "budget": 0,
-        "revenue": 4127033,
-        "status": "Released",
-        "origLang": "fr",
-        "origTitle": "Trois couleurs : Rouge",
-        "platforms": [
-          {
-            "name": "Apple TV Store",
-            "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-          }
-        ],
-        "popularity": 6.3259,
-        "imdbId": "tt0111495",
-        "countries": [
-          "France",
-          "Poland",
-          "Switzerland"
-        ],
-        "detail": {
-          "duration": 100,
-          "genres": [
-            "劇情",
-            "懸疑",
-            "愛情"
-          ],
-          "synopsis": "波蘭電影大師奇士勞斯基逝世20週年紀念修復【藍白紅三部曲】第三部，由伊蓮雅各、尚皮耶羅利與尚路易坦帝尼昂主演。一名模特兒與極度不信任人、喜愛竊聽鄰居電話的退休法官，意外發展出一段特殊的關係。",
-          "poster": "https://image.tmdb.org/t/p/w500/9rnoQFrmdBwqAAEWvmBWY2tGNFs.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
-          "voteAverage": "7.9",
-          "trailerKey": null,
-          "imdbId": "tt0111495",
-          "countries": [
-            "France",
-            "Poland",
-            "Switzerland"
-          ],
-          "cast": [
-            {
-              "name": "伊蓮·雅各",
-              "char": "Valentine",
-              "photo": "https://image.tmdb.org/t/p/w500/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg"
-            },
-            {
-              "name": "尚-路易·特罕狄釀",
-              "char": "The Judge",
-              "photo": "https://image.tmdb.org/t/p/w500/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg"
-            },
-            {
-              "name": "Frédérique Feder",
-              "char": "Karin",
-              "photo": "https://image.tmdb.org/t/p/w500/vHCAJPYuFb2JJeX18yVo8hJmQeY.jpg"
-            },
-            {
-              "name": "Jean-Pierre Lorit",
-              "char": "Auguste",
-              "photo": "https://image.tmdb.org/t/p/w500/xP0IO3ZEAUmriWN36pAqeExloDK.jpg"
-            },
-            {
-              "name": "Samuel Le Bihan",
-              "char": "Photographer",
-              "photo": "https://image.tmdb.org/t/p/w500/jN4hwWfhFaE8v5TGiS6cg9HKOxe.jpg"
-            },
-            {
-              "name": "Marion Stalens",
-              "char": "Veterinarian",
-              "photo": "https://image.tmdb.org/t/p/w500/8AEcShsEooBHYwneHUHyL65mtxO.jpg"
-            },
-            {
-              "name": "Teco Celio",
-              "char": "Bartender",
-              "photo": "https://image.tmdb.org/t/p/w500/5PUIFW0JvgoaLX1ndyJbSeBdQF0.jpg"
-            },
-            {
-              "name": "Bernard Escalon",
-              "char": "Record Dealer",
-              "photo": "https://image.tmdb.org/t/p/w500/hRifAJBIuQEd6xUhvVkYm4tiZOy.jpg"
-            },
-            {
-              "name": "Jean Schlegel",
-              "char": "Neighbor",
-              "photo": null
-            },
-            {
-              "name": "Elżbieta Jasińska",
-              "char": "Woman",
-              "photo": "https://image.tmdb.org/t/p/w500/hcM2a714AjQXejIkhOqY30QcZQw.jpg"
-            },
-            {
-              "name": "Paul Vermeulen",
-              "char": "Karin's Friend",
-              "photo": null
-            },
-            {
-              "name": "Jean-Marie Daunas",
-              "char": "Theater Keeper",
-              "photo": null
-            },
-            {
-              "name": "Roland Carey",
-              "char": "Dealer",
-              "photo": "https://image.tmdb.org/t/p/w500/jynPOZGBo9ANYHPmTvs4ygFWTWk.jpg"
-            },
-            {
-              "name": "Brigitte Raul",
-              "char": "",
-              "photo": null
-            },
-            {
-              "name": "Leo Ramseyer",
-              "char": "",
-              "photo": null
-            },
-            {
-              "name": "Nader Farman",
-              "char": "",
-              "photo": null
-            }
-          ],
-          "crew": [
-            {
-              "name": "Krzysztof Piesiewicz",
-              "job": "Screenplay"
-            },
-            {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Screenplay"
-            },
-            {
-              "name": "古茲托夫·奇斯洛夫斯基",
-              "job": "Director"
-            }
-          ],
-          "budget": 0,
-          "revenue": 4127033,
-          "status": "Released",
-          "origLang": "fr",
-          "origTitle": "Trois couleurs : Rouge",
-          "platforms": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            }
-          ]
-        },
-        "tmdbUrl": "https://www.themoviedb.org/movie/110?language=zh-TW",
-        "atmoviesId": "",
-        "atmoviesUrl": "",
-        "sourceBucket": "tmdb"
-      },
-      {
         "id": 1600,
         "titleZh": "雙面薇若妮卡",
         "titleEn": "La Double Vie de Véronique",
@@ -17820,7 +17167,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
         "voteAverage": "6.5",
         "genre": [
           "愛情",
@@ -17838,7 +17185,7 @@
           {
             "name": "珊卓布拉克",
             "char": "Sally Owens",
-            "photo": "https://image.tmdb.org/t/p/w500/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
           },
           {
             "name": "妮可·基嫚",
@@ -17915,7 +17262,7 @@
           ],
           "synopsis": "",
           "poster": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
           "voteAverage": "6.5",
           "trailerKey": "fmMoGBw0Dkk",
           "imdbId": "tt32588798",
@@ -17926,7 +17273,7 @@
             {
               "name": "珊卓布拉克",
               "char": "Sally Owens",
-              "photo": "https://image.tmdb.org/t/p/w500/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
             },
             {
               "name": "妮可·基嫚",
@@ -23951,6 +23298,121 @@
         "sourceBucket": "tmdb"
       },
       {
+        "id": 1603232,
+        "titleZh": "Perfume \"コールドスリープ\" -25 years Document-",
+        "titleEn": "Perfume \"コールドスリープ\" -25 years Document-",
+        "releaseDate": "2026-09-24",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-09-24",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/muOzj5LK8rUg02sOaaMXMAOMFd6.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": null,
+        "voteAverage": "",
+        "genre": [
+          "紀錄",
+          "歷史",
+          "音樂"
+        ],
+        "duration": 117,
+        "synopsis": "",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "西脇綾香",
+            "char": "A-chan",
+            "photo": "https://image.tmdb.org/t/p/w500/40l2Lbuecip8PL7Vg6RV8UDVUoo.jpg"
+          },
+          {
+            "name": "大本彩乃",
+            "char": "Nocchi",
+            "photo": "https://image.tmdb.org/t/p/w500/ihDu83NUjRLRbfK2JP8LrcX44Ja.jpg"
+          },
+          {
+            "name": "樫野有香",
+            "char": "Kashiyuka",
+            "photo": "https://image.tmdb.org/t/p/w500/cG2ve8zEv528EVIdthStTfwJfIi.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "佐渡岳利",
+            "job": "Director"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Released",
+        "origLang": "ja",
+        "origTitle": "Perfume \"コールドスリープ\" -25 years Document-",
+        "platforms": [],
+        "popularity": 0.9344,
+        "imdbId": null,
+        "countries": [
+          "Japan"
+        ],
+        "detail": {
+          "duration": 117,
+          "genres": [
+            "紀錄",
+            "歷史",
+            "音樂"
+          ],
+          "synopsis": "",
+          "poster": "https://image.tmdb.org/t/p/w500/muOzj5LK8rUg02sOaaMXMAOMFd6.jpg",
+          "backdrop": null,
+          "voteAverage": "",
+          "trailerKey": null,
+          "imdbId": null,
+          "countries": [
+            "Japan"
+          ],
+          "cast": [
+            {
+              "name": "西脇綾香",
+              "char": "A-chan",
+              "photo": "https://image.tmdb.org/t/p/w500/40l2Lbuecip8PL7Vg6RV8UDVUoo.jpg"
+            },
+            {
+              "name": "大本彩乃",
+              "char": "Nocchi",
+              "photo": "https://image.tmdb.org/t/p/w500/ihDu83NUjRLRbfK2JP8LrcX44Ja.jpg"
+            },
+            {
+              "name": "樫野有香",
+              "char": "Kashiyuka",
+              "photo": "https://image.tmdb.org/t/p/w500/cG2ve8zEv528EVIdthStTfwJfIi.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "佐渡岳利",
+              "job": "Director"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Released",
+          "origLang": "ja",
+          "origTitle": "Perfume \"コールドスリープ\" -25 years Document-",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1603232?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
         "id": 1620313,
         "titleZh": "黑牢城",
         "titleEn": "黒牢城",
@@ -24401,7 +23863,7 @@
         "twReleaseDateVerified": true,
         "poster": "https://image.tmdb.org/t/p/w500/7H23ieTIusX91xe78DQkyjYfgFl.jpg",
         "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
         "voteAverage": "",
         "genre": [
           "動畫",
@@ -24520,7 +23982,7 @@
           ],
           "synopsis": "喬和蕾莎在慶祝她們共同相處的最後一晚的時候，意外發現一道神祕的傳送門，把她們帶往奇幻的納卡利島，那裡充滿她們從菲律賓家人述說的故事中聽到的各種魔法與神話生物。當她們發現回家的代價竟然是抹去彼此友情的所有記憶時，她們就必須在永遠遺忘對方之前，分秒必爭地盡快找到離開小島的方法。",
           "poster": "https://image.tmdb.org/t/p/w500/7H23ieTIusX91xe78DQkyjYfgFl.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
           "voteAverage": "",
           "trailerKey": "WII6-Ss-kTM",
           "imdbId": "tt36583977",
@@ -25557,6 +25019,257 @@
           "platforms": []
         },
         "tmdbUrl": "https://www.themoviedb.org/movie/1393151?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
+        "id": 1509632,
+        "titleZh": "我們不是什麼",
+        "titleEn": "我們不是什麼",
+        "releaseDate": "2026-10-02",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-10-02",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xP9YyExJeXo5c5WrjRftm90mQRt.jpg",
+        "voteAverage": "7.5",
+        "genre": [
+          "犯罪",
+          "劇情"
+        ],
+        "duration": 128,
+        "synopsis": "情人節當天，一輛雙層巴士在香港市中心爆炸，造成大量乘客傷亡。警方找來鑑定專家，兩具無家屬認領少年遺體，成為著重調查對象。鑑定的不只是物理證據，也是人際網絡和生命軌跡，被排斥及壓迫的他們在亂世中彷彿什麼都不是，但仍勇敢面對命運。",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "譚耀文",
+            "char": "Lung",
+            "photo": "https://image.tmdb.org/t/p/w500/aOus8OyhjMqJxnZsI0r5krej8TU.jpg"
+          },
+          {
+            "name": "江熚生",
+            "char": "Fai",
+            "photo": "https://image.tmdb.org/t/p/w500/u855FOXF78pF3uO91cVYDOyvVWS.jpg"
+          },
+          {
+            "name": "陳毅燊",
+            "char": "Ike",
+            "photo": "https://image.tmdb.org/t/p/w500/2ixDLVrKEy6nzM0ja7dBuJNQkJE.jpg"
+          },
+          {
+            "name": "Chu Pak-Him",
+            "char": "Chiang Chung",
+            "photo": "https://image.tmdb.org/t/p/w500/vxBKBIa3hZDXxT3PGzUbj666dGe.jpg"
+          },
+          {
+            "name": "梁雍婷",
+            "char": "Ike's Sister",
+            "photo": "https://image.tmdb.org/t/p/w500/frTVaV1U4KqPeHwSnoeB1JorUtw.jpg"
+          },
+          {
+            "name": "駱振偉",
+            "char": "Andrew",
+            "photo": "https://image.tmdb.org/t/p/w500/ba7185vQ34idyYu1b3b2NjJ82uX.jpg"
+          },
+          {
+            "name": "林宣妤",
+            "char": "Investigator",
+            "photo": "https://image.tmdb.org/t/p/w500/vPc8yPmvKzw9vSQnSHd1c4X8MeF.jpg"
+          },
+          {
+            "name": "陳淑儀",
+            "char": "Ike's Father",
+            "photo": "https://image.tmdb.org/t/p/w500/j8BaI0GslLQtxhG9B8MitChT8kE.jpg"
+          },
+          {
+            "name": "寶佩如",
+            "char": "Ike's Mother",
+            "photo": "https://image.tmdb.org/t/p/w500/tgi7c0RFzZyqRNPiuZp1dqsEZN8.jpg"
+          },
+          {
+            "name": "麥沛東",
+            "char": "Taxi Driver",
+            "photo": "https://image.tmdb.org/t/p/w500/mhdaIJ9tgLmcW8jT6UHWBMINTDh.jpg"
+          },
+          {
+            "name": "廖愛玲",
+            "char": "Chief Superintendent",
+            "photo": null
+          },
+          {
+            "name": "朱天",
+            "char": "Investigator",
+            "photo": "https://image.tmdb.org/t/p/w500/9gqHcq3vMqEemdtpr3pc4HTNlQ.jpg"
+          },
+          {
+            "name": "徐偉棟",
+            "char": "Loan Shark",
+            "photo": "https://image.tmdb.org/t/p/w500/rbVCAOS3Dp5q9HMDdWCGBQ6J7KO.jpg"
+          },
+          {
+            "name": "蘇偉泉",
+            "char": "Bar Customer",
+            "photo": "https://image.tmdb.org/t/p/w500/unPemOz6464jdASv7ct5QBofbEi.jpg"
+          },
+          {
+            "name": "王貝兒",
+            "char": "Zoe",
+            "photo": "https://image.tmdb.org/t/p/w500/6UerZ84pnkjeEzMBogxbYti7nQk.jpg"
+          },
+          {
+            "name": "吳致毅",
+            "char": "Debtor",
+            "photo": "https://image.tmdb.org/t/p/w500/5augmrSzGejWrTYhGm0Lkx3xv5L.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "邱禮濤",
+            "job": "Director"
+          },
+          {
+            "name": "邱禮濤",
+            "job": "Writer"
+          }
+        ],
+        "budget": 0,
+        "revenue": 128,
+        "status": "Released",
+        "origLang": "cn",
+        "origTitle": "我們不是什麼",
+        "platforms": [],
+        "popularity": 2.4881,
+        "imdbId": "tt37535198",
+        "countries": [
+          "Hong Kong"
+        ],
+        "detail": {
+          "duration": 128,
+          "genres": [
+            "犯罪",
+            "劇情"
+          ],
+          "synopsis": "情人節當天，一輛雙層巴士在香港市中心爆炸，造成大量乘客傷亡。警方找來鑑定專家，兩具無家屬認領少年遺體，成為著重調查對象。鑑定的不只是物理證據，也是人際網絡和生命軌跡，被排斥及壓迫的他們在亂世中彷彿什麼都不是，但仍勇敢面對命運。",
+          "poster": "https://image.tmdb.org/t/p/w500/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/xP9YyExJeXo5c5WrjRftm90mQRt.jpg",
+          "voteAverage": "7.5",
+          "trailerKey": null,
+          "imdbId": "tt37535198",
+          "countries": [
+            "Hong Kong"
+          ],
+          "cast": [
+            {
+              "name": "譚耀文",
+              "char": "Lung",
+              "photo": "https://image.tmdb.org/t/p/w500/aOus8OyhjMqJxnZsI0r5krej8TU.jpg"
+            },
+            {
+              "name": "江熚生",
+              "char": "Fai",
+              "photo": "https://image.tmdb.org/t/p/w500/u855FOXF78pF3uO91cVYDOyvVWS.jpg"
+            },
+            {
+              "name": "陳毅燊",
+              "char": "Ike",
+              "photo": "https://image.tmdb.org/t/p/w500/2ixDLVrKEy6nzM0ja7dBuJNQkJE.jpg"
+            },
+            {
+              "name": "Chu Pak-Him",
+              "char": "Chiang Chung",
+              "photo": "https://image.tmdb.org/t/p/w500/vxBKBIa3hZDXxT3PGzUbj666dGe.jpg"
+            },
+            {
+              "name": "梁雍婷",
+              "char": "Ike's Sister",
+              "photo": "https://image.tmdb.org/t/p/w500/frTVaV1U4KqPeHwSnoeB1JorUtw.jpg"
+            },
+            {
+              "name": "駱振偉",
+              "char": "Andrew",
+              "photo": "https://image.tmdb.org/t/p/w500/ba7185vQ34idyYu1b3b2NjJ82uX.jpg"
+            },
+            {
+              "name": "林宣妤",
+              "char": "Investigator",
+              "photo": "https://image.tmdb.org/t/p/w500/vPc8yPmvKzw9vSQnSHd1c4X8MeF.jpg"
+            },
+            {
+              "name": "陳淑儀",
+              "char": "Ike's Father",
+              "photo": "https://image.tmdb.org/t/p/w500/j8BaI0GslLQtxhG9B8MitChT8kE.jpg"
+            },
+            {
+              "name": "寶佩如",
+              "char": "Ike's Mother",
+              "photo": "https://image.tmdb.org/t/p/w500/tgi7c0RFzZyqRNPiuZp1dqsEZN8.jpg"
+            },
+            {
+              "name": "麥沛東",
+              "char": "Taxi Driver",
+              "photo": "https://image.tmdb.org/t/p/w500/mhdaIJ9tgLmcW8jT6UHWBMINTDh.jpg"
+            },
+            {
+              "name": "廖愛玲",
+              "char": "Chief Superintendent",
+              "photo": null
+            },
+            {
+              "name": "朱天",
+              "char": "Investigator",
+              "photo": "https://image.tmdb.org/t/p/w500/9gqHcq3vMqEemdtpr3pc4HTNlQ.jpg"
+            },
+            {
+              "name": "徐偉棟",
+              "char": "Loan Shark",
+              "photo": "https://image.tmdb.org/t/p/w500/rbVCAOS3Dp5q9HMDdWCGBQ6J7KO.jpg"
+            },
+            {
+              "name": "蘇偉泉",
+              "char": "Bar Customer",
+              "photo": "https://image.tmdb.org/t/p/w500/unPemOz6464jdASv7ct5QBofbEi.jpg"
+            },
+            {
+              "name": "王貝兒",
+              "char": "Zoe",
+              "photo": "https://image.tmdb.org/t/p/w500/6UerZ84pnkjeEzMBogxbYti7nQk.jpg"
+            },
+            {
+              "name": "吳致毅",
+              "char": "Debtor",
+              "photo": "https://image.tmdb.org/t/p/w500/5augmrSzGejWrTYhGm0Lkx3xv5L.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "邱禮濤",
+              "job": "Director"
+            },
+            {
+              "name": "邱禮濤",
+              "job": "Writer"
+            }
+          ],
+          "budget": 0,
+          "revenue": 128,
+          "status": "Released",
+          "origLang": "cn",
+          "origTitle": "我們不是什麼",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1509632?language=zh-TW",
         "atmoviesId": "",
         "atmoviesUrl": "",
         "sourceBucket": "tmdb"
@@ -30564,245 +30277,6 @@
         "sourceBucket": "tmdb"
       },
       {
-        "id": 1170608,
-        "titleZh": "沙丘：第三部",
-        "titleEn": "Dune: Part Three",
-        "releaseDate": "2026-12-16",
-        "releaseYear": "2026",
-        "isRerelease": false,
-        "twTheatricalReleases": [
-          {
-            "date": "2026-12-16",
-            "language": ""
-          }
-        ],
-        "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/hQv25PAaEs7aLk2CMwfbgtLbSlr.jpg",
-        "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-        "voteAverage": "",
-        "genre": [
-          "科幻",
-          "冒險"
-        ],
-        "duration": 140,
-        "synopsis": "",
-        "imdb": "",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {},
-        "trailerKey": "wY8n1ExAN-s",
-        "cast": [
-          {
-            "name": "提摩西·夏勒梅",
-            "char": "Paul Atreides",
-            "photo": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
-          },
-          {
-            "name": "千黛亞",
-            "char": "Chani",
-            "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
-          },
-          {
-            "name": "傑森·摩莫亞",
-            "char": "Hayt",
-            "photo": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
-          },
-          {
-            "name": "佛蘿倫絲·普伊",
-            "char": "Princess Irulan",
-            "photo": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
-          },
-          {
-            "name": "蕾貝卡·弗格森",
-            "char": "Lady Jessica",
-            "photo": "https://image.tmdb.org/t/p/w500/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
-          },
-          {
-            "name": "伊薩赫·德·班克爾",
-            "char": "Farok",
-            "photo": "https://image.tmdb.org/t/p/w500/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
-          },
-          {
-            "name": "夏綠蒂·蘭普琳",
-            "char": "Reverend Mother Mohiam",
-            "photo": "https://image.tmdb.org/t/p/w500/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
-          },
-          {
-            "name": "安雅·泰勒-喬伊",
-            "char": "Alia Atreides",
-            "photo": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
-          },
-          {
-            "name": "羅伯·派汀森",
-            "char": "Scytale",
-            "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
-          },
-          {
-            "name": "哈維爾·巴登",
-            "char": "Stilgar",
-            "photo": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
-          },
-          {
-            "name": "諾加-沃夫·摩莫亞",
-            "char": "Leto II",
-            "photo": "https://image.tmdb.org/t/p/w500/y5dhw5L3M0ZVgaJm7qA67cQGOsJ.jpg"
-          },
-          {
-            "name": "Ida Brooke",
-            "char": "Ghanima",
-            "photo": "https://image.tmdb.org/t/p/w500/e9kGzuYnYRMvRcPo0tBmIV2Phhy.jpg"
-          },
-          {
-            "name": "喬許·布洛林",
-            "char": "Gurney Halleck",
-            "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
-          },
-          {
-            "name": "蕾雅·瑟杜",
-            "char": "Lady Margot Fenring",
-            "photo": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
-          }
-        ],
-        "crew": [
-          {
-            "name": "丹尼·維勒納夫",
-            "job": "Screenplay"
-          },
-          {
-            "name": "丹尼·維勒納夫",
-            "job": "Director"
-          },
-          {
-            "name": "Brian K. Vaughan",
-            "job": "Screenplay"
-          }
-        ],
-        "budget": 0,
-        "revenue": 0,
-        "status": "Post Production",
-        "origLang": "en",
-        "origTitle": "Dune: Part Three",
-        "platforms": [],
-        "popularity": 16.1358,
-        "imdbId": "tt31378509",
-        "countries": [
-          "United States of America"
-        ],
-        "detail": {
-          "duration": 140,
-          "genres": [
-            "科幻",
-            "冒險"
-          ],
-          "synopsis": "",
-          "poster": "https://image.tmdb.org/t/p/w500/hQv25PAaEs7aLk2CMwfbgtLbSlr.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-          "voteAverage": "",
-          "trailerKey": "wY8n1ExAN-s",
-          "imdbId": "tt31378509",
-          "countries": [
-            "United States of America"
-          ],
-          "cast": [
-            {
-              "name": "提摩西·夏勒梅",
-              "char": "Paul Atreides",
-              "photo": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
-            },
-            {
-              "name": "千黛亞",
-              "char": "Chani",
-              "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
-            },
-            {
-              "name": "傑森·摩莫亞",
-              "char": "Hayt",
-              "photo": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
-            },
-            {
-              "name": "佛蘿倫絲·普伊",
-              "char": "Princess Irulan",
-              "photo": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
-            },
-            {
-              "name": "蕾貝卡·弗格森",
-              "char": "Lady Jessica",
-              "photo": "https://image.tmdb.org/t/p/w500/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
-            },
-            {
-              "name": "伊薩赫·德·班克爾",
-              "char": "Farok",
-              "photo": "https://image.tmdb.org/t/p/w500/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
-            },
-            {
-              "name": "夏綠蒂·蘭普琳",
-              "char": "Reverend Mother Mohiam",
-              "photo": "https://image.tmdb.org/t/p/w500/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
-            },
-            {
-              "name": "安雅·泰勒-喬伊",
-              "char": "Alia Atreides",
-              "photo": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
-            },
-            {
-              "name": "羅伯·派汀森",
-              "char": "Scytale",
-              "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
-            },
-            {
-              "name": "哈維爾·巴登",
-              "char": "Stilgar",
-              "photo": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
-            },
-            {
-              "name": "諾加-沃夫·摩莫亞",
-              "char": "Leto II",
-              "photo": "https://image.tmdb.org/t/p/w500/y5dhw5L3M0ZVgaJm7qA67cQGOsJ.jpg"
-            },
-            {
-              "name": "Ida Brooke",
-              "char": "Ghanima",
-              "photo": "https://image.tmdb.org/t/p/w500/e9kGzuYnYRMvRcPo0tBmIV2Phhy.jpg"
-            },
-            {
-              "name": "喬許·布洛林",
-              "char": "Gurney Halleck",
-              "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
-            },
-            {
-              "name": "蕾雅·瑟杜",
-              "char": "Lady Margot Fenring",
-              "photo": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
-            }
-          ],
-          "crew": [
-            {
-              "name": "丹尼·維勒納夫",
-              "job": "Screenplay"
-            },
-            {
-              "name": "丹尼·維勒納夫",
-              "job": "Director"
-            },
-            {
-              "name": "Brian K. Vaughan",
-              "job": "Screenplay"
-            }
-          ],
-          "budget": 0,
-          "revenue": 0,
-          "status": "Post Production",
-          "origLang": "en",
-          "origTitle": "Dune: Part Three",
-          "platforms": []
-        },
-        "tmdbUrl": "https://www.themoviedb.org/movie/1170608?language=zh-TW",
-        "atmoviesId": "",
-        "atmoviesUrl": "",
-        "sourceBucket": "tmdb"
-      },
-      {
         "id": 1003596,
         "titleZh": "復仇者聯盟：末日崛起",
         "titleEn": "Avengers: Doomsday",
@@ -31059,6 +30533,245 @@
           "platforms": []
         },
         "tmdbUrl": "https://www.themoviedb.org/movie/1003596?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
+        "id": 1170608,
+        "titleZh": "沙丘：第三部",
+        "titleEn": "Dune: Part Three",
+        "releaseDate": "2026-12-16",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-12-16",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/hQv25PAaEs7aLk2CMwfbgtLbSlr.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+        "voteAverage": "",
+        "genre": [
+          "科幻",
+          "冒險"
+        ],
+        "duration": 140,
+        "synopsis": "",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": "wY8n1ExAN-s",
+        "cast": [
+          {
+            "name": "提摩西·夏勒梅",
+            "char": "Paul Atreides",
+            "photo": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+          },
+          {
+            "name": "千黛亞",
+            "char": "Chani",
+            "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+          },
+          {
+            "name": "傑森·摩莫亞",
+            "char": "Hayt",
+            "photo": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+          },
+          {
+            "name": "佛蘿倫絲·普伊",
+            "char": "Princess Irulan",
+            "photo": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+          },
+          {
+            "name": "蕾貝卡·弗格森",
+            "char": "Lady Jessica",
+            "photo": "https://image.tmdb.org/t/p/w500/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+          },
+          {
+            "name": "伊薩赫·德·班克爾",
+            "char": "Farok",
+            "photo": "https://image.tmdb.org/t/p/w500/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+          },
+          {
+            "name": "夏綠蒂·蘭普琳",
+            "char": "Reverend Mother Mohiam",
+            "photo": "https://image.tmdb.org/t/p/w500/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
+          },
+          {
+            "name": "安雅·泰勒-喬伊",
+            "char": "Alia Atreides",
+            "photo": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+          },
+          {
+            "name": "羅伯·派汀森",
+            "char": "Scytale",
+            "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+          },
+          {
+            "name": "哈維爾·巴登",
+            "char": "Stilgar",
+            "photo": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+          },
+          {
+            "name": "諾加-沃夫·摩莫亞",
+            "char": "Leto II",
+            "photo": "https://image.tmdb.org/t/p/w500/y5dhw5L3M0ZVgaJm7qA67cQGOsJ.jpg"
+          },
+          {
+            "name": "Ida Brooke",
+            "char": "Ghanima",
+            "photo": "https://image.tmdb.org/t/p/w500/e9kGzuYnYRMvRcPo0tBmIV2Phhy.jpg"
+          },
+          {
+            "name": "喬許·布洛林",
+            "char": "Gurney Halleck",
+            "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+          },
+          {
+            "name": "蕾雅·瑟杜",
+            "char": "Lady Margot Fenring",
+            "photo": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "丹尼·維勒納夫",
+            "job": "Screenplay"
+          },
+          {
+            "name": "丹尼·維勒納夫",
+            "job": "Director"
+          },
+          {
+            "name": "Brian K. Vaughan",
+            "job": "Screenplay"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Post Production",
+        "origLang": "en",
+        "origTitle": "Dune: Part Three",
+        "platforms": [],
+        "popularity": 16.1358,
+        "imdbId": "tt31378509",
+        "countries": [
+          "United States of America"
+        ],
+        "detail": {
+          "duration": 140,
+          "genres": [
+            "科幻",
+            "冒險"
+          ],
+          "synopsis": "",
+          "poster": "https://image.tmdb.org/t/p/w500/hQv25PAaEs7aLk2CMwfbgtLbSlr.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+          "voteAverage": "",
+          "trailerKey": "wY8n1ExAN-s",
+          "imdbId": "tt31378509",
+          "countries": [
+            "United States of America"
+          ],
+          "cast": [
+            {
+              "name": "提摩西·夏勒梅",
+              "char": "Paul Atreides",
+              "photo": "https://image.tmdb.org/t/p/w500/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+            },
+            {
+              "name": "千黛亞",
+              "char": "Chani",
+              "photo": "https://image.tmdb.org/t/p/w500/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+            },
+            {
+              "name": "傑森·摩莫亞",
+              "char": "Hayt",
+              "photo": "https://image.tmdb.org/t/p/w500/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+            },
+            {
+              "name": "佛蘿倫絲·普伊",
+              "char": "Princess Irulan",
+              "photo": "https://image.tmdb.org/t/p/w500/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+            },
+            {
+              "name": "蕾貝卡·弗格森",
+              "char": "Lady Jessica",
+              "photo": "https://image.tmdb.org/t/p/w500/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+            },
+            {
+              "name": "伊薩赫·德·班克爾",
+              "char": "Farok",
+              "photo": "https://image.tmdb.org/t/p/w500/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+            },
+            {
+              "name": "夏綠蒂·蘭普琳",
+              "char": "Reverend Mother Mohiam",
+              "photo": "https://image.tmdb.org/t/p/w500/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
+            },
+            {
+              "name": "安雅·泰勒-喬伊",
+              "char": "Alia Atreides",
+              "photo": "https://image.tmdb.org/t/p/w500/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+            },
+            {
+              "name": "羅伯·派汀森",
+              "char": "Scytale",
+              "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+            },
+            {
+              "name": "哈維爾·巴登",
+              "char": "Stilgar",
+              "photo": "https://image.tmdb.org/t/p/w500/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+            },
+            {
+              "name": "諾加-沃夫·摩莫亞",
+              "char": "Leto II",
+              "photo": "https://image.tmdb.org/t/p/w500/y5dhw5L3M0ZVgaJm7qA67cQGOsJ.jpg"
+            },
+            {
+              "name": "Ida Brooke",
+              "char": "Ghanima",
+              "photo": "https://image.tmdb.org/t/p/w500/e9kGzuYnYRMvRcPo0tBmIV2Phhy.jpg"
+            },
+            {
+              "name": "喬許·布洛林",
+              "char": "Gurney Halleck",
+              "photo": "https://image.tmdb.org/t/p/w500/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+            },
+            {
+              "name": "蕾雅·瑟杜",
+              "char": "Lady Margot Fenring",
+              "photo": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "丹尼·維勒納夫",
+              "job": "Screenplay"
+            },
+            {
+              "name": "丹尼·維勒納夫",
+              "job": "Director"
+            },
+            {
+              "name": "Brian K. Vaughan",
+              "job": "Screenplay"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Post Production",
+          "origLang": "en",
+          "origTitle": "Dune: Part Three",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1170608?language=zh-TW",
         "atmoviesId": "",
         "atmoviesUrl": "",
         "sourceBucket": "tmdb"

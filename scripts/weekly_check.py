@@ -49,8 +49,6 @@ RERELEASE_ABSENCE_REQUIRED_SOURCES = (
     "atmovies",
     "showtime",
     "ambassador",
-    "spot_huashan",
-    "wonderful",
 )
 GENRE_MAP = {
     "动作": "動作",
@@ -1708,10 +1706,11 @@ def export_google_sheets_tsv(output, generated_at_local, movie_data=None, rerele
 
 
 def build_rerelease_audit(atmovies_output, generated_at_local):
-    """以開眼及三家影城聯集建立私人重映候選；個別影城失敗不阻斷開眼稽核。"""
+    """以開眼及影城片單聯集建立私人重映候選；個別影城失敗不阻斷開眼稽核。"""
     from collections import Counter
     from cinema_rereleases import (
         SOURCE_URLS,
+        fetch_additional_cinema_movies,
         fetch_html,
         has_rerelease_marker,
         is_confirmed_rerelease,
@@ -1792,6 +1791,14 @@ def build_rerelease_audit(atmovies_output, generated_at_local):
         source_health["wonderful"] = True
     except Exception as error:
         log(f"Cinema audit warning: Wonderful failed: {error}")
+
+    additional_movies, additional_health, additional_errors = fetch_additional_cinema_movies(
+        USER_AGENT, generated_at_local.date()
+    )
+    cinema_movies.extend(additional_movies)
+    source_health.update(additional_health)
+    for source, error in additional_errors.items():
+        log(f"Cinema audit warning: {source} failed: {error}")
 
     matched = {}
     cinema_presence = {}

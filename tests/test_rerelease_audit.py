@@ -15,6 +15,97 @@ import weekly_check as weekly
 
 
 class CinemaParserTests(unittest.TestCase):
+    def test_miramar_reads_titles_dates_and_merges_overlapping_sections(self):
+        html = '''<ul id="movie_area"><li><a class="img" href="/Movie/detail?id=123"></a>
+            <div class="title">測試干擾<span>Test Film</span><span class="date">2026-09-04</span>
+            <div class="badge_movie_level">輔15級</div></div></li></ul>'''
+        now = cinema.parse_miramar(html)
+        soon = cinema.parse_miramar(html, "soon")
+        self.assertEqual(now[0]["title_zh"], "測試干擾")
+        self.assertEqual(now[0]["title_en"], "Test Film")
+        merged = cinema.merge_raw_movies(now + soon)
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(merged[0]["statuses"], ["now", "soon"])
+        self.assertEqual(merged[0]["release_date_tw"], "2026-09-04")
+        missing = cinema.parse_miramar(html.replace("2026-09-04", "上映日期待確認"))
+        self.assertEqual(missing[0]["release_date_tw"], "")
+        with self.assertRaises(ValueError):
+            cinema.parse_miramar("<html>blocked</html>")
+
+    def test_centuryasia_branch_uses_section_status_and_preserves_old_date(self):
+        html = '''<ul id="ContentPlaceHolder1_movie_poster"><li>
+            <a class="mosaic-overlay" href="Movie_Info_detail.aspx?programid=123">
+            <h4>測試重映</h4><p>2024-11-01</p></a></li></ul>
+            <ul id="ContentPlaceHolder1_movie_new_poster"><li>
+            <a class="mosaic-overlay" href="Movie_Info_detail.aspx?programid=456">
+            <h4>新片</h4><p>2026-09-18</p></a></li></ul>'''
+        for branch in ("centuryasia_ximen", "centuryasia_beyond", "centuryasia_kaohsiung"):
+            movies = cinema.parse_centuryasia_branch(html, branch)
+            self.assertEqual([m["status"] for m in movies], ["now", "soon"])
+            self.assertEqual(movies[0]["release_date_tw"], "2024-11-01")
+            self.assertEqual(movies[0]["source"], branch)
+            self.assertTrue(movies[0]["source_url"].startswith(cinema.SOURCE_URLS[branch].rsplit("/", 1)[0]))
+        with self.assertRaises(ValueError):
+            cinema.parse_centuryasia_branch(html.replace("movie_new_poster", "changed"), "centuryasia_ximen")
+
+    def test_centuryasia_main_rejects_failed_response_and_keeps_missing_dates(self):
+        payload = {"status": True, "Data": [{"programid": "0000123", "cname": "測試電影",
+                                             "ename": "Test Film", "ReleaseDate": None}]}
+        movie = cinema.parse_centuryasia(payload, "soon")[0]
+        self.assertEqual(movie["status"], "soon")
+        self.assertEqual(movie["release_date_tw"], "")
+        self.assertEqual(movie["title_en"], "Test Film")
+        self.assertTrue(movie["source_url"].endswith("obj=0000123"))
+        for broken in ({"status": False, "Data": payload["Data"]}, {"status": True, "Data": []},
+                       {"status": True, "Data": [{}]}, [], {}):
+            with self.assertRaises(ValueError):
+                cinema.parse_centuryasia(broken)
+
+    def test_additional_source_failure_discards_partial_list_and_continues(self):
+        html = '''<ul id="movie_area"><li><a class="img" href="/Movie/detail?id=123"></a>
+            <div class="title">測試電影<span>Test Film</span><span class="date">2026-09-04</span>
+            </div></li></ul>'''
+        def fetch(url, agent):
+            if url == cinema.SOURCE_URLS["miramar_now"]:
+                return html
+            if url in (cinema.SOURCE_URLS["centuryasia_now"], cinema.SOURCE_URLS["centuryasia_soon"]):
+                return '{"status":true,"Data":[{"programid":"123","cname":"其他電影"}]}'
+            raise RuntimeError("source unavailable")
+        with patch.object(cinema, "fetch_html", side_effect=fetch):
+            movies, health, errors = cinema.fetch_additional_cinema_movies("test", date(2026, 9, 9))
+        self.assertFalse(health["miramar"])
+        self.assertIn("miramar", errors)
+        self.assertTrue(health["centuryasia"])
+        self.assertEqual({movie["source"] for movie in movies}, {"centuryasia"})
+        self.assertEqual(set(health), {"miramar", "spot_taipei", "centuryasia", "centuryasia_ximen",
+                                      "centuryasia_beyond", "centuryasia_kaohsiung"})
+        self.assertTrue(weekly.rerelease_absence_audit_complete({
+            **health, "atmovies": True, "showtime": True, "ambassador": True,
+        }, True))
+
+    def test_spot_taipei_keeps_presence_without_inventing_release_year(self):
+        html = '''<table><tr><td><a class="abgne-zoom-out"
+            href="../202202/m1/movie.html"><img></a></td></tr>
+            <tr><td><table><tr><td class="movie_body_w3">9/4 - 熱映中</td></tr>
+            <tr><td class="movie_title">干擾<br>修復版</td></tr>
+            <tr><td class="movie_title_eng">Test Film</td></tr></table></td></tr></table>'''
+        movie = cinema.parse_spot_taipei(html, date(2026, 9, 9))[0]
+        self.assertEqual(movie["title_zh"], "干擾 修復版")
+        self.assertEqual(movie["release_date_tw"], "")
+        self.assertEqual(movie["status"], "now")
+        self.assertEqual(movie["source"], "spot_taipei")
+        self.assertIn("/202202/", movie["source_url"])
+        upcoming = cinema.parse_spot_taipei(
+            html.replace("9/4 - 熱映中", "2026/9/18"), date(2026, 9, 9)
+        )[0]
+        self.assertEqual(upcoming["release_date_tw"], "2026-09-18")
+        self.assertEqual(upcoming["status"], "soon")
+
+    def test_spot_taipei_rejects_empty_or_broken_cards(self):
+        for html in ("<html>Access denied</html>", '<td class="movie_title">電影</td>'):
+            with self.assertRaises(ValueError):
+                cinema.parse_spot_taipei(html)
+
     def test_review_tsv_row_preserves_matched_tmdb_fields(self):
         rows = []
         weekly.append_rerelease_tsv_rows(rows, {
@@ -343,6 +434,12 @@ class CinemaParserTests(unittest.TestCase):
 
 
 class RereleasePresenceTests(unittest.TestCase):
+    def test_optional_art_house_failures_do_not_block_absence_audit(self):
+        self.assertTrue(weekly.rerelease_absence_audit_complete({
+            "atmovies": True, "showtime": True, "ambassador": True,
+            "spot_taipei": False, "spot_huashan": False, "wonderful": False,
+        }, True))
+
     def test_vieshow_403_does_not_block_complete_absence_audit(self):
         health = {
             "atmovies": True,

@@ -1,5 +1,6 @@
 """私人院線重映稽核：解析影城片單並辨識重映候選。"""
 
+import json
 import re
 from datetime import date, timedelta
 from urllib.parse import parse_qs, urljoin, urlparse
@@ -9,6 +10,14 @@ from bs4 import BeautifulSoup
 
 
 SOURCE_URLS = {
+    "miramar_now": "https://www.miramarcinemas.tw/Movie/Index?type=now",
+    "miramar_soon": "https://www.miramarcinemas.tw/Movie/Index?type=coming",
+    "centuryasia_now": "https://www.centuryasia.com.tw/Movie/GetMovieRelease",
+    "centuryasia_soon": "https://www.centuryasia.com.tw/Movie/GetMovieComing",
+    "centuryasia_ximen": "https://ximen.centuryasia.com.tw/Movie_Info.aspx",
+    "centuryasia_beyond": "https://beyond.centuryasia.com.tw/Movie_Info.aspx",
+    "centuryasia_kaohsiung": "https://ksml.centuryasia.com.tw/Movie_Info.aspx",
+    "spot_taipei": "https://www.spot.org.tw/movies/201404/movies201404.html",
     "vieshow_now": "https://www.vscinemas.com.tw/film/",
     "vieshow_soon": "https://www.vscinemas.com.tw/film/coming.aspx",
     "showtime": "https://www.showtimes.com.tw/programs/",
@@ -143,6 +152,115 @@ def parse_showtime(html, today=None):
     return movies
 
 
+def _source_release_date(value):
+    """來源未提供完整有效日期時留空，保留片單存在訊號。"""
+    value = (value or "").strip()
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+        return ""
+    try:
+        return date.fromisoformat(value).isoformat()
+    except ValueError:
+        return ""
+
+
+def parse_miramar(html, status="now"):
+    soup = BeautifulSoup(html, "html.parser")
+    cards = soup.select("#movie_area > li")
+    if not cards:
+        raise ValueError("美麗華片單數量異常：0")
+    movies = []
+    for card in cards:
+        anchor = card.select_one("a.img[href]")
+        title = card.select_one(".title")
+        if not anchor or not title:
+            raise ValueError("美麗華電影卡片結構異常")
+        title_zh = " ".join(title.find_all(string=True, recursive=False)).strip()
+        english = title.select_one("span:not(.date)")
+        date_node = title.select_one(".date")
+        if not title_zh:
+            raise ValueError("美麗華電影卡片缺少片名")
+        movies.append({
+            "title_zh": title_zh,
+            "title_en": english.get_text(" ", strip=True) if english else "",
+            "release_date_tw": _source_release_date(date_node.get_text(strip=True) if date_node else ""),
+            "status": status,
+            "source": "miramar",
+            "source_url": urljoin(SOURCE_URLS["miramar_now"], anchor["href"]),
+        })
+    return movies
+
+
+def parse_centuryasia_branch(html, source):
+    """喜樂時代舊版分館：依官網區塊取得狀態，不以舊日期推定仍上映。"""
+    soup = BeautifulSoup(html, "html.parser")
+    movies = []
+    for status, selector in (("now", "#ContentPlaceHolder1_movie_poster"),
+                             ("soon", "#ContentPlaceHolder1_movie_new_poster")):
+        section = soup.select_one(selector)
+        if section is None:
+            raise ValueError(f"喜樂時代 {source} 缺少 {status} 片單區塊")
+        for card in section.select("li"):
+            anchor = card.select_one("a.mosaic-overlay[href]")
+            title = card.select_one("h4")
+            date_node = card.select_one("p")
+            if not anchor or not title or not title.get_text(strip=True):
+                raise ValueError(f"喜樂時代 {source} 電影卡片結構異常")
+            movies.append({
+                "title_zh": title.get_text(" ", strip=True),
+                "title_en": "",
+                "release_date_tw": _source_release_date(date_node.get_text(strip=True) if date_node else ""),
+                "status": status,
+                "source": source,
+                "source_url": urljoin(SOURCE_URLS[source], anchor["href"]),
+            })
+    if not movies:
+        raise ValueError(f"喜樂時代 {source} 片單數量異常：0")
+    return movies
+
+
+def parse_centuryasia(payload, status="now"):
+    """新版主站公開片單涵蓋電影介紹，不推定為單一分館的實際場次。"""
+    if not isinstance(payload, dict) or payload.get("status") is not True or not isinstance(payload.get("Data"), list):
+        raise ValueError("喜樂時代主站片單回應異常")
+    movies = []
+    for item in payload["Data"]:
+        if not isinstance(item, dict) or not isinstance(item.get("cname"), str) or not item["cname"].strip() or not re.fullmatch(r"\d+", str(item.get("programid", ""))):
+            raise ValueError("喜樂時代主站電影資料結構異常")
+        movies.append({
+            "title_zh": item["cname"].strip(),
+            "title_en": (item.get("ename") or "").strip(),
+            "release_date_tw": _source_release_date(item.get("ReleaseDate")),
+            "status": status,
+            "source": "centuryasia",
+            "source_url": f"https://www.centuryasia.com.tw/movie-info.html?obj={item['programid']}",
+        })
+    if not movies:
+        raise ValueError("喜樂時代主站片單數量異常：0")
+    return movies
+
+
+def fetch_additional_cinema_movies(user_agent, today):
+    """各來源完整解析後才納入；新增來源失敗不影響必要來源完整性。"""
+    readers = {
+        "spot_taipei": lambda: parse_spot_taipei(fetch_html(SOURCE_URLS["spot_taipei"], user_agent), today),
+        "miramar": lambda: [movie for status in ("now", "soon") for movie in
+                            parse_miramar(fetch_html(SOURCE_URLS[f"miramar_{status}"], user_agent), status)],
+        "centuryasia": lambda: [movie for status in ("now", "soon") for movie in
+                                parse_centuryasia(json.loads(fetch_html(SOURCE_URLS[f"centuryasia_{status}"], user_agent)), status)],
+    }
+    for source in ("centuryasia_ximen", "centuryasia_beyond", "centuryasia_kaohsiung"):
+        readers[source] = lambda source=source: parse_centuryasia_branch(fetch_html(SOURCE_URLS[source], user_agent), source)
+    movies, health, errors = [], {}, {}
+    for source, read in readers.items():
+        try:
+            movies.extend(read())
+            health[source] = True
+        except Exception as error:
+            health[source] = False
+            errors[source] = str(error)
+    return movies, health, errors
+
+
 def parse_spot_huashan(html, status="now", page_url=None):
     """解析光點華山現正放映或即將上映片單。"""
     page_url = page_url or SOURCE_URLS["spot_huashan_now"]
@@ -171,6 +289,38 @@ def parse_spot_huashan(html, status="now", page_url=None):
         })
     if len(movies) < 5:
         raise ValueError(f"光點華山片單數量異常：{len(movies)}")
+    return movies
+
+
+def parse_spot_taipei(html, today=None):
+    """解析光點台北目前片單；只有月日的標示不推測年份。"""
+    today = today or date.today()
+    soup = BeautifulSoup(html, "html.parser")
+    movies = []
+    for title in soup.select(".movie_title"):
+        card = next((parent for parent in title.parents
+                     if parent.name == "table" and parent.select_one("a.abgne-zoom-out[href]")), None)
+        if card is None or len(card.select(".movie_title")) != 1:
+            raise ValueError("光點台北電影卡片結構異常")
+        anchor = card.select_one("a.abgne-zoom-out[href]")
+        english = card.select_one(".movie_title_eng")
+        date_node = card.select_one(".movie_body_w3")
+        date_text = date_node.get_text(" ", strip=True) if date_node else ""
+        match = re.search(r"(20\d{2})/(\d{1,2})/(\d{1,2})", date_text)
+        release_date = date(*map(int, match.groups())) if match else None
+        # 官網詳細頁路徑可能沿用舊年份，不可當作本次上映年份。
+        movies.append({
+            "title_zh": title.get_text(" ", strip=True),
+            "title_en": english.get_text(" ", strip=True) if english else "",
+            "release_date_tw": release_date.isoformat() if release_date else "",
+            "status": ("soon" if release_date > today else "now") if release_date else (
+                "now" if "熱映中" in date_text else "soon"
+            ),
+            "source": "spot_taipei",
+            "source_url": urljoin(SOURCE_URLS["spot_taipei"], anchor["href"]),
+        })
+    if not movies:
+        raise ValueError("光點台北片單數量異常：0")
     return movies
 
 

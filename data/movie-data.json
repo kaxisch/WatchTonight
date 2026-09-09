@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T09:19:47.727676+08:00",
+  "generated_at": "2026-09-09T13:09:44.762945+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 63,
-    "soon_count": 78
+    "soon_count": 79
   },
   "movies": {
     "now": [
@@ -155,7 +155,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 4.2584,
+        "popularity": 3.926,
         "imdbId": "tt1483797",
         "countries": [
           "Japan"
@@ -425,7 +425,7 @@
         "origLang": "ja",
         "origTitle": "ワンピース the movie オマツリ男爵と秘密の島",
         "platforms": [],
-        "popularity": 7.986,
+        "popularity": 7.8803,
         "imdbId": "tt1018764",
         "countries": [
           "Japan"
@@ -587,8 +587,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 249,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -943,7 +943,7 @@
         "origLang": "ja",
         "origTitle": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
         "platforms": [],
-        "popularity": 34.4661,
+        "popularity": 29.4737,
         "imdbId": "tt14523706",
         "countries": [
           "Japan"
@@ -1901,7 +1901,7 @@
         "origLang": "fr",
         "origTitle": "Pour le plaisir",
         "platforms": [],
-        "popularity": 7.0799,
+        "popularity": 8.6303,
         "imdbId": "tt38607784",
         "countries": [
           "France"
@@ -2368,7 +2368,7 @@
         "origLang": "ja",
         "origTitle": "白鳥とコウモリ",
         "platforms": [],
-        "popularity": 1.9677,
+        "popularity": 2.0015,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -2585,7 +2585,7 @@
         "origLang": "ja",
         "origTitle": "THE ORIGIN OF ULTRAMAN",
         "platforms": [],
-        "popularity": 2.2538,
+        "popularity": 2.0556,
         "imdbId": "tt43564240",
         "countries": [
           "Japan"
@@ -2842,7 +2842,7 @@
         "origLang": "ja",
         "origTitle": "ONE PIECE FILM STRONG WORLD",
         "platforms": [],
-        "popularity": 7.6832,
+        "popularity": 6.3782,
         "imdbId": "tt1485763",
         "countries": [
           "Japan"
@@ -3111,7 +3111,7 @@
         "origLang": "ja",
         "origTitle": "GHOST IN THE SHELL / 攻殻機動隊",
         "platforms": [],
-        "popularity": 15.7714,
+        "popularity": 15.1215,
         "imdbId": "tt0113568",
         "countries": [
           "Japan",
@@ -3356,16 +3356,16 @@
         ],
         "crew": [
           {
-            "name": "Joachim Trier",
-            "job": "Director"
-          },
-          {
             "name": "Eskil Vogt",
             "job": "Screenplay"
           },
           {
             "name": "Joachim Trier",
             "job": "Screenplay"
+          },
+          {
+            "name": "Joachim Trier",
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -3379,7 +3379,7 @@
             "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
           }
         ],
-        "popularity": 3.4334,
+        "popularity": 3.314,
         "imdbId": "tt1736633",
         "countries": [
           "Norway"
@@ -3472,16 +3472,16 @@
           ],
           "crew": [
             {
-              "name": "Joachim Trier",
-              "job": "Director"
-            },
-            {
               "name": "Eskil Vogt",
               "job": "Screenplay"
             },
             {
               "name": "Joachim Trier",
               "job": "Screenplay"
+            },
+            {
+              "name": "Joachim Trier",
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -3609,7 +3609,7 @@
         "origLang": "en",
         "origTitle": "The Invite",
         "platforms": [],
-        "popularity": 41.8582,
+        "popularity": 37.4766,
         "imdbId": "tt14173636",
         "countries": [
           "United States of America"
@@ -3819,7 +3819,7 @@
         "origLang": "zh",
         "origTitle": "银河写手",
         "platforms": [],
-        "popularity": 1.198,
+        "popularity": 1.0187,
         "imdbId": "tt28350761",
         "countries": [
           "China"
@@ -4278,7 +4278,7 @@
         "origLang": "ja",
         "origTitle": "映画 おでかけ子ザメ とかいのおともだち",
         "platforms": [],
-        "popularity": 1.233,
+        "popularity": 1.1191,
         "imdbId": "tt36592995",
         "countries": [
           "Japan"
@@ -4485,7 +4485,7 @@
         "origLang": "ja",
         "origTitle": "最終楽章 響け！ユーフォニアム 前編",
         "platforms": [],
-        "popularity": 2.6495,
+        "popularity": 2.8535,
         "imdbId": "tt39123182",
         "countries": [
           "Japan"
@@ -5413,7 +5413,7 @@
         "origLang": "ko",
         "origTitle": "그녀가 돌아온 날",
         "platforms": [],
-        "popularity": 2.3021,
+        "popularity": 2.1128,
         "imdbId": "tt39368030",
         "countries": [
           "South Korea"
@@ -5622,7 +5622,7 @@
         "origLang": "ja",
         "origTitle": "炎上",
         "platforms": [],
-        "popularity": 2.9578,
+        "popularity": 2.3515,
         "imdbId": "tt39150067",
         "countries": [
           "Japan"
@@ -6053,7 +6053,7 @@
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
-            "votes": 10215,
+            "votes": 13521,
             "lastChanged": "2026-09-04T13:02:31.420954+08:00"
           },
           "rt": {
@@ -6408,7 +6408,7 @@
         "origLang": "zh",
         "origTitle": "粽邪4：坤蒂拉娜",
         "platforms": [],
-        "popularity": 20.8954,
+        "popularity": 18.9725,
         "imdbId": "tt38633224",
         "countries": [
           "Taiwan"
@@ -7184,12 +7184,12 @@
         ],
         "crew": [
           {
-            "name": "花田十輝",
-            "job": "Screenplay"
-          },
-          {
             "name": "石立太一",
             "job": "Director"
+          },
+          {
+            "name": "花田十輝",
+            "job": "Screenplay"
           }
         ],
         "budget": 0,
@@ -7198,7 +7198,7 @@
         "origLang": "ja",
         "origTitle": "劇場版 境界の彼方 -I'll Be Here- 未来篇",
         "platforms": [],
-        "popularity": 2.1268,
+        "popularity": 1.9348,
         "imdbId": "tt4539114",
         "countries": [
           "Japan"
@@ -7305,12 +7305,12 @@
           ],
           "crew": [
             {
-              "name": "花田十輝",
-              "job": "Screenplay"
-            },
-            {
               "name": "石立太一",
               "job": "Director"
+            },
+            {
+              "name": "花田十輝",
+              "job": "Screenplay"
             }
           ],
           "budget": 0,
@@ -7742,7 +7742,7 @@
         "origLang": "en",
         "origTitle": "Tony",
         "platforms": [],
-        "popularity": 14.7538,
+        "popularity": 12.4154,
         "imdbId": "tt33095251",
         "countries": [
           "United States of America",
@@ -7948,7 +7948,7 @@
         "origLang": "ja",
         "origTitle": "ミーツ・ザ・ワールド",
         "platforms": [],
-        "popularity": 1.8994,
+        "popularity": 1.7285,
         "imdbId": "tt38755605",
         "countries": [
           "Japan"
@@ -8394,7 +8394,7 @@
         "origLang": "ja",
         "origTitle": "映画ラストマン -FIRST LOVE-",
         "platforms": [],
-        "popularity": 2.7313,
+        "popularity": 2.3161,
         "imdbId": "tt38691555",
         "countries": [
           "Japan"
@@ -8624,7 +8624,7 @@
         "origLang": "ja",
         "origTitle": "映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
         "platforms": [],
-        "popularity": 2.0864,
+        "popularity": 1.8345,
         "imdbId": "tt36607192",
         "countries": [
           "Japan"
@@ -8900,7 +8900,7 @@
         "origLang": "en",
         "origTitle": "Mutiny",
         "platforms": [],
-        "popularity": 408.1873,
+        "popularity": 394.5615,
         "imdbId": "tt32338669",
         "countries": [
           "United Kingdom",
@@ -9054,14 +9054,14 @@
         ],
         "duration": 106,
         "synopsis": "在自己的童年老家撫養女兒的年輕母親潔瑪，意外發現自己能夠進入「陰深處」，這個位於《陰兒房》宇宙核心、充滿迷失靈魂的煉獄空間。當邪惡力量開始接近她時，潔瑪逐漸察覺自己擁有一項足以改變一切的能力，她不僅能進入陰深處，甚至能將其中的存在帶回現實世界。一旦惡靈察覺這股力量，人類世界也將淪為牠們的遊樂場。",
-        "imdb": "6.3",
+        "imdb": "6.2",
         "rt": "58%",
         "mc": "47",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
-            "votes": 1433,
-            "lastChanged": "2026-08-22T12:10:10.070395+08:00"
+            "votes": 13228,
+            "lastChanged": "2026-09-09T13:09:44.762945+08:00"
           },
           "rt": {
             "source": "mdblist",
@@ -9991,7 +9991,7 @@
         "origLang": "en",
         "origTitle": "PAW Patrol: The Dino Movie",
         "platforms": [],
-        "popularity": 31.8863,
+        "popularity": 24.6682,
         "imdbId": "tt29356163",
         "countries": [
           "Canada",
@@ -10250,7 +10250,7 @@
         "origLang": "ja",
         "origTitle": "禍禍女",
         "platforms": [],
-        "popularity": 2.6534,
+        "popularity": 2.749,
         "imdbId": "tt38263629",
         "countries": [
           "Japan"
@@ -10516,7 +10516,7 @@
         "origLang": "en",
         "origTitle": "Leviticus",
         "platforms": [],
-        "popularity": 43.2528,
+        "popularity": 38.4439,
         "imdbId": "tt39143902",
         "countries": [
           "Australia",
@@ -11652,7 +11652,7 @@
             "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
           }
         ],
-        "popularity": 3.1265,
+        "popularity": 3.1408,
         "imdbId": "tt6752992",
         "countries": [
           "France",
@@ -12076,7 +12076,7 @@
         "duration": 109,
         "synopsis": "普男貝爾渴望談戀愛，他暗戀同事妮琪，但進度只停在友達以上戀人未滿。心有不甘的他，意外發現能實現願望的神祕小物，衝動許願，沒想到竟然成真！妮琪愛他愛到無法擋，把貝爾當作世界的中心，你就是我的唯一。當愛意與佔有慾成正比，兩人世界扭曲變形，連貝爾都不禁開始害怕，但已經許下的願望，想退回去談何容易？",
         "imdb": "7.9",
-        "rt": "94%",
+        "rt": "93%",
         "mc": "77",
         "ratingMeta": {
           "imdb": {
@@ -12086,8 +12086,8 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 324,
-            "lastChanged": "2026-09-06T13:03:53.845108+08:00"
+            "votes": 327,
+            "lastChanged": "2026-09-09T13:09:44.762945+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -12194,7 +12194,7 @@
         "origLang": "en",
         "origTitle": "Obsession",
         "platforms": [],
-        "popularity": 205.4049,
+        "popularity": 194.6239,
         "imdbId": "tt37287335",
         "countries": [
           "United States of America",
@@ -12541,7 +12541,7 @@
         "origLang": "ja",
         "origTitle": "クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
         "platforms": [],
-        "popularity": 24.6072,
+        "popularity": 22.7645,
         "imdbId": "tt41293342",
         "countries": [
           "Japan"
@@ -13535,7 +13535,7 @@
         "origLang": "en",
         "origTitle": "The Odyssey",
         "platforms": [],
-        "popularity": 464.1594,
+        "popularity": 437.8516,
         "imdbId": "tt33764258",
         "countries": [
           "United Kingdom",
@@ -13893,7 +13893,7 @@
         "origLang": "ja",
         "origTitle": "映画ドラえもん 新・のび太の海底鬼岩城",
         "platforms": [],
-        "popularity": 16.4153,
+        "popularity": 15.8318,
         "imdbId": "tt38201958",
         "countries": [
           "Japan"
@@ -14001,14 +14001,14 @@
         ],
         "duration": 90,
         "synopsis": "在這個喧鬧又無厘頭的真實故事中，小小兵征服好萊塢成為電影明星後失去一切，放出怪獸而造成一片混亂的他們必須團結拯救地球。",
-        "imdb": "6.4",
+        "imdb": "6.3",
         "rt": "89%",
         "mc": "70",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
-            "votes": 20137,
-            "lastChanged": "2026-08-13T16:03:37.943073+08:00"
+            "votes": 31007,
+            "lastChanged": "2026-09-09T13:09:44.762945+08:00"
           },
           "rt": {
             "source": "mdblist",
@@ -16524,7 +16524,7 @@
         "origLang": "ja",
         "origTitle": "台風クラブ",
         "platforms": [],
-        "popularity": 2.4979,
+        "popularity": 2.3347,
         "imdbId": "tt0088222",
         "countries": [
           "Japan"
@@ -17037,7 +17037,7 @@
         "origLang": "ko",
         "origTitle": "경주기행",
         "platforms": [],
-        "popularity": 4.0281,
+        "popularity": 3.5722,
         "imdbId": "tt38814489",
         "countries": [
           "South Korea"
@@ -17777,7 +17777,7 @@
         "origLang": "en",
         "origTitle": "Palestine 36",
         "platforms": [],
-        "popularity": 4.4652,
+        "popularity": 4.7218,
         "imdbId": "tt29271622",
         "countries": [
           "Palestinian Territory",
@@ -18173,7 +18173,7 @@
         "origLang": "ja",
         "origTitle": "ルックバック",
         "platforms": [],
-        "popularity": 4.299,
+        "popularity": 5.0182,
         "imdbId": "tt39094466",
         "countries": [
           "Japan"
@@ -18367,7 +18367,7 @@
         "origLang": "th",
         "origTitle": "ผีเข้า",
         "platforms": [],
-        "popularity": 1.1372,
+        "popularity": 1.0569,
         "imdbId": "tt42834196",
         "countries": [
           "Thailand"
@@ -19583,7 +19583,7 @@
         "origLang": "es",
         "origTitle": "Pacífico",
         "platforms": [],
-        "popularity": 4.2256,
+        "popularity": 4.2411,
         "imdbId": "tt4634974",
         "countries": [
           "Argentina",
@@ -20090,7 +20090,7 @@
         "origLang": "en",
         "origTitle": "Plainclothes",
         "platforms": [],
-        "popularity": 4.1086,
+        "popularity": 3.7326,
         "imdbId": "tt27550504",
         "countries": [
           "United Kingdom",
@@ -20332,7 +20332,7 @@
         "origLang": "ja",
         "origTitle": "時には懺悔を",
         "platforms": [],
-        "popularity": 2.855,
+        "popularity": 2.7069,
         "imdbId": "tt36236732",
         "countries": [
           "Japan"
@@ -20826,7 +20826,7 @@
         "origLang": "ko",
         "origTitle": "와인드업: 더 무비",
         "platforms": [],
-        "popularity": 1.5989,
+        "popularity": 1.4818,
         "imdbId": "tt43672139",
         "countries": [
           "South Korea"
@@ -21242,7 +21242,7 @@
         "origLang": "ko",
         "origTitle": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
         "platforms": [],
-        "popularity": 1.3148,
+        "popularity": 1.5706,
         "imdbId": "tt44568569",
         "countries": [],
         "detail": {
@@ -21446,7 +21446,7 @@
         "origLang": "zh",
         "origTitle": "再見阿郎",
         "platforms": [],
-        "popularity": 0.8908,
+        "popularity": 0.7542,
         "imdbId": "tt1111842",
         "countries": [
           "Taiwan"
@@ -21812,7 +21812,7 @@
         "origLang": "zh",
         "origTitle": "寂寞的十七歲",
         "platforms": [],
-        "popularity": 1.0281,
+        "popularity": 1.0358,
         "imdbId": "tt1286561",
         "countries": [
           "Taiwan"
@@ -21999,7 +21999,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Les Liaisons Dangereuses",
         "platforms": [],
-        "popularity": 2.0456,
+        "popularity": 1.9541,
         "imdbId": "tt40258746",
         "countries": [
           "United Kingdom"
@@ -22896,7 +22896,7 @@
         "origLang": "fr",
         "origTitle": "À bicyclette !",
         "platforms": [],
-        "popularity": 2.686,
+        "popularity": 2.5267,
         "imdbId": "tt33298226",
         "countries": [
           "France"
@@ -23381,7 +23381,7 @@
         "origLang": "en",
         "origTitle": "Runner",
         "platforms": [],
-        "popularity": 29.3373,
+        "popularity": 32.0359,
         "imdbId": "tt31349844",
         "countries": [
           "United States of America",
@@ -23717,7 +23717,7 @@
         "origLang": "ja",
         "origTitle": "黒牢城",
         "platforms": [],
-        "popularity": 4.3158,
+        "popularity": 3.5859,
         "imdbId": "tt39602215",
         "countries": [
           "Japan"
@@ -23929,7 +23929,7 @@
         "origLang": "ja",
         "origTitle": "5秒で完全犯罪を生成する方法",
         "platforms": [],
-        "popularity": 1.3939,
+        "popularity": 1.5613,
         "imdbId": "tt42864901",
         "countries": [
           "Japan"
@@ -24507,7 +24507,7 @@
         "origLang": "ko",
         "origTitle": "부활남: 더 레드",
         "platforms": [],
-        "popularity": 3.1437,
+        "popularity": 3.0104,
         "imdbId": "tt29452783",
         "countries": [
           "South Korea"
@@ -24909,7 +24909,7 @@
         "origLang": "en",
         "origTitle": "Verity",
         "platforms": [],
-        "popularity": 9.1494,
+        "popularity": 8.997,
         "imdbId": "tt32261958",
         "countries": [
           "United States of America"
@@ -25100,7 +25100,7 @@
         "origLang": "da",
         "origTitle": "Mr. Nobody mod Putin",
         "platforms": [],
-        "popularity": 5.9742,
+        "popularity": 5.0664,
         "imdbId": "tt34965515",
         "countries": [
           "Denmark",
@@ -25575,7 +25575,7 @@
         "origLang": "en",
         "origTitle": "The Social Reckoning",
         "platforms": [],
-        "popularity": 7.9203,
+        "popularity": 8.0596,
         "imdbId": "tt37510326",
         "countries": [
           "United States of America"
@@ -25757,7 +25757,7 @@
         "origLang": "ja",
         "origTitle": "映画 すみっコぐらし 空の王国とふたりのコ",
         "platforms": [],
-        "popularity": 1.2802,
+        "popularity": 1.1914,
         "imdbId": "tt38859765",
         "countries": [
           "Japan"
@@ -26275,7 +26275,7 @@
         "origLang": "en",
         "origTitle": "Street Fighter",
         "platforms": [],
-        "popularity": 14.261,
+        "popularity": 13.5998,
         "imdbId": "tt27419420",
         "countries": [
           "Japan",
@@ -26588,13 +26588,13 @@
         "duration": 95,
         "synopsis": "",
         "imdb": "",
-        "rt": "84%",
+        "rt": "80%",
         "mc": "",
         "ratingMeta": {
           "rt": {
             "source": "mdblist",
-            "votes": 19,
-            "lastChanged": "2026-09-04T13:02:31.420954+08:00"
+            "votes": 25,
+            "lastChanged": "2026-09-09T13:09:44.762945+08:00"
           }
         },
         "trailerKey": null,
@@ -26696,7 +26696,7 @@
         "origLang": "en",
         "origTitle": "Virginia Woolf's Night & Day",
         "platforms": [],
-        "popularity": 4.3335,
+        "popularity": 3.9173,
         "imdbId": "tt27802226",
         "countries": [
           "United Kingdom",
@@ -26921,7 +26921,7 @@
         "origLang": "zh",
         "origTitle": "沙央",
         "platforms": [],
-        "popularity": 0.7858,
+        "popularity": 0.7037,
         "imdbId": null,
         "countries": [
           "Taiwan",
@@ -27077,7 +27077,7 @@
         "origLang": "ja",
         "origTitle": "mentor",
         "platforms": [],
-        "popularity": 1.5354,
+        "popularity": 1.4734,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -27334,7 +27334,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Mrs. Warren's Profession",
         "platforms": [],
-        "popularity": 0.9496,
+        "popularity": 0.8876,
         "imdbId": "tt37511195",
         "countries": [
           "United Kingdom"
@@ -27940,7 +27940,7 @@
         "origLang": "zh",
         "origTitle": "歡迎來到朵莉之家",
         "platforms": [],
-        "popularity": 1.3292,
+        "popularity": 1.1085,
         "imdbId": "tt37038996",
         "countries": [
           "Taiwan"
@@ -28204,7 +28204,7 @@
           },
           {
             "name": "山崎貴",
-            "job": "Screenplay"
+            "job": "Writer"
           }
         ],
         "budget": 0,
@@ -28213,7 +28213,7 @@
         "origLang": "ja",
         "origTitle": "ゴジラ-0.0",
         "platforms": [],
-        "popularity": 5.6495,
+        "popularity": 9.373,
         "imdbId": "tt34384661",
         "countries": [
           "Japan"
@@ -28303,7 +28303,7 @@
             },
             {
               "name": "山崎貴",
-              "job": "Screenplay"
+              "job": "Writer"
             }
           ],
           "budget": 0,
@@ -28445,7 +28445,7 @@
         "origLang": "en",
         "origTitle": "How to Rob a Bank",
         "platforms": [],
-        "popularity": 6.4415,
+        "popularity": 5.5785,
         "imdbId": "tt35866986",
         "countries": [
           "United States of America"
@@ -28570,6 +28570,167 @@
         "sourceBucket": "tmdb"
       },
       {
+        "id": 1494715,
+        "titleZh": "高校人形金字塔",
+        "titleEn": "NEW GROUP",
+        "releaseDate": "2026-11-13",
+        "releaseYear": "2026",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-11-13",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/sdbmQwTKMfBacUMwh5JcqEo0YqJ.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/t8twfnytLPitdJzNVU1yjP4gjD7.jpg",
+        "voteAverage": "",
+        "genre": [
+          "科幻",
+          "驚悚",
+          "恐怖"
+        ],
+        "duration": 82,
+        "synopsis": "看似平靜的高校突然發生奇異現象，有學生突然四肢著地、靜止不動，然後愈來愈多人著魔般加入，在操場疊起「人形金字塔」。平凡少女與暗戀的轉校生目睹集體瘋魔，才發現自己是少數清醒的人。當校方以紀律之名要求全體照辦，失常成為正常，盲從成為感染，原本習慣靜默旁觀、格格不入的他們，膽敢抵抗這股漩渦嗎？",
+        "imdb": "",
+        "rt": "",
+        "mc": "",
+        "ratingMeta": {},
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "山田杏奈",
+            "char": "Ai",
+            "photo": "https://image.tmdb.org/t/p/w500/2cCWdsCpZbG67HJ96QdI9VVvh0G.jpg"
+          },
+          {
+            "name": "青木柚",
+            "char": "Yuu",
+            "photo": "https://image.tmdb.org/t/p/w500/xZdmoDei5fxBruGtpy9I01XV4aF.jpg"
+          },
+          {
+            "name": "皮埃爾·瀧",
+            "char": "Principal",
+            "photo": "https://image.tmdb.org/t/p/w500/nIgFcU0smYH7FdzUt96d685uU1h.jpg"
+          },
+          {
+            "name": "滝裕二郎",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/2oGnuKBcSN5goG0CYxMotSZ9dv2.jpg"
+          },
+          {
+            "name": "野崎享類",
+            "char": "Teacher",
+            "photo": "https://image.tmdb.org/t/p/w500/qg915JUNfPrhzlzPagryM6WgWLG.jpg"
+          },
+          {
+            "name": "足立智充",
+            "char": "Ai's Father",
+            "photo": "https://image.tmdb.org/t/p/w500/oHl0D6F1FBH0Y3IvZT7quWhoGmk.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "name": "下津優太",
+            "job": "Director"
+          },
+          {
+            "name": "下津優太",
+            "job": "Writer"
+          },
+          {
+            "name": "佐原百子",
+            "job": "Screenplay"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Released",
+        "origLang": "ja",
+        "origTitle": "NEW GROUP",
+        "platforms": [],
+        "popularity": 1.4708,
+        "imdbId": "tt37694048",
+        "countries": [
+          "Japan"
+        ],
+        "detail": {
+          "duration": 82,
+          "genres": [
+            "科幻",
+            "驚悚",
+            "恐怖"
+          ],
+          "synopsis": "看似平靜的高校突然發生奇異現象，有學生突然四肢著地、靜止不動，然後愈來愈多人著魔般加入，在操場疊起「人形金字塔」。平凡少女與暗戀的轉校生目睹集體瘋魔，才發現自己是少數清醒的人。當校方以紀律之名要求全體照辦，失常成為正常，盲從成為感染，原本習慣靜默旁觀、格格不入的他們，膽敢抵抗這股漩渦嗎？",
+          "poster": "https://image.tmdb.org/t/p/w500/sdbmQwTKMfBacUMwh5JcqEo0YqJ.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/t8twfnytLPitdJzNVU1yjP4gjD7.jpg",
+          "voteAverage": "",
+          "trailerKey": null,
+          "imdbId": "tt37694048",
+          "countries": [
+            "Japan"
+          ],
+          "cast": [
+            {
+              "name": "山田杏奈",
+              "char": "Ai",
+              "photo": "https://image.tmdb.org/t/p/w500/2cCWdsCpZbG67HJ96QdI9VVvh0G.jpg"
+            },
+            {
+              "name": "青木柚",
+              "char": "Yuu",
+              "photo": "https://image.tmdb.org/t/p/w500/xZdmoDei5fxBruGtpy9I01XV4aF.jpg"
+            },
+            {
+              "name": "皮埃爾·瀧",
+              "char": "Principal",
+              "photo": "https://image.tmdb.org/t/p/w500/nIgFcU0smYH7FdzUt96d685uU1h.jpg"
+            },
+            {
+              "name": "滝裕二郎",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/2oGnuKBcSN5goG0CYxMotSZ9dv2.jpg"
+            },
+            {
+              "name": "野崎享類",
+              "char": "Teacher",
+              "photo": "https://image.tmdb.org/t/p/w500/qg915JUNfPrhzlzPagryM6WgWLG.jpg"
+            },
+            {
+              "name": "足立智充",
+              "char": "Ai's Father",
+              "photo": "https://image.tmdb.org/t/p/w500/oHl0D6F1FBH0Y3IvZT7quWhoGmk.jpg"
+            }
+          ],
+          "crew": [
+            {
+              "name": "下津優太",
+              "job": "Director"
+            },
+            {
+              "name": "下津優太",
+              "job": "Writer"
+            },
+            {
+              "name": "佐原百子",
+              "job": "Screenplay"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Released",
+          "origLang": "ja",
+          "origTitle": "NEW GROUP",
+          "platforms": []
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/1494715?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
         "id": 1383091,
         "titleZh": "有用的人",
         "titleEn": "有用的人",
@@ -28649,7 +28810,7 @@
         "origLang": "zh",
         "origTitle": "有用的人",
         "platforms": [],
-        "popularity": 1.11,
+        "popularity": 1.1866,
         "imdbId": "tt44934439",
         "countries": [
           "Taiwan"
@@ -29852,7 +30013,7 @@
           {
             "name": "羅伯·派汀森",
             "char": "Scytale",
-            "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
           },
           {
             "name": "哈維爾·巴登",
@@ -29900,7 +30061,7 @@
         "origLang": "en",
         "origTitle": "Dune: Part Three",
         "platforms": [],
-        "popularity": 15.0648,
+        "popularity": 16.1358,
         "imdbId": "tt31378509",
         "countries": [
           "United States of America"
@@ -29964,7 +30125,7 @@
             {
               "name": "羅伯·派汀森",
               "char": "Scytale",
-              "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
             },
             {
               "name": "哈維爾·巴登",
@@ -30150,7 +30311,7 @@
         "origLang": "en",
         "origTitle": "Avengers: Doomsday",
         "platforms": [],
-        "popularity": 46.2898,
+        "popularity": 43.5624,
         "imdbId": "tt21357150",
         "countries": [
           "United States of America"
@@ -30392,7 +30553,7 @@
         "origLang": "en",
         "origTitle": "Ice Age: Boiling Point",
         "platforms": [],
-        "popularity": 12.6524,
+        "popularity": 10.3529,
         "imdbId": "tt34512981",
         "countries": [
           "United States of America"

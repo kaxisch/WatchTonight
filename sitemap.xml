@@ -805,6 +805,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://movienotice.pages.dev/movies/1494715-new-group/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://movienotice.pages.dev/movies/1383091-movie/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>

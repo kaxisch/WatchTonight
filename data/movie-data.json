@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T13:12:26.328574+08:00",
+  "generated_at": "2026-09-10T14:36:20.027834+08:00",
   "source": "api.themoviedb.org",
   "summary": {
-    "now_count": 64,
+    "now_count": 63,
     "soon_count": 82
   },
   "movies": {
@@ -586,7 +586,7 @@
         "origLang": "ja",
         "origTitle": "ワンピース the movie オマツリ男爵と秘密の島",
         "platforms": [],
-        "popularity": 7.8803,
+        "popularity": 7.8624,
         "imdbId": "tt1018764",
         "countries": [
           "Japan"
@@ -748,8 +748,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 249,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -1104,7 +1104,7 @@
         "origLang": "ja",
         "origTitle": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
         "platforms": [],
-        "popularity": 29.4737,
+        "popularity": 31.4339,
         "imdbId": "tt14523706",
         "countries": [
           "Japan"
@@ -1225,7 +1225,7 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
-        "rt": "79%",
+        "rt": "72%",
         "mc": "67",
         "ratingMeta": {
           "imdb": {
@@ -1234,9 +1234,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "mdblist",
-            "votes": 90,
-            "lastChanged": "2026-09-10T13:12:26.328574+08:00"
+            "source": "omdb",
+            "votes": 0,
+            "lastChanged": "2026-09-10T14:36:20.027834+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -1485,7 +1485,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-        "voteAverage": "6.8",
+        "voteAverage": "6.7",
         "genre": [
           "驚悚"
         ],
@@ -1614,7 +1614,7 @@
         "origLang": "en",
         "origTitle": "Fall 2: Deadpoint",
         "platforms": [],
-        "popularity": 91.8535,
+        "popularity": 84.0359,
         "imdbId": "tt31192372",
         "countries": [
           "United Kingdom",
@@ -1628,7 +1628,7 @@
           "synopsis": "妹妹杭特去世後，賈克斯悲痛欲絕，為了療傷，她邀請大膽的好友露絲一起挑戰泰國關山惡名昭彰的棧板步道。然而，突如其來的山崩讓她們困在距離地表3000英尺的高空，腳下只剩幾片殘存的木板。為了活下去，賈克斯必須面對內心最深的恐懼……",
           "poster": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-          "voteAverage": "6.8",
+          "voteAverage": "6.7",
           "trailerKey": "9spjI5Y0jPg",
           "imdbId": "tt31192372",
           "countries": [
@@ -3003,7 +3003,7 @@
         "origLang": "ja",
         "origTitle": "ONE PIECE FILM STRONG WORLD",
         "platforms": [],
-        "popularity": 6.3782,
+        "popularity": 5.6471,
         "imdbId": "tt1485763",
         "countries": [
           "Japan"
@@ -3272,7 +3272,7 @@
         "origLang": "ja",
         "origTitle": "GHOST IN THE SHELL / 攻殻機動隊",
         "platforms": [],
-        "popularity": 15.1215,
+        "popularity": 14.1342,
         "imdbId": "tt0113568",
         "countries": [
           "Japan",
@@ -4903,7 +4903,7 @@
         "origLang": "zh",
         "origTitle": "大风杀",
         "platforms": [],
-        "popularity": 1.6781,
+        "popularity": 1.8029,
         "imdbId": "tt36375652",
         "countries": [
           "China"
@@ -5364,7 +5364,7 @@
         "origLang": "en",
         "origTitle": "Just Play Dead",
         "platforms": [],
-        "popularity": 64.0573,
+        "popularity": 55.5313,
         "imdbId": "tt36948232",
         "countries": [
           "United Kingdom"
@@ -5783,7 +5783,7 @@
         "origLang": "ja",
         "origTitle": "炎上",
         "platforms": [],
-        "popularity": 2.3515,
+        "popularity": 2.6641,
         "imdbId": "tt39150067",
         "countries": [
           "Japan"
@@ -10411,7 +10411,7 @@
         "origLang": "ja",
         "origTitle": "禍禍女",
         "platforms": [],
-        "popularity": 2.749,
+        "popularity": 2.7177,
         "imdbId": "tt38263629",
         "countries": [
           "Japan"
@@ -13427,7 +13427,7 @@
         "origLang": "ja",
         "origTitle": "君の名は。",
         "platforms": [],
-        "popularity": 26.2808,
+        "popularity": 25.2538,
         "imdbId": "tt5311514",
         "countries": [
           "Japan"
@@ -13819,153 +13819,6 @@
           "platforms": []
         },
         "tmdbUrl": "https://www.themoviedb.org/movie/1368337?language=zh-TW",
-        "atmoviesId": "",
-        "atmoviesUrl": "",
-        "sourceBucket": "tmdb"
-      },
-      {
-        "id": 316880,
-        "titleZh": "魯冰花",
-        "titleEn": "魯冰花",
-        "releaseDate": "2026-07-08",
-        "releaseYear": "1989",
-        "isRerelease": true,
-        "twTheatricalReleases": [
-          {
-            "date": "2026-07-08",
-            "language": ""
-          }
-        ],
-        "twReleaseDateVerified": true,
-        "poster": "https://image.tmdb.org/t/p/w500/wzdxGWOwjo9RkOQ118f8FzBiUcX.jpg",
-        "posterIsBackdrop": false,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/b5DHrc92QvfECJPnIPOeakKJbS1.jpg",
-        "voteAverage": "8.3",
-        "genre": [
-          "劇情",
-          "家庭"
-        ],
-        "duration": 100,
-        "synopsis": "描述魯冰花盛開的時候，郭雲天從大城市調到偏鄉小學擔任美術教師，發現學童阿明擁有極高繪畫天份，卻因家境貧窮遭勢利教師、校長抵制，無法參與比賽。",
-        "imdb": "8.3",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {
-          "imdb": {
-            "source": "omdb",
-            "votes": 428,
-            "lastChanged": "2026-09-09T09:19:47.727676+08:00"
-          }
-        },
-        "trailerKey": null,
-        "cast": [
-          {
-            "name": "黃坤玄",
-            "char": "Ah-Ming",
-            "photo": "https://image.tmdb.org/t/p/w500/2N1zEtU8PAhTFjONa2aG0AEtWjn.jpg"
-          },
-          {
-            "name": "李淑楨",
-            "char": "Cha-Mey",
-            "photo": "https://image.tmdb.org/t/p/w500/4WmJEbxU12tQjpmZtR3XMu5T4H7.jpg"
-          },
-          {
-            "name": "陳松勇",
-            "char": "The mayor",
-            "photo": "https://image.tmdb.org/t/p/w500/b6VqPvebGjTViMqPqgM5myaQtNh.jpg"
-          },
-          {
-            "name": "Han Yu",
-            "char": "Art teacher (Mr. Kuo)",
-            "photo": "https://image.tmdb.org/t/p/w500/eUwZdTPuJM6eaqqDS46JEeq57ts.jpg"
-          },
-          {
-            "name": "林義雄",
-            "char": "Father (Ku, Shi-sung)",
-            "photo": "https://image.tmdb.org/t/p/w500/w2AigKllqr4x8HdQGJX60Zg8vzR.jpg"
-          }
-        ],
-        "crew": [
-          {
-            "name": "吳念真",
-            "job": "Writer"
-          },
-          {
-            "name": "Yang Li-kuo",
-            "job": "Director"
-          }
-        ],
-        "budget": 0,
-        "revenue": 0,
-        "status": "Released",
-        "origLang": "zh",
-        "origTitle": "魯冰花",
-        "platforms": [],
-        "popularity": 1.6828,
-        "imdbId": "tt0097791",
-        "countries": [
-          "Taiwan"
-        ],
-        "detail": {
-          "duration": 100,
-          "genres": [
-            "劇情",
-            "家庭"
-          ],
-          "synopsis": "描述魯冰花盛開的時候，郭雲天從大城市調到偏鄉小學擔任美術教師，發現學童阿明擁有極高繪畫天份，卻因家境貧窮遭勢利教師、校長抵制，無法參與比賽。",
-          "poster": "https://image.tmdb.org/t/p/w500/wzdxGWOwjo9RkOQ118f8FzBiUcX.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/w1280/b5DHrc92QvfECJPnIPOeakKJbS1.jpg",
-          "voteAverage": "8.3",
-          "trailerKey": null,
-          "imdbId": "tt0097791",
-          "countries": [
-            "Taiwan"
-          ],
-          "cast": [
-            {
-              "name": "黃坤玄",
-              "char": "Ah-Ming",
-              "photo": "https://image.tmdb.org/t/p/w500/2N1zEtU8PAhTFjONa2aG0AEtWjn.jpg"
-            },
-            {
-              "name": "李淑楨",
-              "char": "Cha-Mey",
-              "photo": "https://image.tmdb.org/t/p/w500/4WmJEbxU12tQjpmZtR3XMu5T4H7.jpg"
-            },
-            {
-              "name": "陳松勇",
-              "char": "The mayor",
-              "photo": "https://image.tmdb.org/t/p/w500/b6VqPvebGjTViMqPqgM5myaQtNh.jpg"
-            },
-            {
-              "name": "Han Yu",
-              "char": "Art teacher (Mr. Kuo)",
-              "photo": "https://image.tmdb.org/t/p/w500/eUwZdTPuJM6eaqqDS46JEeq57ts.jpg"
-            },
-            {
-              "name": "林義雄",
-              "char": "Father (Ku, Shi-sung)",
-              "photo": "https://image.tmdb.org/t/p/w500/w2AigKllqr4x8HdQGJX60Zg8vzR.jpg"
-            }
-          ],
-          "crew": [
-            {
-              "name": "吳念真",
-              "job": "Writer"
-            },
-            {
-              "name": "Yang Li-kuo",
-              "job": "Director"
-            }
-          ],
-          "budget": 0,
-          "revenue": 0,
-          "status": "Released",
-          "origLang": "zh",
-          "origTitle": "魯冰花",
-          "platforms": []
-        },
-        "tmdbUrl": "https://www.themoviedb.org/movie/316880?language=zh-TW",
         "atmoviesId": "",
         "atmoviesUrl": "",
         "sourceBucket": "tmdb"
@@ -14841,7 +14694,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 163.306,
+        "popularity": 159.2469,
         "imdbId": "tt29355505",
         "countries": [
           "United States of America"
@@ -16491,7 +16344,7 @@
         "origLang": "ja",
         "origTitle": "ONE PIECE FILM Z",
         "platforms": [],
-        "popularity": 6.2728,
+        "popularity": 6.0871,
         "imdbId": "tt2375379",
         "countries": [
           "Japan"
@@ -20700,7 +20553,7 @@
         "origLang": "ja",
         "origTitle": "死ねばいいのに",
         "platforms": [],
-        "popularity": 1.5415,
+        "popularity": 1.4397,
         "imdbId": "tt42477970",
         "countries": [
           "Japan"
@@ -20831,7 +20684,7 @@
         "origLang": "ja",
         "origTitle": "ラブ≠コメディ",
         "platforms": [],
-        "popularity": 0.9407,
+        "popularity": 0.8851,
         "imdbId": "tt43653895",
         "countries": [
           "Japan"
@@ -21526,7 +21379,7 @@
         "origLang": "zh",
         "origTitle": "寂寞的十七歲",
         "platforms": [],
-        "popularity": 1.0358,
+        "popularity": 1.0825,
         "imdbId": "tt1286561",
         "countries": [
           "Taiwan"
@@ -21713,7 +21566,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Les Liaisons Dangereuses",
         "platforms": [],
-        "popularity": 1.9541,
+        "popularity": 1.5765,
         "imdbId": "tt40258746",
         "countries": [
           "United Kingdom"
@@ -22231,11 +22084,11 @@
         ],
         "crew": [
           {
-            "name": "Stephen McFeely",
+            "name": "Christopher Markus",
             "job": "Screenplay"
           },
           {
-            "name": "Christopher Markus",
+            "name": "Stephen McFeely",
             "job": "Screenplay"
           },
           {
@@ -22254,7 +22107,7 @@
             "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
           }
         ],
-        "popularity": 58.0672,
+        "popularity": 57.0889,
         "imdbId": "tt4154796",
         "countries": [
           "United States of America"
@@ -22359,11 +22212,11 @@
           ],
           "crew": [
             {
-              "name": "Stephen McFeely",
+              "name": "Christopher Markus",
               "job": "Screenplay"
             },
             {
-              "name": "Christopher Markus",
+              "name": "Stephen McFeely",
               "job": "Screenplay"
             },
             {
@@ -22620,7 +22473,7 @@
         "origLang": "fr",
         "origTitle": "À bicyclette !",
         "platforms": [],
-        "popularity": 2.5267,
+        "popularity": 2.5417,
         "imdbId": "tt33298226",
         "countries": [
           "France"
@@ -22862,7 +22715,7 @@
         "origLang": "en",
         "origTitle": "Primetime",
         "platforms": [],
-        "popularity": 13.8941,
+        "popularity": 15.2859,
         "imdbId": "tt34206385",
         "countries": [
           "United States of America"
@@ -23562,7 +23415,7 @@
         "origLang": "ja",
         "origTitle": "黒牢城",
         "platforms": [],
-        "popularity": 3.5859,
+        "popularity": 3.7701,
         "imdbId": "tt39602215",
         "countries": [
           "Japan"
@@ -23944,7 +23797,7 @@
           {
             "name": "Kevin McCann",
             "char": "Prince Mermahn (voice)",
-            "photo": "https://image.tmdb.org/t/p/w500/2Ea30PSbNoNkaGBMQHsjW4EfQ1d.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/tY9R5lQyA0vI7Bz6COiyyzOtkqJ.jpg"
           },
           {
             "name": "Kristin Villanueva",
@@ -23977,7 +23830,7 @@
         "origLang": "en",
         "origTitle": "Forgotten Island",
         "platforms": [],
-        "popularity": 17.2757,
+        "popularity": 18.6873,
         "imdbId": "tt36583977",
         "countries": [
           "United States of America"
@@ -24054,7 +23907,7 @@
             {
               "name": "Kevin McCann",
               "char": "Prince Mermahn (voice)",
-              "photo": "https://image.tmdb.org/t/p/w500/2Ea30PSbNoNkaGBMQHsjW4EfQ1d.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/tY9R5lQyA0vI7Bz6COiyyzOtkqJ.jpg"
             },
             {
               "name": "Kristin Villanueva",
@@ -24550,7 +24403,7 @@
         "origLang": "en",
         "origTitle": "Digger",
         "platforms": [],
-        "popularity": 12.0486,
+        "popularity": 16.9698,
         "imdbId": "tt31450459",
         "countries": [
           "United States of America"
@@ -26029,7 +25882,7 @@
         "origLang": "en",
         "origTitle": "Other Mommy",
         "platforms": [],
-        "popularity": 10.3636,
+        "popularity": 11.0437,
         "imdbId": "tt36586020",
         "countries": [
           "United States of America"
@@ -27173,7 +27026,7 @@
         "origLang": "ja",
         "origTitle": "mentor",
         "platforms": [],
-        "popularity": 1.4734,
+        "popularity": 1.6766,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -27430,7 +27283,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Mrs. Warren's Profession",
         "platforms": [],
-        "popularity": 0.8876,
+        "popularity": 0.7999,
         "imdbId": "tt37511195",
         "countries": [
           "United Kingdom"
@@ -27630,7 +27483,7 @@
         "origLang": "en",
         "origTitle": "Clayface",
         "platforms": [],
-        "popularity": 8.4868,
+        "popularity": 8.4738,
         "imdbId": "tt34890576",
         "countries": [
           "United States of America"
@@ -29031,7 +28884,7 @@
         "origLang": "en",
         "origTitle": "Ebenezer",
         "platforms": [],
-        "popularity": 6.0851,
+        "popularity": 6.131,
         "imdbId": "tt38773219",
         "countries": [
           "United States of America"
@@ -29237,7 +29090,7 @@
         "origLang": "ja",
         "origTitle": "NEW GROUP",
         "platforms": [],
-        "popularity": 1.4708,
+        "popularity": 1.8904,
         "imdbId": "tt37694048",
         "countries": [
           "Japan"
@@ -29396,7 +29249,7 @@
         "origLang": "zh",
         "origTitle": "有用的人",
         "platforms": [],
-        "popularity": 1.1866,
+        "popularity": 1.1211,
         "imdbId": "tt44934439",
         "countries": [
           "Taiwan"
@@ -30008,7 +29861,7 @@
         "origLang": "en",
         "origTitle": "Focker-in-Law",
         "platforms": [],
-        "popularity": 8.2874,
+        "popularity": 7.6572,
         "imdbId": "tt34966140",
         "countries": [
           "United States of America"
@@ -30236,7 +30089,7 @@
         "origLang": "en",
         "origTitle": "The Cat in the Hat",
         "platforms": [],
-        "popularity": 5.533,
+        "popularity": 5.8214,
         "imdbId": "tt2321555",
         "countries": [
           "United Kingdom",
@@ -31175,7 +31028,7 @@
         "origLang": "en",
         "origTitle": "Dune: Part Three",
         "platforms": [],
-        "popularity": 16.1358,
+        "popularity": 16.8063,
         "imdbId": "tt31378509",
         "countries": [
           "United States of America"

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T14:36:20.027834+08:00",
+  "generated_at": "2026-09-10T15:06:47.273745+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 63,
-    "soon_count": 82
+    "soon_count": 84
   },
   "movies": {
     "now": [
@@ -76,11 +76,11 @@
         "crew": [
           {
             "name": "蘇達",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "蘇達",
-            "job": "Writer"
+            "job": "Director"
           }
         ],
         "budget": 0,
@@ -149,11 +149,11 @@
           "crew": [
             {
               "name": "蘇達",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "蘇達",
-              "job": "Writer"
+              "job": "Director"
             }
           ],
           "budget": 0,
@@ -748,8 +748,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "mdblist",
-            "votes": 249,
+            "source": "omdb",
+            "votes": 0,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -4232,7 +4232,7 @@
         "origLang": "fr",
         "origTitle": "Amour Apocalypse",
         "platforms": [],
-        "popularity": 5.4125,
+        "popularity": 5.0664,
         "imdbId": "tt33335204",
         "countries": [
           "Canada"
@@ -4439,7 +4439,7 @@
         "origLang": "ja",
         "origTitle": "映画 おでかけ子ザメ とかいのおともだち",
         "platforms": [],
-        "popularity": 1.1191,
+        "popularity": 1.1378,
         "imdbId": "tt36592995",
         "countries": [
           "Japan"
@@ -10152,7 +10152,7 @@
         "origLang": "en",
         "origTitle": "PAW Patrol: The Dino Movie",
         "platforms": [],
-        "popularity": 24.6682,
+        "popularity": 39.0652,
         "imdbId": "tt29356163",
         "countries": [
           "Canada",
@@ -10850,7 +10850,7 @@
         "origLang": "zh",
         "origTitle": "終戰那一天",
         "platforms": [],
-        "popularity": 0.6116,
+        "popularity": 0.6569,
         "imdbId": "tt44544376",
         "countries": [
           "Taiwan"
@@ -11290,7 +11290,7 @@
         "origLang": "ko",
         "origTitle": "오케이 마담 2",
         "platforms": [],
-        "popularity": 4.7281,
+        "popularity": 4.6796,
         "imdbId": "tt43669175",
         "countries": [
           "South Korea"
@@ -12890,7 +12890,7 @@
         "origLang": "ja",
         "origTitle": "映画ちいかわ 人魚の島のひみつ",
         "platforms": [],
-        "popularity": 11.4127,
+        "popularity": 12.5616,
         "imdbId": "tt39026173",
         "countries": [
           "Japan"
@@ -13696,7 +13696,7 @@
         "origLang": "en",
         "origTitle": "The Odyssey",
         "platforms": [],
-        "popularity": 437.8516,
+        "popularity": 420.4943,
         "imdbId": "tt33764258",
         "countries": [
           "United Kingdom",
@@ -13907,7 +13907,7 @@
         "origLang": "ja",
         "origTitle": "映画ドラえもん 新・のび太の海底鬼岩城",
         "platforms": [],
-        "popularity": 15.8318,
+        "popularity": 15.4269,
         "imdbId": "tt38201958",
         "countries": [
           "Japan"
@@ -14143,7 +14143,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 141.8469,
+        "popularity": 137.263,
         "imdbId": "tt32890033",
         "countries": [
           "United States of America"
@@ -15661,6 +15661,297 @@
         "sourceBucket": "tmdb"
       },
       {
+        "id": 110,
+        "titleZh": "紅色情深",
+        "titleEn": "Trois couleurs : Rouge",
+        "releaseDate": "2026-09-11",
+        "releaseYear": "1994",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-09-11",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/9rnoQFrmdBwqAAEWvmBWY2tGNFs.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
+        "voteAverage": "7.9",
+        "genre": [
+          "劇情",
+          "懸疑",
+          "愛情"
+        ],
+        "duration": 100,
+        "synopsis": "波蘭電影大師奇士勞斯基逝世20週年紀念修復【藍白紅三部曲】第三部，由伊蓮雅各、尚皮耶羅利與尚路易坦帝尼昂主演。一名模特兒與極度不信任人、喜愛竊聽鄰居電話的退休法官，意外發展出一段特殊的關係。",
+        "imdb": "8.1",
+        "rt": "100%",
+        "mc": "100",
+        "ratingMeta": {
+          "imdb": {
+            "source": "omdb",
+            "votes": 116330,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          },
+          "rt": {
+            "source": "mdblist",
+            "votes": 61,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          },
+          "mc": {
+            "source": "mdblist",
+            "votes": 11,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          }
+        },
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "伊蓮·雅各",
+            "char": "Valentine",
+            "photo": "https://image.tmdb.org/t/p/w500/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg"
+          },
+          {
+            "name": "尚-路易·特罕狄釀",
+            "char": "The Judge",
+            "photo": "https://image.tmdb.org/t/p/w500/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg"
+          },
+          {
+            "name": "Frédérique Feder",
+            "char": "Karin",
+            "photo": "https://image.tmdb.org/t/p/w500/vHCAJPYuFb2JJeX18yVo8hJmQeY.jpg"
+          },
+          {
+            "name": "Jean-Pierre Lorit",
+            "char": "Auguste",
+            "photo": "https://image.tmdb.org/t/p/w500/xP0IO3ZEAUmriWN36pAqeExloDK.jpg"
+          },
+          {
+            "name": "Samuel Le Bihan",
+            "char": "Photographer",
+            "photo": "https://image.tmdb.org/t/p/w500/jN4hwWfhFaE8v5TGiS6cg9HKOxe.jpg"
+          },
+          {
+            "name": "Marion Stalens",
+            "char": "Veterinarian",
+            "photo": "https://image.tmdb.org/t/p/w500/8AEcShsEooBHYwneHUHyL65mtxO.jpg"
+          },
+          {
+            "name": "Teco Celio",
+            "char": "Bartender",
+            "photo": "https://image.tmdb.org/t/p/w500/5PUIFW0JvgoaLX1ndyJbSeBdQF0.jpg"
+          },
+          {
+            "name": "Bernard Escalon",
+            "char": "Record Dealer",
+            "photo": "https://image.tmdb.org/t/p/w500/hRifAJBIuQEd6xUhvVkYm4tiZOy.jpg"
+          },
+          {
+            "name": "Jean Schlegel",
+            "char": "Neighbor",
+            "photo": null
+          },
+          {
+            "name": "Elżbieta Jasińska",
+            "char": "Woman",
+            "photo": "https://image.tmdb.org/t/p/w500/hcM2a714AjQXejIkhOqY30QcZQw.jpg"
+          },
+          {
+            "name": "Paul Vermeulen",
+            "char": "Karin's Friend",
+            "photo": null
+          },
+          {
+            "name": "Jean-Marie Daunas",
+            "char": "Theater Keeper",
+            "photo": null
+          },
+          {
+            "name": "Roland Carey",
+            "char": "Dealer",
+            "photo": "https://image.tmdb.org/t/p/w500/jynPOZGBo9ANYHPmTvs4ygFWTWk.jpg"
+          },
+          {
+            "name": "Brigitte Raul",
+            "char": "",
+            "photo": null
+          },
+          {
+            "name": "Leo Ramseyer",
+            "char": "",
+            "photo": null
+          },
+          {
+            "name": "Nader Farman",
+            "char": "",
+            "photo": null
+          }
+        ],
+        "crew": [
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Director"
+          },
+          {
+            "name": "古茲托夫·奇斯洛夫斯基",
+            "job": "Screenplay"
+          },
+          {
+            "name": "Krzysztof Piesiewicz",
+            "job": "Screenplay"
+          }
+        ],
+        "budget": 0,
+        "revenue": 4127033,
+        "status": "Released",
+        "origLang": "fr",
+        "origTitle": "Trois couleurs : Rouge",
+        "platforms": [
+          {
+            "name": "Apple TV Store",
+            "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+          }
+        ],
+        "popularity": 5.5109,
+        "imdbId": "tt0111495",
+        "countries": [
+          "France",
+          "Poland",
+          "Switzerland"
+        ],
+        "detail": {
+          "duration": 100,
+          "genres": [
+            "劇情",
+            "懸疑",
+            "愛情"
+          ],
+          "synopsis": "波蘭電影大師奇士勞斯基逝世20週年紀念修復【藍白紅三部曲】第三部，由伊蓮雅各、尚皮耶羅利與尚路易坦帝尼昂主演。一名模特兒與極度不信任人、喜愛竊聽鄰居電話的退休法官，意外發展出一段特殊的關係。",
+          "poster": "https://image.tmdb.org/t/p/w500/9rnoQFrmdBwqAAEWvmBWY2tGNFs.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
+          "voteAverage": "7.9",
+          "trailerKey": null,
+          "imdbId": "tt0111495",
+          "countries": [
+            "France",
+            "Poland",
+            "Switzerland"
+          ],
+          "cast": [
+            {
+              "name": "伊蓮·雅各",
+              "char": "Valentine",
+              "photo": "https://image.tmdb.org/t/p/w500/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg"
+            },
+            {
+              "name": "尚-路易·特罕狄釀",
+              "char": "The Judge",
+              "photo": "https://image.tmdb.org/t/p/w500/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg"
+            },
+            {
+              "name": "Frédérique Feder",
+              "char": "Karin",
+              "photo": "https://image.tmdb.org/t/p/w500/vHCAJPYuFb2JJeX18yVo8hJmQeY.jpg"
+            },
+            {
+              "name": "Jean-Pierre Lorit",
+              "char": "Auguste",
+              "photo": "https://image.tmdb.org/t/p/w500/xP0IO3ZEAUmriWN36pAqeExloDK.jpg"
+            },
+            {
+              "name": "Samuel Le Bihan",
+              "char": "Photographer",
+              "photo": "https://image.tmdb.org/t/p/w500/jN4hwWfhFaE8v5TGiS6cg9HKOxe.jpg"
+            },
+            {
+              "name": "Marion Stalens",
+              "char": "Veterinarian",
+              "photo": "https://image.tmdb.org/t/p/w500/8AEcShsEooBHYwneHUHyL65mtxO.jpg"
+            },
+            {
+              "name": "Teco Celio",
+              "char": "Bartender",
+              "photo": "https://image.tmdb.org/t/p/w500/5PUIFW0JvgoaLX1ndyJbSeBdQF0.jpg"
+            },
+            {
+              "name": "Bernard Escalon",
+              "char": "Record Dealer",
+              "photo": "https://image.tmdb.org/t/p/w500/hRifAJBIuQEd6xUhvVkYm4tiZOy.jpg"
+            },
+            {
+              "name": "Jean Schlegel",
+              "char": "Neighbor",
+              "photo": null
+            },
+            {
+              "name": "Elżbieta Jasińska",
+              "char": "Woman",
+              "photo": "https://image.tmdb.org/t/p/w500/hcM2a714AjQXejIkhOqY30QcZQw.jpg"
+            },
+            {
+              "name": "Paul Vermeulen",
+              "char": "Karin's Friend",
+              "photo": null
+            },
+            {
+              "name": "Jean-Marie Daunas",
+              "char": "Theater Keeper",
+              "photo": null
+            },
+            {
+              "name": "Roland Carey",
+              "char": "Dealer",
+              "photo": "https://image.tmdb.org/t/p/w500/jynPOZGBo9ANYHPmTvs4ygFWTWk.jpg"
+            },
+            {
+              "name": "Brigitte Raul",
+              "char": "",
+              "photo": null
+            },
+            {
+              "name": "Leo Ramseyer",
+              "char": "",
+              "photo": null
+            },
+            {
+              "name": "Nader Farman",
+              "char": "",
+              "photo": null
+            }
+          ],
+          "crew": [
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Director"
+            },
+            {
+              "name": "古茲托夫·奇斯洛夫斯基",
+              "job": "Screenplay"
+            },
+            {
+              "name": "Krzysztof Piesiewicz",
+              "job": "Screenplay"
+            }
+          ],
+          "budget": 0,
+          "revenue": 4127033,
+          "status": "Released",
+          "origLang": "fr",
+          "origTitle": "Trois couleurs : Rouge",
+          "platforms": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/110?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
         "id": 1600,
         "titleZh": "雙面薇若妮卡",
         "titleEn": "La Double Vie de Véronique",
@@ -16471,6 +16762,133 @@
         "sourceBucket": "tmdb"
       },
       {
+        "id": 490794,
+        "titleZh": "草間∞彌生",
+        "titleEn": "Kusama: Infinity",
+        "releaseDate": "2026-09-11",
+        "releaseYear": "2018",
+        "isRerelease": false,
+        "twTheatricalReleases": [
+          {
+            "date": "2026-09-11",
+            "language": ""
+          }
+        ],
+        "twReleaseDateVerified": true,
+        "poster": "https://image.tmdb.org/t/p/w500/6ZkFQUiKWvE99cnGP3Dih3SFLxp.jpg",
+        "posterIsBackdrop": false,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jLvL23gZ4J9I09v6nlgY1EiZtYB.jpg",
+        "voteAverage": "7.2",
+        "genre": [
+          "紀錄"
+        ],
+        "duration": 80,
+        "synopsis": "",
+        "imdb": "7.3",
+        "rt": "93%",
+        "mc": "71",
+        "ratingMeta": {
+          "imdb": {
+            "source": "omdb",
+            "votes": 1358,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          },
+          "rt": {
+            "source": "mdblist",
+            "votes": 60,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          },
+          "mc": {
+            "source": "mdblist",
+            "votes": 17,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          }
+        },
+        "trailerKey": null,
+        "cast": [
+          {
+            "name": "Yayoi Kusama",
+            "char": "Self",
+            "photo": null
+          }
+        ],
+        "crew": [
+          {
+            "name": "Heather Lenz",
+            "job": "Screenplay"
+          },
+          {
+            "name": "Heather Lenz",
+            "job": "Director"
+          }
+        ],
+        "budget": 0,
+        "revenue": 0,
+        "status": "Released",
+        "origLang": "en",
+        "origTitle": "Kusama: Infinity",
+        "platforms": [
+          {
+            "name": "Catchplay",
+            "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+          }
+        ],
+        "popularity": 1.4713,
+        "imdbId": "tt1893269",
+        "countries": [
+          "Japan",
+          "United States of America"
+        ],
+        "detail": {
+          "duration": 80,
+          "genres": [
+            "紀錄"
+          ],
+          "synopsis": "",
+          "poster": "https://image.tmdb.org/t/p/w500/6ZkFQUiKWvE99cnGP3Dih3SFLxp.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/jLvL23gZ4J9I09v6nlgY1EiZtYB.jpg",
+          "voteAverage": "7.2",
+          "trailerKey": null,
+          "imdbId": "tt1893269",
+          "countries": [
+            "Japan",
+            "United States of America"
+          ],
+          "cast": [
+            {
+              "name": "Yayoi Kusama",
+              "char": "Self",
+              "photo": null
+            }
+          ],
+          "crew": [
+            {
+              "name": "Heather Lenz",
+              "job": "Screenplay"
+            },
+            {
+              "name": "Heather Lenz",
+              "job": "Director"
+            }
+          ],
+          "budget": 0,
+          "revenue": 0,
+          "status": "Released",
+          "origLang": "en",
+          "origTitle": "Kusama: Infinity",
+          "platforms": [
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            }
+          ]
+        },
+        "tmdbUrl": "https://www.themoviedb.org/movie/490794?language=zh-TW",
+        "atmoviesId": "",
+        "atmoviesUrl": "",
+        "sourceBucket": "tmdb"
+      },
+      {
         "id": 1235769,
         "titleZh": "慶州殺遊紀",
         "titleEn": "경주기행",
@@ -17030,9 +17448,20 @@
         "duration": 110,
         "synopsis": "",
         "imdb": "",
-        "rt": "",
-        "mc": "",
-        "ratingMeta": {},
+        "rt": "35%",
+        "mc": "45",
+        "ratingMeta": {
+          "rt": {
+            "source": "mdblist",
+            "votes": 62,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          },
+          "mc": {
+            "source": "mdblist",
+            "votes": 27,
+            "lastChanged": "2026-09-10T15:06:47.273745+08:00"
+          }
+        },
         "trailerKey": "fmMoGBw0Dkk",
         "cast": [
           {
@@ -17740,7 +18169,7 @@
         "origLang": "ja",
         "origTitle": "ルックバック",
         "platforms": [],
-        "popularity": 5.0182,
+        "popularity": 5.265,
         "imdbId": "tt39094466",
         "countries": [
           "Japan"
@@ -18371,7 +18800,7 @@
           "恐怖",
           "科幻"
         ],
-        "duration": 90,
+        "duration": 91,
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -18425,7 +18854,7 @@
         "origLang": "en",
         "origTitle": "Resident Evil",
         "platforms": [],
-        "popularity": 41.967,
+        "popularity": 43.1746,
         "imdbId": "tt35538033",
         "countries": [
           "United States of America",
@@ -18433,7 +18862,7 @@
           "France"
         ],
         "detail": {
-          "duration": 90,
+          "duration": 91,
           "genres": [
             "恐怖",
             "科幻"
@@ -18914,7 +19343,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 5.0152,
+        "popularity": 4.8951,
         "imdbId": "tt14561712",
         "countries": [
           "Italy",
@@ -24798,7 +25227,7 @@
         "origLang": "da",
         "origTitle": "Mr. Nobody mod Putin",
         "platforms": [],
-        "popularity": 5.0664,
+        "popularity": 4.9707,
         "imdbId": "tt34965515",
         "countries": [
           "Denmark",
@@ -27691,12 +28120,12 @@
         ],
         "crew": [
           {
-            "name": "塔伊加·維迪提",
-            "job": "Director"
-          },
-          {
             "name": "Dahvi Waller",
             "job": "Screenplay"
+          },
+          {
+            "name": "塔伊加·維迪提",
+            "job": "Director"
           },
           {
             "name": "塔伊加·維迪提",
@@ -27788,12 +28217,12 @@
           ],
           "crew": [
             {
-              "name": "塔伊加·維迪提",
-              "job": "Director"
-            },
-            {
               "name": "Dahvi Waller",
               "job": "Screenplay"
+            },
+            {
+              "name": "塔伊加·維迪提",
+              "job": "Director"
             },
             {
               "name": "塔伊加·維迪提",

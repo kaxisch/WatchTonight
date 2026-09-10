@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:30:34.975113+08:00",
+  "generated_at": "2026-09-10T11:49:35.950461+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 64,
@@ -316,7 +316,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 3.926,
+        "popularity": 3.6102,
         "imdbId": "tt1483797",
         "countries": [
           "Japan"
@@ -748,13 +748,13 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 249,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 47,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           }
         },
@@ -1226,7 +1226,7 @@
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
         "rt": "72%",
-        "mc": "68",
+        "mc": "67",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
@@ -1239,9 +1239,9 @@
             "lastChanged": "2026-09-10T07:30:34.975113+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-10T07:30:34.975113+08:00"
+            "source": "mdblist",
+            "votes": 30,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
           }
         },
         "trailerKey": "HZkGZqypnBM",
@@ -1492,7 +1492,7 @@
         "duration": 98,
         "synopsis": "妹妹杭特去世後，賈克斯悲痛欲絕，為了療傷，她邀請大膽的好友露絲一起挑戰泰國關山惡名昭彰的棧板步道。然而，突如其來的山崩讓她們困在距離地表3000英尺的高空，腳下只剩幾片殘存的木板。為了活下去，賈克斯必須面對內心最深的恐懼……",
         "imdb": "5.7",
-        "rt": "55%",
+        "rt": "57%",
         "mc": "53",
         "ratingMeta": {
           "imdb": {
@@ -1501,13 +1501,13 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-08T07:45:59.240981+08:00"
+            "source": "mdblist",
+            "votes": 37,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 10,
             "lastChanged": "2026-09-06T13:03:53.845108+08:00"
           }
         },
@@ -1854,7 +1854,7 @@
         "origLang": "ko",
         "origTitle": "마지막 숙제",
         "platforms": [],
-        "popularity": 0.829,
+        "popularity": 0.9383,
         "imdbId": "tt34539004",
         "countries": [
           "South Korea"
@@ -2062,7 +2062,7 @@
         "origLang": "fr",
         "origTitle": "Pour le plaisir",
         "platforms": [],
-        "popularity": 8.6303,
+        "popularity": 8.4895,
         "imdbId": "tt38607784",
         "countries": [
           "France"
@@ -2259,7 +2259,7 @@
         "origLang": "de",
         "origTitle": "Der verlorene Mann",
         "platforms": [],
-        "popularity": 2.71,
+        "popularity": 3.0503,
         "imdbId": "tt39602467",
         "countries": [
           "Germany"
@@ -2397,7 +2397,7 @@
         "origLang": "zh",
         "origTitle": "我的爸爸是死刑犯",
         "platforms": [],
-        "popularity": 1.0055,
+        "popularity": 0.9543,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -2529,7 +2529,7 @@
         "origLang": "ja",
         "origTitle": "白鳥とコウモリ",
         "platforms": [],
-        "popularity": 2.0015,
+        "popularity": 1.7119,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -2746,7 +2746,7 @@
         "origLang": "ja",
         "origTitle": "THE ORIGIN OF ULTRAMAN",
         "platforms": [],
-        "popularity": 2.0556,
+        "popularity": 2.0864,
         "imdbId": "tt43564240",
         "countries": [
           "Japan"
@@ -3517,16 +3517,16 @@
         ],
         "crew": [
           {
+            "name": "Joachim Trier",
+            "job": "Director"
+          },
+          {
             "name": "Eskil Vogt",
             "job": "Screenplay"
           },
           {
             "name": "Joachim Trier",
             "job": "Screenplay"
-          },
-          {
-            "name": "Joachim Trier",
-            "job": "Director"
           }
         ],
         "budget": 0,
@@ -3540,7 +3540,7 @@
             "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
           }
         ],
-        "popularity": 3.314,
+        "popularity": 2.8915,
         "imdbId": "tt1736633",
         "countries": [
           "Norway"
@@ -3633,16 +3633,16 @@
           ],
           "crew": [
             {
+              "name": "Joachim Trier",
+              "job": "Director"
+            },
+            {
               "name": "Eskil Vogt",
               "job": "Screenplay"
             },
             {
               "name": "Joachim Trier",
               "job": "Screenplay"
-            },
-            {
-              "name": "Joachim Trier",
-              "job": "Director"
             }
           ],
           "budget": 0,
@@ -3770,7 +3770,7 @@
         "origLang": "en",
         "origTitle": "The Invite",
         "platforms": [],
-        "popularity": 37.4766,
+        "popularity": 35.3456,
         "imdbId": "tt14173636",
         "countries": [
           "United States of America"
@@ -3962,11 +3962,11 @@
         ],
         "crew": [
           {
-            "name": "李闊",
+            "name": "單丹丹",
             "job": "Director"
           },
           {
-            "name": "單丹丹",
+            "name": "李闊",
             "job": "Director"
           },
           {
@@ -3980,7 +3980,7 @@
         "origLang": "zh",
         "origTitle": "银河写手",
         "platforms": [],
-        "popularity": 1.0187,
+        "popularity": 0.9407,
         "imdbId": "tt28350761",
         "countries": [
           "China"
@@ -4074,11 +4074,11 @@
           ],
           "crew": [
             {
-              "name": "李闊",
+              "name": "單丹丹",
               "job": "Director"
             },
             {
-              "name": "單丹丹",
+              "name": "李闊",
               "job": "Director"
             },
             {
@@ -4128,8 +4128,8 @@
         "mc": "",
         "ratingMeta": {
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 24,
             "lastChanged": "2026-08-12T18:40:10.320523+08:00"
           }
         },
@@ -4646,7 +4646,7 @@
         "origLang": "ja",
         "origTitle": "最終楽章 響け！ユーフォニアム 前編",
         "platforms": [],
-        "popularity": 2.8535,
+        "popularity": 2.8503,
         "imdbId": "tt39123182",
         "countries": [
           "Japan"
@@ -5574,7 +5574,7 @@
         "origLang": "ko",
         "origTitle": "그녀가 돌아온 날",
         "platforms": [],
-        "popularity": 2.1128,
+        "popularity": 2.4886,
         "imdbId": "tt39368030",
         "countries": [
           "South Korea"
@@ -6569,7 +6569,7 @@
         "origLang": "zh",
         "origTitle": "粽邪4：坤蒂拉娜",
         "platforms": [],
-        "popularity": 18.9725,
+        "popularity": 19.2629,
         "imdbId": "tt38633224",
         "countries": [
           "Taiwan"
@@ -6813,7 +6813,7 @@
         "origLang": "zh",
         "origTitle": "網紅老爸",
         "platforms": [],
-        "popularity": 1.8688,
+        "popularity": 2.0919,
         "imdbId": "tt44878475",
         "countries": [
           "Taiwan"
@@ -7091,7 +7091,7 @@
             "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
           }
         ],
-        "popularity": 2.1743,
+        "popularity": 2.1676,
         "imdbId": "tt0827517",
         "countries": [
           "Norway"
@@ -7628,7 +7628,7 @@
         "origLang": "it",
         "origTitle": "Diamanti",
         "platforms": [],
-        "popularity": 3.4687,
+        "popularity": 3.5852,
         "imdbId": "tt32810496",
         "countries": [
           "Italy"
@@ -7903,7 +7903,7 @@
         "origLang": "en",
         "origTitle": "Tony",
         "platforms": [],
-        "popularity": 12.4154,
+        "popularity": 12.0676,
         "imdbId": "tt33095251",
         "countries": [
           "United States of America",
@@ -8109,7 +8109,7 @@
         "origLang": "ja",
         "origTitle": "ミーツ・ザ・ワールド",
         "platforms": [],
-        "popularity": 1.7285,
+        "popularity": 1.5547,
         "imdbId": "tt38755605",
         "countries": [
           "Japan"
@@ -8323,7 +8323,7 @@
         "origLang": "en",
         "origTitle": "My Father's Shadow",
         "platforms": [],
-        "popularity": 2.9674,
+        "popularity": 2.8645,
         "imdbId": "tt35695538",
         "countries": [
           "Nigeria",
@@ -8555,7 +8555,7 @@
         "origLang": "ja",
         "origTitle": "映画ラストマン -FIRST LOVE-",
         "platforms": [],
-        "popularity": 2.3161,
+        "popularity": 2.2671,
         "imdbId": "tt38691555",
         "countries": [
           "Japan"
@@ -8785,7 +8785,7 @@
         "origLang": "ja",
         "origTitle": "映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
         "platforms": [],
-        "popularity": 1.8345,
+        "popularity": 1.9473,
         "imdbId": "tt36607192",
         "countries": [
           "Japan"
@@ -9061,7 +9061,7 @@
         "origLang": "en",
         "origTitle": "Mutiny",
         "platforms": [],
-        "popularity": 394.5615,
+        "popularity": 373.0022,
         "imdbId": "tt32338669",
         "countries": [
           "United Kingdom",
@@ -9475,7 +9475,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-        "voteAverage": "6.9",
+        "voteAverage": "6.8",
         "genre": [
           "喜劇",
           "愛情"
@@ -9493,7 +9493,7 @@
           },
           "rt": {
             "source": "mdblist",
-            "votes": 190,
+            "votes": 194,
             "lastChanged": "2026-09-05T05:01:33.835992+08:00"
           },
           "mc": {
@@ -9601,7 +9601,7 @@
         "origLang": "en",
         "origTitle": "One Night Only",
         "platforms": [],
-        "popularity": 71.2824,
+        "popularity": 89.2192,
         "imdbId": "tt37853455",
         "countries": [
           "United States of America"
@@ -9615,7 +9615,7 @@
           "synopsis": "剛被女友狠甩的歐文和滿懷浪漫情懷和希望的艾莉或許是這座城市裡唯二只想要尋找真愛的單身人士，而不只是想找一個一夜情的性伴侶。他們相遇時都感到彼此之間擦出火花，但是一連串的意外和其他的冒險卻讓他們的夜晚變得很複雜，結果被迫分開。當他們在城市中奔向彼此又在無意間遠離彼此的時候，也許他們會發現，他們最渴望的東西其實近在咫尺。",
           "poster": "https://image.tmdb.org/t/p/w500/uhropHIrmO583I4izEJru849Gpi.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-          "voteAverage": "6.9",
+          "voteAverage": "6.8",
           "trailerKey": "lIl2WzFiF0A",
           "imdbId": "tt37853455",
           "countries": [
@@ -10677,7 +10677,7 @@
         "origLang": "en",
         "origTitle": "Leviticus",
         "platforms": [],
-        "popularity": 38.4439,
+        "popularity": 37.7281,
         "imdbId": "tt39143902",
         "countries": [
           "Australia",
@@ -11038,7 +11038,7 @@
         "origLang": "en",
         "origTitle": "The End of Oak Street",
         "platforms": [],
-        "popularity": 57.6922,
+        "popularity": 66.8687,
         "imdbId": "tt27165187",
         "countries": [
           "United States of America"
@@ -11795,11 +11795,11 @@
         "crew": [
           {
             "name": "艾莉絲·羅爾瓦雀",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "艾莉絲·羅爾瓦雀",
-            "job": "Director"
+            "job": "Writer"
           }
         ],
         "budget": 0,
@@ -11813,7 +11813,7 @@
             "logo": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png"
           }
         ],
-        "popularity": 3.1408,
+        "popularity": 2.7709,
         "imdbId": "tt6752992",
         "countries": [
           "France",
@@ -11924,11 +11924,11 @@
           "crew": [
             {
               "name": "艾莉絲·羅爾瓦雀",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "艾莉絲·羅爾瓦雀",
-              "job": "Director"
+              "job": "Writer"
             }
           ],
           "budget": 0,
@@ -12085,7 +12085,7 @@
         "origLang": "hi",
         "origTitle": "होमबाउंड",
         "platforms": [],
-        "popularity": 3.4588,
+        "popularity": 3.1069,
         "imdbId": "tt26733325",
         "countries": [
           "India",
@@ -12355,7 +12355,7 @@
         "origLang": "en",
         "origTitle": "Obsession",
         "platforms": [],
-        "popularity": 194.6239,
+        "popularity": 176.2001,
         "imdbId": "tt37287335",
         "countries": [
           "United States of America",
@@ -12559,7 +12559,7 @@
         "origLang": "ja",
         "origTitle": "アイカツ！×プリパラ THE MOVIE -出会いのキセキ !-",
         "platforms": [],
-        "popularity": 1.5059,
+        "popularity": 1.6603,
         "imdbId": "tt36635947",
         "countries": [
           "Japan"
@@ -12702,7 +12702,7 @@
         "origLang": "ja",
         "origTitle": "クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
         "platforms": [],
-        "popularity": 22.7645,
+        "popularity": 22.6671,
         "imdbId": "tt41293342",
         "countries": [
           "Japan"
@@ -13617,7 +13617,7 @@
           {
             "name": "羅伯·派汀森",
             "char": "Antinous",
-            "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
           },
           {
             "name": "希姆許·帕托",
@@ -13738,7 +13738,7 @@
             {
               "name": "羅伯·派汀森",
               "char": "Antinous",
-              "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
             },
             {
               "name": "希姆許·帕托",
@@ -15103,7 +15103,7 @@
         "origLang": "ja",
         "origTitle": "ヒプノシスマイク -Division Rap Battle-",
         "platforms": [],
-        "popularity": 1.7517,
+        "popularity": 1.6721,
         "imdbId": "tt34571222",
         "countries": [
           "Japan"
@@ -15253,7 +15253,7 @@
         "duration": 98,
         "synopsis": "故事講述一對音樂家夫婦皆同女兒出外，旅途中發生車禍，丈夫與女兒當場死亡，只剩下音樂家妻子朱莉（茱莉葉畢諾許 飾）活著。丈夫正為歐洲共同體譜寫會歌，曲子尚未為完成，悲痛欲絕的她為了重拾真正的自由，決心拋開過去，甚至毀掉丈夫遺留下來未完成的手稿，以展開新生活。在音樂交織下，走出一段衝突掙扎的心路歷程。",
         "imdb": "7.8",
-        "rt": "98%",
+        "rt": "96%",
         "mc": "87",
         "ratingMeta": {
           "imdb": {
@@ -15262,13 +15262,13 @@
             "lastChanged": "2026-08-29T15:20:47.756750+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-10T07:30:34.975113+08:00"
+            "source": "mdblist",
+            "votes": 57,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 11,
             "lastChanged": "2026-08-29T15:20:47.756750+08:00"
           }
         },
@@ -15380,7 +15380,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 4.7164,
+        "popularity": 5.0828,
         "imdbId": "tt0108394",
         "countries": [
           "France",
@@ -15551,13 +15551,13 @@
             "lastChanged": "2026-08-29T19:08:18.572103+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 55,
             "lastChanged": "2026-08-29T19:08:18.572103+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 11,
             "lastChanged": "2026-08-29T19:08:18.572103+08:00"
           }
         },
@@ -15669,7 +15669,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 5.5093,
+        "popularity": 5.091,
         "imdbId": "tt0111507",
         "countries": [
           "France",
@@ -15841,13 +15841,13 @@
             "lastChanged": "2026-08-29T22:03:55.290760+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 36,
             "lastChanged": "2026-08-29T22:03:55.290760+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 10,
             "lastChanged": "2026-08-29T22:03:55.290760+08:00"
           }
         },
@@ -16129,8 +16129,8 @@
             "lastChanged": "2026-08-26T15:30:21.745375+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 6,
             "lastChanged": "2026-08-26T15:30:21.745375+08:00"
           }
         },
@@ -16233,7 +16233,7 @@
         "origLang": "ja",
         "origTitle": "台風クラブ",
         "platforms": [],
-        "popularity": 2.3347,
+        "popularity": 2.4132,
         "imdbId": "tt0088222",
         "countries": [
           "Japan"
@@ -16746,7 +16746,7 @@
         "origLang": "ko",
         "origTitle": "경주기행",
         "platforms": [],
-        "popularity": 3.5722,
+        "popularity": 3.344,
         "imdbId": "tt38814489",
         "countries": [
           "South Korea"
@@ -16889,7 +16889,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/ydaH0Cpk3IQ8TtxDwdAxJ5lpEBD.jpg",
         "posterIsBackdrop": false,
         "backdrop": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
-        "voteAverage": "7.0",
+        "voteAverage": "7.1",
         "genre": [
           "喜劇",
           "音樂",
@@ -16907,13 +16907,13 @@
             "lastChanged": "2026-09-03T01:35:38.728747+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 192,
             "lastChanged": "2026-09-03T01:35:38.728747+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 35,
             "lastChanged": "2026-09-03T01:35:38.728747+08:00"
           }
         },
@@ -17003,11 +17003,11 @@
         "crew": [
           {
             "name": "約翰·卡尼",
-            "job": "Director"
+            "job": "Writer"
           },
           {
             "name": "約翰·卡尼",
-            "job": "Writer"
+            "job": "Director"
           },
           {
             "name": "Peter McDonald",
@@ -17020,7 +17020,7 @@
         "origLang": "en",
         "origTitle": "Power Ballad",
         "platforms": [],
-        "popularity": 7.6901,
+        "popularity": 7.5555,
         "imdbId": "tt32267691",
         "countries": [
           "Ireland",
@@ -17036,7 +17036,7 @@
           "synopsis": "一位婚禮樂團主唱「瑞克大砲」，在一次演出中，意外結識了事業正逢瓶頸的前男團偶像丹尼。兩位失意音樂人惺惺相惜，竟擦出強烈的音樂火花。未料，丹尼私自將瑞克未完成的抒情創作，改編為全新單曲發表，瞬間爆紅登上熱門榜首，成功重回巨星寶座。眼看自己的心血被剽竊，榮耀卻全歸他人，不甘心的瑞克決定挺身而出，不惜一切代價奪回屬於自己的創作與尊嚴。",
           "poster": "https://image.tmdb.org/t/p/w500/ydaH0Cpk3IQ8TtxDwdAxJ5lpEBD.jpg",
           "backdrop": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
-          "voteAverage": "7.0",
+          "voteAverage": "7.1",
           "trailerKey": "o3edxHVqPLU",
           "imdbId": "tt32267691",
           "countries": [
@@ -17128,11 +17128,11 @@
           "crew": [
             {
               "name": "約翰·卡尼",
-              "job": "Director"
+              "job": "Writer"
             },
             {
               "name": "約翰·卡尼",
-              "job": "Writer"
+              "job": "Director"
             },
             {
               "name": "Peter McDonald",
@@ -17248,7 +17248,7 @@
         "origLang": "en",
         "origTitle": "Practical Magic 2",
         "platforms": [],
-        "popularity": 37.882,
+        "popularity": 48.27,
         "imdbId": "tt32588798",
         "countries": [
           "United States of America"
@@ -17377,13 +17377,13 @@
             "lastChanged": "2026-08-03T17:48:24.046684+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 63,
             "lastChanged": "2026-08-03T17:48:24.046684+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 11,
             "lastChanged": "2026-08-03T17:48:24.046684+08:00"
           }
         },
@@ -17486,7 +17486,7 @@
         "origLang": "en",
         "origTitle": "Palestine 36",
         "platforms": [],
-        "popularity": 4.7218,
+        "popularity": 4.088,
         "imdbId": "tt29271622",
         "countries": [
           "Palestinian Territory",
@@ -17696,7 +17696,7 @@
         "origLang": "zh",
         "origTitle": "大仙尪仔",
         "platforms": [],
-        "popularity": 0.6686,
+        "popularity": 0.6554,
         "imdbId": "tt43659346",
         "countries": [
           "Taiwan"
@@ -17794,13 +17794,18 @@
         "duration": 100,
         "synopsis": "一心以成為漫畫家為目標的兩位少女藤野、京本之間青春動人的故事。",
         "imdb": "8.0",
-        "rt": "",
+        "rt": "93%",
         "mc": "72",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
             "votes": 36,
             "lastChanged": "2026-09-09T05:23:46.733742+08:00"
+          },
+          "rt": {
+            "source": "mdblist",
+            "votes": 15,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
           },
           "mc": {
             "source": "omdb",
@@ -18076,7 +18081,7 @@
         "origLang": "th",
         "origTitle": "ผีเข้า",
         "platforms": [],
-        "popularity": 1.0569,
+        "popularity": 1.3249,
         "imdbId": "tt42834196",
         "countries": [
           "Thailand"
@@ -18204,7 +18209,7 @@
         "origLang": "zh",
         "origTitle": "獨奏者之舞",
         "platforms": [],
-        "popularity": 0.5015,
+        "popularity": 0.4637,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -18368,7 +18373,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Hamlet",
         "platforms": [],
-        "popularity": 1.195,
+        "popularity": 1.1809,
         "imdbId": "tt37511206",
         "countries": [
           "United Kingdom"
@@ -18513,7 +18518,7 @@
           "恐怖",
           "科幻"
         ],
-        "duration": 94,
+        "duration": 90,
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -18575,7 +18580,7 @@
           "France"
         ],
         "detail": {
-          "duration": 94,
+          "duration": 90,
           "genres": [
             "恐怖",
             "科幻"
@@ -18778,7 +18783,7 @@
         "origLang": "ja",
         "origTitle": "ワンピース デッドエンドの冒険",
         "platforms": [],
-        "popularity": 3.32,
+        "popularity": 3.4062,
         "imdbId": "tt1006926",
         "countries": [
           "Japan"
@@ -18938,13 +18943,13 @@
             "lastChanged": "2026-08-29T16:52:04.363481+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 153,
             "lastChanged": "2026-08-29T16:52:04.363481+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 31,
             "lastChanged": "2026-08-29T16:52:04.363481+08:00"
           }
         },
@@ -19292,7 +19297,7 @@
         "origLang": "es",
         "origTitle": "Pacífico",
         "platforms": [],
-        "popularity": 4.2411,
+        "popularity": 4.5054,
         "imdbId": "tt4634974",
         "countries": [
           "Argentina",
@@ -19412,13 +19417,13 @@
         "duration": 127,
         "synopsis": "年輕的卡夫卡，白天是保險公司職員，在保守的社會、動盪的經濟與戰爭陰影步步逼近的時代，他一邊應付工作與家庭，一邊努力替自己的文字留下一席之地。從19世紀末的布拉格出發，沿著卡夫卡短暫的人生，追尋他如何一步步成為現代文學巨人，重新認識這位早在一百年前就把「厭世」書寫成藝術的大文豪。",
         "imdb": "",
-        "rt": "71%",
+        "rt": "74%",
         "mc": "64",
         "ratingMeta": {
           "rt": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-10T07:30:34.975113+08:00"
+            "source": "mdblist",
+            "votes": 61,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -19525,7 +19530,7 @@
         "origLang": "cs",
         "origTitle": "Franz",
         "platforms": [],
-        "popularity": 2.7739,
+        "popularity": 2.6476,
         "imdbId": "tt17070412",
         "countries": [
           "Czech Republic",
@@ -19690,13 +19695,13 @@
             "lastChanged": "2026-08-29T19:08:18.572103+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 90,
             "lastChanged": "2026-08-29T19:08:18.572103+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 13,
             "lastChanged": "2026-08-29T19:08:18.572103+08:00"
           }
         },
@@ -19799,7 +19804,7 @@
         "origLang": "en",
         "origTitle": "Plainclothes",
         "platforms": [],
-        "popularity": 3.7326,
+        "popularity": 4.1635,
         "imdbId": "tt27550504",
         "countries": [
           "United Kingdom",
@@ -20041,7 +20046,7 @@
         "origLang": "ja",
         "origTitle": "時には懺悔を",
         "platforms": [],
-        "popularity": 2.7069,
+        "popularity": 2.5722,
         "imdbId": "tt36236732",
         "countries": [
           "Japan"
@@ -20535,7 +20540,7 @@
         "origLang": "ko",
         "origTitle": "와인드업: 더 무비",
         "platforms": [],
-        "popularity": 1.4818,
+        "popularity": 1.709,
         "imdbId": "tt43672139",
         "countries": [
           "South Korea"
@@ -20951,7 +20956,7 @@
         "origLang": "ko",
         "origTitle": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
         "platforms": [],
-        "popularity": 1.5706,
+        "popularity": 1.6779,
         "imdbId": "tt44568569",
         "countries": [],
         "detail": {
@@ -21155,7 +21160,7 @@
         "origLang": "zh",
         "origTitle": "再見阿郎",
         "platforms": [],
-        "popularity": 0.7542,
+        "popularity": 0.7447,
         "imdbId": "tt1111842",
         "countries": [
           "Taiwan"
@@ -21370,7 +21375,7 @@
         "origLang": "zh",
         "origTitle": "今天不回家",
         "platforms": [],
-        "popularity": 0.845,
+        "popularity": 1.1449,
         "imdbId": "tt0117938",
         "countries": [
           "Taiwan"
@@ -21521,7 +21526,7 @@
         "origLang": "zh",
         "origTitle": "寂寞的十七歲",
         "platforms": [],
-        "popularity": 1.0358,
+        "popularity": 1.0825,
         "imdbId": "tt1286561",
         "countries": [
           "Taiwan"
@@ -21708,7 +21713,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Les Liaisons Dangereuses",
         "platforms": [],
-        "popularity": 1.9541,
+        "popularity": 1.5765,
         "imdbId": "tt40258746",
         "countries": [
           "United Kingdom"
@@ -21863,13 +21868,13 @@
             "lastChanged": "2026-08-29T16:52:04.363481+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 40,
             "lastChanged": "2026-08-29T16:52:04.363481+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 18,
             "lastChanged": "2026-08-29T16:52:04.363481+08:00"
           }
         },
@@ -21972,7 +21977,7 @@
         "origLang": "ja",
         "origTitle": "リリイ・シュシュのすべて",
         "platforms": [],
-        "popularity": 6.6862,
+        "popularity": 7.4003,
         "imdbId": "tt0297721",
         "countries": [
           "Japan"
@@ -22131,13 +22136,13 @@
             "lastChanged": "2026-09-05T21:36:31.443610+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 551,
             "lastChanged": "2026-09-05T21:36:31.443610+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 57,
             "lastChanged": "2026-09-05T21:36:31.443610+08:00"
           }
         },
@@ -22436,12 +22441,12 @@
         ],
         "crew": [
           {
-            "name": "Cameron Alexander",
-            "job": "Writer"
-          },
-          {
             "name": "David Ayer",
             "job": "Director"
+          },
+          {
+            "name": "Cameron Alexander",
+            "job": "Writer"
           }
         ],
         "budget": 0,
@@ -22494,12 +22499,12 @@
           ],
           "crew": [
             {
-              "name": "Cameron Alexander",
-              "job": "Writer"
-            },
-            {
               "name": "David Ayer",
               "job": "Director"
+            },
+            {
+              "name": "Cameron Alexander",
+              "job": "Writer"
             }
           ],
           "budget": 0,
@@ -22615,7 +22620,7 @@
         "origLang": "fr",
         "origTitle": "À bicyclette !",
         "platforms": [],
-        "popularity": 2.5267,
+        "popularity": 2.5417,
         "imdbId": "tt33298226",
         "countries": [
           "France"
@@ -22740,7 +22745,7 @@
         "synopsis": "",
         "imdb": "8.7",
         "rt": "95%",
-        "mc": "75",
+        "mc": "78",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
@@ -22753,9 +22758,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-10T07:30:34.975113+08:00"
+            "source": "mdblist",
+            "votes": 14,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
           }
         },
         "trailerKey": "CC2-1zs75iU",
@@ -23231,10 +23236,16 @@
         ],
         "duration": 86,
         "synopsis": "",
-        "imdb": "",
+        "imdb": "7.0",
         "rt": "",
         "mc": "",
-        "ratingMeta": {},
+        "ratingMeta": {
+          "imdb": {
+            "source": "omdb",
+            "votes": 160,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
+          }
+        },
         "trailerKey": null,
         "cast": [],
         "crew": [
@@ -23253,7 +23264,7 @@
         "origLang": "en",
         "origTitle": "Space Cadet",
         "platforms": [],
-        "popularity": 2.721,
+        "popularity": 2.644,
         "imdbId": "tt26446095",
         "countries": [
           "Canada"
@@ -23299,7 +23310,7 @@
       },
       {
         "id": 1603232,
-        "titleZh": "Perfume \"コールドスリープ\" -25 years Document-",
+        "titleZh": "Perfume \"Cold Sleep\" -25 years Document-",
         "titleEn": "Perfume \"コールドスリープ\" -25 years Document-",
         "releaseDate": "2026-09-24",
         "releaseYear": "2026",
@@ -23356,7 +23367,7 @@
         "origLang": "ja",
         "origTitle": "Perfume \"コールドスリープ\" -25 years Document-",
         "platforms": [],
-        "popularity": 0.9344,
+        "popularity": 0.8368,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -24169,7 +24180,7 @@
         "origLang": "en",
         "origTitle": "LINKIN PARK: UNSHATTER",
         "platforms": [],
-        "popularity": 2.2551,
+        "popularity": 2.4292,
         "imdbId": "tt43442522",
         "countries": [
           "United States of America",
@@ -24743,7 +24754,7 @@
         "origLang": "en",
         "origTitle": "Verity",
         "platforms": [],
-        "popularity": 8.997,
+        "popularity": 10.2018,
         "imdbId": "tt32261958",
         "countries": [
           "United States of America"
@@ -24857,7 +24868,7 @@
         "synopsis": "俄羅斯教師祕密記錄在烏俄戰爭期間，小鎮學校成了徵兵中心的過程，帶出教育工作者在軍事化背景下面臨的道德困境。",
         "imdb": "7.9",
         "rt": "100%",
-        "mc": "79",
+        "mc": "80",
         "ratingMeta": {
           "imdb": {
             "source": "omdb",
@@ -24865,14 +24876,14 @@
             "lastChanged": "2026-08-15T15:09:36.097690+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
+            "source": "mdblist",
+            "votes": 52,
             "lastChanged": "2026-08-15T15:09:36.097690+08:00"
           },
           "mc": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-10T07:30:34.975113+08:00"
+            "source": "mdblist",
+            "votes": 13,
+            "lastChanged": "2026-09-10T11:49:35.950461+08:00"
           }
         },
         "trailerKey": "CLNG8B60APk",
@@ -25326,7 +25337,7 @@
         "origLang": "fr",
         "origTitle": "En nous",
         "platforms": [],
-        "popularity": 2.5743,
+        "popularity": 2.762,
         "imdbId": "tt37964027",
         "countries": [
           "France"
@@ -25416,7 +25427,7 @@
         "origLang": "zh",
         "origTitle": "遠離祖靈的孩子",
         "platforms": [],
-        "popularity": 0.4117,
+        "popularity": 0.4104,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -25495,7 +25506,7 @@
         "origLang": "zh",
         "origTitle": "人吶，為什麼要跑步？",
         "platforms": [],
-        "popularity": 0.5923,
+        "popularity": 0.6502,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -25555,7 +25566,7 @@
           "劇情",
           "驚悚"
         ],
-        "duration": "",
+        "duration": 112,
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -25666,7 +25677,7 @@
           "United States of America"
         ],
         "detail": {
-          "duration": "",
+          "duration": 112,
           "genres": [
             "劇情",
             "驚悚"
@@ -25842,7 +25853,7 @@
         "origLang": "ja",
         "origTitle": "映画 すみっコぐらし 空の王国とふたりのコ",
         "platforms": [],
-        "popularity": 1.1914,
+        "popularity": 1.0588,
         "imdbId": "tt38859765",
         "countries": [
           "Japan"
@@ -26360,7 +26371,7 @@
         "origLang": "en",
         "origTitle": "Street Fighter",
         "platforms": [],
-        "popularity": 13.5998,
+        "popularity": 13.2655,
         "imdbId": "tt27419420",
         "countries": [
           "Japan",
@@ -26570,7 +26581,7 @@
         "origLang": "en",
         "origTitle": "Whalefall",
         "platforms": [],
-        "popularity": 6.5369,
+        "popularity": 6.3589,
         "imdbId": "tt28535715",
         "countries": [
           "United States of America"
@@ -26781,7 +26792,7 @@
         "origLang": "en",
         "origTitle": "Virginia Woolf's Night & Day",
         "platforms": [],
-        "popularity": 3.9173,
+        "popularity": 3.4759,
         "imdbId": "tt27802226",
         "countries": [
           "United Kingdom",
@@ -27006,7 +27017,7 @@
         "origLang": "zh",
         "origTitle": "沙央",
         "platforms": [],
-        "popularity": 0.7037,
+        "popularity": 0.6746,
         "imdbId": null,
         "countries": [
           "Taiwan",
@@ -27283,7 +27294,7 @@
         "origLang": "ja",
         "origTitle": "それいけ！アンパンマン　パンタンと約束の星",
         "platforms": [],
-        "popularity": 0.9025,
+        "popularity": 0.927,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -27845,7 +27856,7 @@
         "origLang": "en",
         "origTitle": "Klara and the Sun",
         "platforms": [],
-        "popularity": 4.0729,
+        "popularity": 4.4929,
         "imdbId": "tt14371256",
         "countries": [
           "New Zealand",
@@ -28025,7 +28036,7 @@
         "origLang": "zh",
         "origTitle": "歡迎來到朵莉之家",
         "platforms": [],
-        "popularity": 1.1085,
+        "popularity": 1.1217,
         "imdbId": "tt37038996",
         "countries": [
           "Taiwan"
@@ -28146,7 +28157,7 @@
         "origLang": "zh",
         "origTitle": "世紀初戀 楊麗花",
         "platforms": [],
-        "popularity": 1.0946,
+        "popularity": 1.3969,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -28306,7 +28317,7 @@
         "origLang": "ja",
         "origTitle": "マッチング TRUE LOVE",
         "platforms": [],
-        "popularity": 2.8615,
+        "popularity": 2.702,
         "imdbId": null,
         "countries": [
           "Japan"
@@ -28442,7 +28453,7 @@
           "恐怖",
           "動作"
         ],
-        "duration": 119,
+        "duration": 135,
         "synopsis": "",
         "imdb": "",
         "rt": "",
@@ -28466,14 +28477,14 @@
             "photo": "https://image.tmdb.org/t/p/w500/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
           },
           {
-            "name": "青木崇高",
-            "char": "Sosaku Tachibana",
-            "photo": "https://image.tmdb.org/t/p/w500/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+            "name": "佐佐木藏之介",
+            "char": "Seiji Akitsu",
+            "photo": "https://image.tmdb.org/t/p/w500/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
           },
           {
-            "name": "吉岡秀隆",
-            "char": "Kenji Noda",
-            "photo": "https://image.tmdb.org/t/p/w500/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+            "name": "國村隼",
+            "char": "",
+            "photo": "https://image.tmdb.org/t/p/w500/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
           },
           {
             "name": "田中美央",
@@ -28481,19 +28492,14 @@
             "photo": "https://image.tmdb.org/t/p/w500/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg"
           },
           {
-            "name": "永谷咲笑",
-            "char": "Akiko",
-            "photo": "https://image.tmdb.org/t/p/w500/qiIizEalCI14Ztt9uXFVXqxecEO.jpg"
-          },
-          {
-            "name": "佐佐木藏之介",
-            "char": "Seiji Akitsu",
-            "photo": "https://image.tmdb.org/t/p/w500/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
-          },
-          {
             "name": "安藤櫻",
             "char": "Sumiko Ota",
             "photo": "https://image.tmdb.org/t/p/w500/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+          },
+          {
+            "name": "長澤雅美",
+            "char": "Aoyama",
+            "photo": "https://image.tmdb.org/t/p/w500/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
           },
           {
             "name": "田中泯",
@@ -28501,14 +28507,24 @@
             "photo": "https://image.tmdb.org/t/p/w500/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg"
           },
           {
+            "name": "吉岡秀隆",
+            "char": "Kenji Noda",
+            "photo": "https://image.tmdb.org/t/p/w500/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+          },
+          {
+            "name": "青木崇高",
+            "char": "Sosaku Tachibana",
+            "photo": "https://image.tmdb.org/t/p/w500/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+          },
+          {
+            "name": "永谷咲笑",
+            "char": "Akiko",
+            "photo": "https://image.tmdb.org/t/p/w500/qiIizEalCI14Ztt9uXFVXqxecEO.jpg"
+          },
+          {
             "name": "Wes Wing",
             "char": "",
             "photo": null
-          },
-          {
-            "name": "長澤雅美",
-            "char": "",
-            "photo": "https://image.tmdb.org/t/p/w500/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
           }
         ],
         "crew": [
@@ -28523,17 +28539,17 @@
         ],
         "budget": 0,
         "revenue": 0,
-        "status": "In Production",
+        "status": "Post Production",
         "origLang": "ja",
         "origTitle": "ゴジラ-0.0",
         "platforms": [],
-        "popularity": 9.373,
+        "popularity": 14.828,
         "imdbId": "tt34384661",
         "countries": [
           "Japan"
         ],
         "detail": {
-          "duration": 119,
+          "duration": 135,
           "genres": [
             "科幻",
             "恐怖",
@@ -28565,14 +28581,14 @@
               "photo": "https://image.tmdb.org/t/p/w500/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
             },
             {
-              "name": "青木崇高",
-              "char": "Sosaku Tachibana",
-              "photo": "https://image.tmdb.org/t/p/w500/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+              "name": "佐佐木藏之介",
+              "char": "Seiji Akitsu",
+              "photo": "https://image.tmdb.org/t/p/w500/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
             },
             {
-              "name": "吉岡秀隆",
-              "char": "Kenji Noda",
-              "photo": "https://image.tmdb.org/t/p/w500/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+              "name": "國村隼",
+              "char": "",
+              "photo": "https://image.tmdb.org/t/p/w500/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
             },
             {
               "name": "田中美央",
@@ -28580,19 +28596,14 @@
               "photo": "https://image.tmdb.org/t/p/w500/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg"
             },
             {
-              "name": "永谷咲笑",
-              "char": "Akiko",
-              "photo": "https://image.tmdb.org/t/p/w500/qiIizEalCI14Ztt9uXFVXqxecEO.jpg"
-            },
-            {
-              "name": "佐佐木藏之介",
-              "char": "Seiji Akitsu",
-              "photo": "https://image.tmdb.org/t/p/w500/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
-            },
-            {
               "name": "安藤櫻",
               "char": "Sumiko Ota",
               "photo": "https://image.tmdb.org/t/p/w500/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+            },
+            {
+              "name": "長澤雅美",
+              "char": "Aoyama",
+              "photo": "https://image.tmdb.org/t/p/w500/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
             },
             {
               "name": "田中泯",
@@ -28600,14 +28611,24 @@
               "photo": "https://image.tmdb.org/t/p/w500/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg"
             },
             {
+              "name": "吉岡秀隆",
+              "char": "Kenji Noda",
+              "photo": "https://image.tmdb.org/t/p/w500/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+            },
+            {
+              "name": "青木崇高",
+              "char": "Sosaku Tachibana",
+              "photo": "https://image.tmdb.org/t/p/w500/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+            },
+            {
+              "name": "永谷咲笑",
+              "char": "Akiko",
+              "photo": "https://image.tmdb.org/t/p/w500/qiIizEalCI14Ztt9uXFVXqxecEO.jpg"
+            },
+            {
               "name": "Wes Wing",
               "char": "",
               "photo": null
-            },
-            {
-              "name": "長澤雅美",
-              "char": "",
-              "photo": "https://image.tmdb.org/t/p/w500/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
             }
           ],
           "crew": [
@@ -28622,7 +28643,7 @@
           ],
           "budget": 0,
           "revenue": 0,
-          "status": "In Production",
+          "status": "Post Production",
           "origLang": "ja",
           "origTitle": "ゴジラ-0.0",
           "platforms": []
@@ -28759,7 +28780,7 @@
         "origLang": "en",
         "origTitle": "How to Rob a Bank",
         "platforms": [],
-        "popularity": 5.5785,
+        "popularity": 5.4803,
         "imdbId": "tt35866986",
         "countries": [
           "United States of America"
@@ -29516,7 +29537,7 @@
           {
             "name": "瑪雅·霍克",
             "char": "Wiress",
-            "photo": "https://image.tmdb.org/t/p/w500/r4xI4vhPdkrrGBQrqW4cHf0sTqV.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
           },
           {
             "name": "莉莉·泰勒",
@@ -29584,7 +29605,7 @@
         "origLang": "en",
         "origTitle": "The Hunger Games: Sunrise on the Reaping",
         "platforms": [],
-        "popularity": 8.8448,
+        "popularity": 8.6401,
         "imdbId": "tt32558705",
         "countries": [
           "United States of America",
@@ -29641,7 +29662,7 @@
             {
               "name": "瑪雅·霍克",
               "char": "Wiress",
-              "photo": "https://image.tmdb.org/t/p/w500/r4xI4vhPdkrrGBQrqW4cHf0sTqV.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
             },
             {
               "name": "莉莉·泰勒",
@@ -30197,11 +30218,11 @@
         ],
         "crew": [
           {
-            "name": "Erica Rivinoja",
+            "name": "Alessandro Carloni",
             "job": "Screenplay"
           },
           {
-            "name": "Alessandro Carloni",
+            "name": "Erica Rivinoja",
             "job": "Screenplay"
           },
           {
@@ -30324,11 +30345,11 @@
           ],
           "crew": [
             {
-              "name": "Erica Rivinoja",
+              "name": "Alessandro Carloni",
               "job": "Screenplay"
             },
             {
-              "name": "Alessandro Carloni",
+              "name": "Erica Rivinoja",
               "job": "Screenplay"
             },
             {
@@ -30441,7 +30462,7 @@
         "origLang": "zh",
         "origTitle": "高寮大劫",
         "platforms": [],
-        "popularity": 1.6339,
+        "popularity": 1.6399,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -30653,7 +30674,7 @@
         "origLang": "en",
         "origTitle": "Violent Night 2",
         "platforms": [],
-        "popularity": 3.2797,
+        "popularity": 3.7506,
         "imdbId": "tt32432428",
         "countries": [
           "United States of America"
@@ -30904,7 +30925,7 @@
         "origLang": "en",
         "origTitle": "Avengers: Doomsday",
         "platforms": [],
-        "popularity": 43.5624,
+        "popularity": 43.6287,
         "imdbId": "tt21357150",
         "countries": [
           "United States of America"
@@ -31106,7 +31127,7 @@
           {
             "name": "羅伯·派汀森",
             "char": "Scytale",
-            "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
           },
           {
             "name": "哈維爾·巴登",
@@ -31218,7 +31239,7 @@
             {
               "name": "羅伯·派汀森",
               "char": "Scytale",
-              "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
             },
             {
               "name": "哈維爾·巴登",
@@ -31565,7 +31586,7 @@
         "origLang": "en",
         "origTitle": "Gatto",
         "platforms": [],
-        "popularity": 5.6193,
+        "popularity": 6.6415,
         "imdbId": "tt26443610",
         "countries": [
           "United States of America"

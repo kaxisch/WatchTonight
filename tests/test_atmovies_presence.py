@@ -847,6 +847,42 @@ class RefreshVisibilityTests(unittest.TestCase):
 
         self.assertTrue(weekly.should_keep_static_movie(movie, record))
 
+    def test_verified_cinema_candidate_is_not_filtered_for_having_streaming_platforms(self):
+        movie = {
+            "releaseDate": "2026-09-11",
+            "platforms": [{"name": "Catchplay"}],
+            "duration": 80,
+        }
+        cinema_record = {
+            "candidate_kind": "cinema",
+            "source_bucket": "next",
+            "atmovies_id": "",
+        }
+        atmovies_record_with_cinema_presence = {
+            "candidate_kind": "atmovies",
+            "source_bucket": "next",
+            "atmovies_id": "",
+            "cinema_present": "TRUE",
+        }
+
+        self.assertTrue(weekly.should_keep_static_movie(movie, cinema_record))
+        self.assertTrue(weekly.should_keep_static_movie(movie, atmovies_record_with_cinema_presence))
+
+    def test_tmdb_only_streaming_candidate_remains_excluded(self):
+        movie = {
+            "releaseDate": "2026-09-11",
+            "platforms": [{"name": "Catchplay"}],
+            "duration": 80,
+        }
+        record = {
+            "candidate_kind": "",
+            "source_bucket": "next",
+            "atmovies_id": "",
+            "cinema_present": "FALSE",
+        }
+
+        self.assertFalse(weekly.should_keep_static_movie(movie, record))
+
     @patch.object(refresh.time, "sleep")
     @patch.object(refresh, "load_current_whitelist_ids", return_value=[])
     @patch.object(refresh, "load_current_site_ids", return_value=[])

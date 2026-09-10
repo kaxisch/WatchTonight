@@ -1360,9 +1360,13 @@ def should_keep_static_movie(movie, record):
     release_date = parse_iso_date(movie.get("releaseDate", ""))
     if not release_date:
         return False
+    has_cinema_evidence = (
+        record.get("candidate_kind") in {"cinema", "rerelease"}
+        or str(record.get("cinema_present", "")).strip().lower() in {"1", "true", "yes", "y"}
+    )
     if (
         record.get("source_bucket") != "manual"
-        and record.get("candidate_kind") != "rerelease"
+        and not has_cinema_evidence
         and not record.get("atmovies_id")
         and movie.get("platforms")
     ):

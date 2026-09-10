@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:49:35.950461+08:00",
+  "generated_at": "2026-09-10T13:12:26.328574+08:00",
   "source": "api.themoviedb.org",
   "summary": {
     "now_count": 64,
@@ -748,8 +748,8 @@
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "rt": {
-            "source": "mdblist",
-            "votes": 249,
+            "source": "omdb",
+            "votes": 0,
             "lastChanged": "2026-08-29T23:34:02.047115+08:00"
           },
           "mc": {
@@ -1225,7 +1225,7 @@
         "duration": 157,
         "synopsis": "一處偏遠小鎮，一則「猛虎出沒」消息，瞬間引爆全鎮恐慌。警察哨所所長以為只是荒誕傳聞，卻在接連發生的離奇事件當中，逐漸察覺某種超乎常理的存在，正逐步逼近整座小鎮。當恐懼開始蔓延、人性逐漸失控，一場源於未知的危機，也隨之演變成一場橫跨生存、信仰與毀滅的宇宙級災難……",
         "imdb": "6.9",
-        "rt": "72%",
+        "rt": "79%",
         "mc": "67",
         "ratingMeta": {
           "imdb": {
@@ -1234,9 +1234,9 @@
             "lastChanged": "2026-09-07T13:12:11.716694+08:00"
           },
           "rt": {
-            "source": "omdb",
-            "votes": 0,
-            "lastChanged": "2026-09-10T07:30:34.975113+08:00"
+            "source": "mdblist",
+            "votes": 90,
+            "lastChanged": "2026-09-10T13:12:26.328574+08:00"
           },
           "mc": {
             "source": "mdblist",
@@ -1343,7 +1343,7 @@
         "origLang": "ko",
         "origTitle": "호프",
         "platforms": [],
-        "popularity": 37.0798,
+        "popularity": 45.822,
         "imdbId": "tt27369017",
         "countries": [
           "South Korea"
@@ -6327,7 +6327,7 @@
         "origLang": "en",
         "origTitle": "The Dog Stars",
         "platforms": [],
-        "popularity": 57.6304,
+        "popularity": 60.1949,
         "imdbId": "tt21285562",
         "countries": [
           "United States of America"
@@ -7359,7 +7359,7 @@
         "origLang": "ja",
         "origTitle": "劇場版 境界の彼方 -I'll Be Here- 未来篇",
         "platforms": [],
-        "popularity": 1.9348,
+        "popularity": 1.9848,
         "imdbId": "tt4539114",
         "countries": [
           "Japan"
@@ -9334,7 +9334,7 @@
         "origLang": "en",
         "origTitle": "Insidious: Out of the Further",
         "platforms": [],
-        "popularity": 50.0771,
+        "popularity": 48.3261,
         "imdbId": "tt32393988",
         "countries": [
           "United States of America"
@@ -14561,7 +14561,7 @@
         "origLang": "ja",
         "origTitle": "名探偵コナン ハイウェイの堕天使",
         "platforms": [],
-        "popularity": 15.6274,
+        "popularity": 16.0922,
         "imdbId": "tt39123115",
         "countries": [
           "Japan"
@@ -15959,7 +15959,7 @@
             "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
           }
         ],
-        "popularity": 3.5312,
+        "popularity": 3.2362,
         "imdbId": "tt0101765",
         "countries": [
           "France",
@@ -20270,7 +20270,7 @@
         "origLang": "en",
         "origTitle": "Scotty",
         "platforms": [],
-        "popularity": 0.855,
+        "popularity": 0.8303,
         "imdbId": "tt31549553",
         "countries": [
           "Germany"
@@ -20420,7 +20420,7 @@
         "origLang": "zh",
         "origTitle": "婚・紗・罩",
         "platforms": [],
-        "popularity": 0.4565,
+        "popularity": 0.4288,
         "imdbId": null,
         "countries": [
           "Taiwan"
@@ -21526,7 +21526,7 @@
         "origLang": "zh",
         "origTitle": "寂寞的十七歲",
         "platforms": [],
-        "popularity": 1.0825,
+        "popularity": 1.0358,
         "imdbId": "tt1286561",
         "countries": [
           "Taiwan"
@@ -21713,7 +21713,7 @@
         "origLang": "en",
         "origTitle": "National Theatre Live: Les Liaisons Dangereuses",
         "platforms": [],
-        "popularity": 1.5765,
+        "popularity": 1.9541,
         "imdbId": "tt40258746",
         "countries": [
           "United Kingdom"
@@ -22455,7 +22455,7 @@
         "origLang": "en",
         "origTitle": "Heart of the Beast",
         "platforms": [],
-        "popularity": 17.0891,
+        "popularity": 16.802,
         "imdbId": "tt7526136",
         "countries": [
           "United States of America"
@@ -22620,7 +22620,7 @@
         "origLang": "fr",
         "origTitle": "À bicyclette !",
         "platforms": [],
-        "popularity": 2.5417,
+        "popularity": 2.5267,
         "imdbId": "tt33298226",
         "countries": [
           "France"
@@ -22768,7 +22768,7 @@
           {
             "name": "羅伯·派汀森",
             "char": "Chris Hansen",
-            "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+            "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
           },
           {
             "name": "梅里特・維沃",
@@ -22887,7 +22887,7 @@
             {
               "name": "羅伯·派汀森",
               "char": "Chris Hansen",
-              "photo": "https://image.tmdb.org/t/p/w500/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+              "photo": "https://image.tmdb.org/t/p/w500/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
             },
             {
               "name": "梅里特・維沃",
@@ -23105,7 +23105,7 @@
         "origLang": "en",
         "origTitle": "Runner",
         "platforms": [],
-        "popularity": 32.0359,
+        "popularity": 34.2982,
         "imdbId": "tt31349844",
         "countries": [
           "United States of America",
@@ -23774,7 +23774,7 @@
         "origLang": "ja",
         "origTitle": "5秒で完全犯罪を生成する方法",
         "platforms": [],
-        "popularity": 1.5613,
+        "popularity": 1.5319,
         "imdbId": "tt42864901",
         "countries": [
           "Japan"
@@ -24352,7 +24352,7 @@
         "origLang": "ko",
         "origTitle": "부활남: 더 레드",
         "platforms": [],
-        "popularity": 3.0104,
+        "popularity": 3.2515,
         "imdbId": "tt29452783",
         "countries": [
           "South Korea"
@@ -29825,7 +29825,7 @@
         "origLang": "en",
         "origTitle": "Hexed",
         "platforms": [],
-        "popularity": 7.0099,
+        "popularity": 7.2036,
         "imdbId": "tt38077943",
         "countries": [
           "United States of America"
@@ -31411,7 +31411,7 @@
         "origLang": "en",
         "origTitle": "Ice Age: Boiling Point",
         "platforms": [],
-        "popularity": 10.3529,
+        "popularity": 9.7371,
         "imdbId": "tt34512981",
         "countries": [
           "United States of America"

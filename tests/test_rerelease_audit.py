@@ -83,7 +83,7 @@ class CinemaParserTests(unittest.TestCase):
             **health, "atmovies": True, "showtime": True, "ambassador": True,
         }, True))
 
-    def test_spot_taipei_keeps_presence_without_inventing_release_year(self):
+    def test_spot_taipei_infers_current_year_without_using_old_url_year(self):
         html = '''<table><tr><td><a class="abgne-zoom-out"
             href="../202202/m1/movie.html"><img></a></td></tr>
             <tr><td><table><tr><td class="movie_body_w3">9/4 - 熱映中</td></tr>
@@ -91,7 +91,7 @@ class CinemaParserTests(unittest.TestCase):
             <tr><td class="movie_title_eng">Test Film</td></tr></table></td></tr></table>'''
         movie = cinema.parse_spot_taipei(html, date(2026, 9, 9))[0]
         self.assertEqual(movie["title_zh"], "干擾 修復版")
-        self.assertEqual(movie["release_date_tw"], "")
+        self.assertEqual(movie["release_date_tw"], "2026-09-04")
         self.assertEqual(movie["status"], "now")
         self.assertEqual(movie["source"], "spot_taipei")
         self.assertIn("/202202/", movie["source_url"])
@@ -100,6 +100,32 @@ class CinemaParserTests(unittest.TestCase):
         )[0]
         self.assertEqual(upcoming["release_date_tw"], "2026-09-18")
         self.assertEqual(upcoming["status"], "soon")
+
+        kusama = cinema.parse_spot_taipei(
+            html.replace("9/4 - 熱映中", "9/11 - 本周新片"), date(2026, 9, 10)
+        )[0]
+        self.assertEqual(kusama["release_date_tw"], "2026-09-11")
+        self.assertEqual(kusama["status"], "soon")
+        self.assertEqual(cinema.tmdb_date_status(kusama["release_date_tw"], []), "missing")
+        self.assertEqual(cinema.tmdb_date_status(kusama["release_date_tw"], [{"date": "2018-09-07"}]), "mismatch")
+        self.assertEqual(cinema.tmdb_date_status(kusama["release_date_tw"], [{"date": "2026-09-11"}]), "confirmed")
+
+    def test_spot_taipei_month_day_handles_year_boundary_and_status(self):
+        cases = [
+            ("1/5 - 即將上映", date(2026, 12, 28), date(2027, 1, 5)),
+            ("12/25 - 熱映中", date(2027, 1, 2), date(2026, 12, 25)),
+            ("1/5 -", date(2026, 12, 28), date(2027, 1, 5)),
+            ("12/25 - 本周新片", date(2026, 12, 26), date(2026, 12, 25)),
+            ("9/11 - 熱映中", date(2026, 9, 11), date(2026, 9, 11)),
+            ("2018/9/7", date(2026, 9, 10), date(2018, 9, 7)),
+            ("2/29 - 即將上映", date(2027, 12, 28), date(2028, 2, 29)),
+            ("2/30", date(2026, 9, 10), None),
+            ("2026/2/29", date(2026, 9, 10), None),
+            ("上映日期待確認", date(2026, 9, 10), None),
+        ]
+        for value, today, expected in cases:
+            with self.subTest(value=value, today=today):
+                self.assertEqual(cinema.spot_taipei_release_date(value, today), expected)
 
     def test_spot_taipei_rejects_empty_or_broken_cards(self):
         for html in ("<html>Access denied</html>", '<td class="movie_title">電影</td>'):

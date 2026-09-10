@@ -292,8 +292,34 @@ def parse_spot_huashan(html, status="now", page_url=None):
     return movies
 
 
+def spot_taipei_release_date(date_text, today):
+    """目前片單的月日依放映狀態補最近年份；完整日期保留來源年份。"""
+    full_date = re.search(r"(?<!\d)(\d{4})/(\d{1,2})/(\d{1,2})(?!\d)", date_text)
+    if full_date:
+        try:
+            return date(*map(int, full_date.groups()))
+        except ValueError:
+            return None
+    month_day = re.search(r"(?<![\d/])(\d{1,2})/(\d{1,2})(?![\d/])", date_text)
+    if not month_day:
+        return None
+    month, day = map(int, month_day.groups())
+    candidates = []
+    for year in (today.year - 1, today.year, today.year + 1):
+        try:
+            candidate = date(year, month, day)
+        except ValueError:
+            continue
+        if "熱映中" in date_text and candidate > today:
+            continue
+        if "即將上映" in date_text and candidate < today:
+            continue
+        candidates.append(candidate)
+    return min(candidates, key=lambda value: (abs((value - today).days), value), default=None)
+
+
 def parse_spot_taipei(html, today=None):
-    """解析光點台北目前片單；只有月日的標示不推測年份。"""
+    """解析光點台北目前片單，為只有月日的上映標示補最近合理年份。"""
     today = today or date.today()
     soup = BeautifulSoup(html, "html.parser")
     movies = []
@@ -306,8 +332,7 @@ def parse_spot_taipei(html, today=None):
         english = card.select_one(".movie_title_eng")
         date_node = card.select_one(".movie_body_w3")
         date_text = date_node.get_text(" ", strip=True) if date_node else ""
-        match = re.search(r"(20\d{2})/(\d{1,2})/(\d{1,2})", date_text)
-        release_date = date(*map(int, match.groups())) if match else None
+        release_date = spot_taipei_release_date(date_text, today)
         # 官網詳細頁路徑可能沿用舊年份，不可當作本次上映年份。
         movies.append({
             "title_zh": title.get_text(" ", strip=True),
